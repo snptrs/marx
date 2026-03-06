@@ -1,0 +1,24 @@
+---
+layout: default.vto
+pagination:
+    data: bookmarkIndex.tags
+    size: 1
+    alias: tagPage
+permalink: "/tags/{{ tagPage.slug }}/"
+eleventyComputed:
+    title: "{{ tagPage.name }}"
+---
+
+<div class="py-10 px-6 mx-auto max-w-2xl" data-pagefind-body>
+  {{
+    include "partials/tag-grid.vto" { tags: bookmarkIndex.tags, activeSlug: tagPage.slug }
+  }}
+  <div class="mt-8">
+    {{ for index, bookmark of tagPage.bookmarks }}
+      {{ include "partials/bookmark-item.vto" { bookmark } }}
+      {{ if index < tagPage.bookmarks.length - 1 }}
+        <hr class="border-gray-700">
+      {{ /if }}
+    {{ /for }}
+  </div>
+</div>
