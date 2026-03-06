@@ -1,0 +1,5 @@
+{
+  "layout": "post.vto",
+  "tags": "posts",
+  "permalink": "/{{ page.fileSlug }}/"
+}
