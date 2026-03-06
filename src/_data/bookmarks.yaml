@@ -1,16 +1,159 @@
-- url: https://www.11ty.dev/docs/
-  title: Eleventy Documentation
-  tags: [Eleventy, Static Sites]
-  saved: 2026-03-06
-  description: Official documentation for the Eleventy static site generator.
+- url: https://leancrew.com/all-this/2025/07/savin-links-to-tot/
+  title: Saving links to Tot - All this
+  tags: [automation]
+  saved: 2025-11-22
 
-- url: https://tailwindcss.com/docs
-  title: Tailwind CSS Documentation
-  tags: [CSS, Tailwind]
+- url: https://leancrew.com/all-this/2017/04/one-off-text-filtering-in-bbedit/
+  title: One-off text filtering in BBEdit - All this
+  tags: [text-editors]
+  saved: 2025-11-22
+
+- url: https://leancrew.com/all-this/2022/02/switching-safari-tabs-from-bbedit/
+  title: Switching Safari tabs from BBEdit - All this
+  tags: [text-editors]
+  saved: 2025-11-23
+
+- url: https://www.reddit.com/r/IpodClassic/comments/148nohs/podcasts_tab_not_appearing_in_ipod_page_in_macos/
+  title: "Podcasts tab not appearing in iPod page in MacOS Finder : r/IpodClassic"
+  tags: [tech]
+  saved: 2025-11-24
+
+- url: https://blip.net/
+  title: "Blip \u2013 The fastest way to send files"
+  tags: [apps]
+  saved: 2025-11-27
+
+- url: https://lingolingo.app/french-youtube-channels
+  title: YouTube Channels for Learning French - Recommended by Reddit
+  tags: [french]
+  saved: 2025-12-01
+
+- url: https://www.fizzy.do/
+  title: "Fizzy \u2014 Kanban as it should be. Not as it has been."
+  tags: [apps]
+  saved: 2025-12-06
+
+- url: https://practicaltypography.com/typography-in-ten-minutes.html
+  title: "Typography in ten minutes | Butterick's Practical Typography"
+  tags: [design]
+  saved: 2025-12-11
+
+- url: https://www.vibekanban.com/
+  title: Vibe Kanban - Orchestrate AI Coding Agents
+  tags: [ai]
+  saved: 2025-12-21
+
+- url: https://www.timetimer.com/products/time-timer-mod-home-edition?variant=40119008100450
+  title: "Time Timer MOD\xAE - Home Edition - Colorful 60 Minute Visual Timer"
+  tags: [stuff]
+  saved: 2025-12-25
+
+- url: https://fr.verbific.com/en/
+  title: French Verb Conjugation Charts - Learn 1869+ Verbs | Verbific
+  tags: [french]
+  saved: 2026-01-21
+
+- url: https://www.alwaystwisted.com/relicss/
+  title: ReliCSS - Detect CSS Hacks & Modernise Your Code
+  tags: [dev]
+  saved: 2026-01-29
+
+- url: https://nolt.io/
+  title: "Nolt \xB7 Feedback boards your users will love"
+  tags: [dev]
+  saved: 2026-01-31
+
+- url: https://abetusk.github.io/neatocal/
+  title: Neato Calendar
+  tags: [apps]
+  saved: 2026-02-01
+
+- url: https://kottke.org/26/02/times-new-resistance
+  title: Times New Resistance
+  tags: [design]
+  saved: 2026-02-14
+
+- url: https://vercel.com/academy/shadcn-ui
+  title: React UI with shadcn/ui + Radix + Tailwind | Vercel Academy
+  tags: [dev]
+  saved: 2026-02-16
+
+- url: https://www.robertstephens.com/blog/the-venereal-game/
+  title: The Venereal Game | Robert Stephens
+  tags: [misc]
+  saved: 2026-02-19
+
+- url: https://dev.to/ridermansb/how-i-use-ai-raycast-and-lazygit-to-help-me-write-better-commit-messages-55g1
+  title: How I use AI, Raycast, and Lazygit to help me write better commit messages - DEV Community
+  tags: [dev]
+  saved: 2026-02-25
+
+- url: https://www.humankode.com/eleventy/how-to-set-up-tailwind-4-with-eleventy-3/
+  title: How To Set Up Tailwind 4 With Eleventy 3
+  tags: [dev]
+  saved: 2026-02-28
+
+- url: https://decapcms.org/docs/install-decap-cms/
+  title: 1. Install Decap CMS | Decap CMS | Open-Source Content Management System
+  tags: [dev]
+  saved: 2026-03-01
+
+- url: https://cron-job.org/en/
+  title: Free cronjobs - from minutely to once a year. - cron-job.org
+  tags: [dev]
+  saved: 2026-03-01
+
+- url: https://robinrendle.com/notes/the-song-of-linkedin/
+  title: "The Song of LinkedIn \u2022 Robin Rendle"
+  tags: [writing]
+  saved: 2026-03-01
+
+- url: https://protocolcards.com/
+  title: "Protocol Cards \u2014 Evidence-backed Nervous System Regulation"
+  tags: [misc]
+  saved: 2026-03-01
+
+- url: https://engineering.udacity.com/mastering-forms-in-next-js-15-and-react-19-e3d2d783946b
+  title: Mastering forms in Next.js 15 and React 19 | by Kolby Sisk | Udacity Eng & Data
+  tags: [dev]
+  saved: 2026-03-01
+
+- url: https://davidea.st/articles/11ty-tips-i-wish-i-knew-from-the-start/
+  title: David East - 11ty tips I wish I knew from the start
+  tags: [dev]
+  saved: 2026-03-03
+
+- url: https://world.hey.com/michelleharjani/building-hey-calendar-s-year-view-2e08d77d
+  title: "Building HEY Calendar's Year View"
+  tags: [design, dev]
+  saved: 2026-03-03
+
+- url: https://learneleventy.dev/
+  title: Learn Eleventy
+  tags: [dev]
+  saved: 2026-03-03
+
+- url: https://unsung.aresluna.org/mailbag-urls-as-ui/
+  title: "Mailbag: URLs as UI \u2013 Unsung"
+  tags: [design, dev]
+  saved: 2026-03-03
+
+- url: https://stretchmytimeoff.com/
+  title: Stretch My Time Off - Optimise Your Vacation Days
+  tags: [misc]
+  saved: 2026-03-04
+
+- url: https://yozo.ooo/
+  title: Home | YOZO
+  tags: [misc]
   saved: 2026-03-05
 
-- url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-  title: "MDN: JavaScript"
-  tags: [JavaScript]
-  saved: 2026-03-04
-  description: Comprehensive JavaScript reference and tutorials from Mozilla.
+- url: https://learneleventyfromscratch.com/
+  title: Learn Eleventy From Scratch | Learn Eleventy From Scratch
+  tags: [dev]
+  saved: 2026-03-05
+
+- url: https://github.com/5t3ph/eleventy-rss-reader/tree/main?tab=readme-ov-file
+  title: "5t3ph/eleventy-rss-reader: Create a personal RSS Reader using Eleventy. Review recordings to learn how it was built!"
+  tags: [dev]
+  saved: 2026-03-05
