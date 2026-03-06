@@ -1,0 +1,16 @@
+- url: https://www.11ty.dev/docs/
+  title: Eleventy Documentation
+  tags: [Eleventy, Static Sites]
+  saved: 2026-03-06
+  description: Official documentation for the Eleventy static site generator.
+
+- url: https://tailwindcss.com/docs
+  title: Tailwind CSS Documentation
+  tags: [CSS, Tailwind]
+  saved: 2026-03-05
+
+- url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  title: "MDN: JavaScript"
+  tags: [JavaScript]
+  saved: 2026-03-04
+  description: Comprehensive JavaScript reference and tutorials from Mozilla.

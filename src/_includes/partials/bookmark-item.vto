@@ -1,0 +1,18 @@
+<article>
+  <a
+    href="{{ bookmark.url }}"
+    target="_blank"
+    rel="noopener noreferrer"
+    class="flex gap-6 items-center py-5 group"
+  >
+    {{ include "partials/saved-date.vto" { date: bookmark.saved } }}
+    <h2
+      class="min-w-0 text-lg font-bold group-hover:text-gray-400 grow truncate"
+    >
+      {{ bookmark.title || bookmark.url }}
+    </h2>
+  </a>
+  {{ if bookmark.description }}
+    <p class="pb-4 -mt-3 text-sm text-gray-400">{{ bookmark.description }}</p>
+  {{ /if }}
+</article>

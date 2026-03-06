@@ -1,4 +1,3 @@
-import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 import fontAwesomePlugin from "@11ty/font-awesome";
 import tailwindcss from "@tailwindcss/postcss";
 import { execSync } from "child_process";
@@ -6,7 +5,6 @@ import cssnano from "cssnano";
 import { VentoPlugin } from "eleventy-plugin-vento";
 import fs from "fs";
 import path from "path";
-import markdownPlugin from "./config/markdown.js";
 import postcss from "postcss";
 
 export default function (eleventyConfig) {
@@ -43,19 +41,6 @@ export default function (eleventyConfig) {
       height: "1.25em",
     },
   });
-  eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
-    formats: ["svg", "avif", "webp", "png", "jpeg"],
-    svgShortCircuit: "size",
-    widths: ["auto"],
-    outputDir: ".cache/@11ty/img/",
-    urlPath: "/img/built/",
-    htmlOptions: {
-      imgAttributes: {
-        loading: "lazy",
-        decoding: "async",
-      },
-    },
-  });
 
   const processor = postcss([tailwindcss(), cssnano({ preset: "default" })]);
 
@@ -79,12 +64,6 @@ export default function (eleventyConfig) {
   });
 
   eleventyConfig.on("eleventy.after", () => {
-    fs.cpSync(
-      ".cache/@11ty/img/",
-      path.join(eleventyConfig.directories.output, "/img/built/"),
-      { recursive: true },
-    );
-
     execSync(`npx pagefind --site _site --glob "**/*.html"`, {
       encoding: "utf-8",
     });
@@ -95,14 +74,6 @@ export default function (eleventyConfig) {
     watch: ["_site/assets/styles/**/*.css"],
   });
 
-  eleventyConfig.addPreprocessor("drafts", "*", (data, _content) => {
-    if (data.draft && process.env.ELEVENTY_RUN_MODE === "build") {
-      return false;
-    }
-  });
-
-  eleventyConfig.addPlugin(markdownPlugin);
-  eleventyConfig.addPlugin(shortcodesPlugin);
   eleventyConfig.addPlugin(VentoPlugin, {
     autotrim: true,
   });
