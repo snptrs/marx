@@ -5,28 +5,5 @@ permalink: /
 ---
 
 <div class="py-10 px-6 mx-auto max-w-2xl">
-  <h1 class="mb-8 font-sans text-3xl font-bold">Tags</h1>
-  {{ for tagItem of bookmarkIndex.tags }}
-    <article>
-      <a
-        href="/tags/{{ tagItem.slug }}/"
-        class="flex gap-6 items-center py-5 border-b border-gray-700 last:border-0 group"
-      >
-        <h2
-          class="min-w-0 text-lg font-bold group-hover:text-gray-400 grow truncate"
-        >
-          {{ tagItem.name }}
-        </h2>
-        <span class="text-sm text-gray-400 shrink-0">{{
-            tagItem.bookmarks.length
-          }}
-          {{ if tagItem.bookmarks.length === 1 }}
-            bookmark
-          {{ else }}
-            bookmarks
-          {{ /if }}
-        </span>
-      </a>
-    </article>
-  {{ /for }}
+  {{ include "partials/tag-grid.vto" { tags: bookmarkIndex.tags } }}
 </div>
