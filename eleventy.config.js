@@ -1,3 +1,4 @@
+import { HtmlBasePlugin } from "@11ty/eleventy";
 import fontAwesomePlugin from "@11ty/font-awesome";
 import tailwindcss from "@tailwindcss/postcss";
 import { execSync } from "child_process";
@@ -74,6 +75,8 @@ export default function (eleventyConfig) {
     watch: ["_site/assets/styles/**/*.css"],
   });
 
+  eleventyConfig.addPlugin(HtmlBasePlugin);
+
   eleventyConfig.addPlugin(VentoPlugin, {
     autotrim: true,
   });
@@ -83,6 +86,7 @@ export default function (eleventyConfig) {
 
   return {
     dir: { input: "src", output: "_site" },
+    pathPrefix: process.env.ELEVENTY_PATH_PREFIX || "/",
     htmlTemplateEngine: "vto",
     markdownTemplateEngine: "vto",
     dataTemplateEngine: "vto",
