@@ -1,7 +1,7 @@
 <nav class="flex flex-wrap gap-2">
   {{ for tagItem of tags }}
     <a
-      href="/tags/{{ tagItem.slug }}/"
+      href="{{ if activeSlug === tagItem.slug }}/{{ else }}/tags/{{ tagItem.slug }}/{{ /if }}"
       class="
         px-3 py-1 text-sm font-bold rounded-full border transition-colors
         {{ if activeSlug === tagItem.slug }}
@@ -12,9 +12,13 @@
       "
     >
       {{ tagItem.name }}
-      <span class="font-normal text-xs opacity-70">{{
-        tagItem.bookmarks.length
-      }}</span>
+      {{ if activeSlug === tagItem.slug }}
+        <span class="font-normal text-xs">×</span>
+      {{ else }}
+        <span class="font-normal text-xs opacity-70">{{
+          tagItem.bookmarks.length
+        }}</span>
+      {{ /if }}
     </a>
   {{ /for }}
 </nav>
