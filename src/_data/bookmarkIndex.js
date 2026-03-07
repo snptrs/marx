@@ -27,5 +27,19 @@ export default function () {
     a.name.localeCompare(b.name, undefined, { sensitivity: "base" }),
   );
 
-  return { bookmarks, tags };
+  // Group tags by first letter for sidebar display
+  const tagsByLetter = {};
+  for (const tag of tags) {
+    const letter = tag.name.charAt(0).toUpperCase();
+    if (!tagsByLetter[letter]) {
+      tagsByLetter[letter] = [];
+    }
+    tagsByLetter[letter].push(tag);
+  }
+
+  const tagGroups = Object.keys(tagsByLetter)
+    .sort()
+    .map((letter) => ({ letter, tags: tagsByLetter[letter] }));
+
+  return { bookmarks, tags, tagGroups };
 }

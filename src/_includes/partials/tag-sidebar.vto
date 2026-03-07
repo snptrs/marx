@@ -1,0 +1,24 @@
+<div>
+  <h2 class="mb-4 text-lg font-bold text-gray-200">Tags</h2>
+  {{ if filtered }}
+    <div class="text-sm">
+      <a
+        href="/"
+        class="text-red-400 font-bold transition-colors hover:text-red-300"
+      >{{ activeTag }} <span class="text-xs">×</span></a>
+    </div>
+  {{ else }}
+    <div class="flex flex-col gap-3">
+      {{ for group of tagGroups }}
+        <div class="flex flex-wrap gap-x-3 gap-y-1 text-sm">
+          {{ for tagItem of group.tags }}
+            <a
+              href="/tags/{{ tagItem.slug }}/"
+              class="text-accent transition-colors hover:text-accent-dark"
+            >{{ tagItem.name }}</a>
+          {{ /for }}
+        </div>
+      {{ /for }}
+    </div>
+  {{ /if }}
+</div>

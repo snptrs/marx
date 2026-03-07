@@ -1,46 +1,33 @@
-<article class="grid grid-cols-[auto_1fr] gap-x-8 py-5">
+<article class="py-5">
   <a
     href="{{ bookmark.url }}"
     target="_blank"
     rel="noopener noreferrer"
-    class="flex items-center self-start pt-0.5 group"
+    class="block font-bold hover:text-gray-400 transition-colors truncate"
   >
-    {{ include "partials/saved-date.vto" { date: bookmark.saved } }}
+    {{ bookmark.title || bookmark.url }}
   </a>
-  <div class="min-w-0 flex flex-col gap-1.5">
+  <p class="text-xs text-gray-500 truncate">
     <a
       href="{{ bookmark.url }}"
       target="_blank"
       rel="noopener noreferrer"
-      class="group"
-    >
-      <h2 class="font-bold group-hover:text-gray-400 truncate">
-        {{ bookmark.title || bookmark.url }}
-      </h2>
-    </a>
-    <p class="text-xs text-gray-400">
-      <a
-        href="{{ bookmark.url }}"
-        target="_blank"
-        rel="noopener noreferrer"
-        class="group"
-      >
-        {{ bookmark.url }}</a>
-    </p>
-    {{ if bookmark.tags.length }}
-      <div class="flex flex-wrap gap-1.5">
-        {{ for tag of bookmark.tags }}
-          <a
-            href="/tags/{{ tag }}/"
-            class="px-2 py-0.5 text-xs font-bold rounded-full border border-gray-600 text-gray-400 hover:border-accent hover:text-accent transition-colors"
-          >
-            {{ tag }}
-          </a>
-        {{ /for }}
-      </div>
-    {{ /if }}
-    {{ if bookmark.description }}
-      <p class="mt-1 text-sm text-gray-400">{{ bookmark.description }}</p>
-    {{ /if }}
-  </div>
+    >{{ bookmark.url }}</a>
+  </p>
+  {{ if bookmark.tags.length }}
+    <div class="mt-1 text-sm text-accent">
+      {{ for tag of bookmark.tags }}
+        <a
+          href="/tags/{{ tag }}/"
+          class="hover:text-accent-dark transition-colors"
+        >#{{ tag }}</a>
+      {{ /for }}
+    </div>
+  {{ /if }}
+  {{ if bookmark.description }}
+    <p class="mt-1 text-sm text-gray-400">{{ bookmark.description }}</p>
+  {{ /if }}
+  <p class="mt-1 text-xs text-gray-500">
+    {{ bookmark.saved |> date("%-d %b %Y") }}
+  </p>
 </article>
