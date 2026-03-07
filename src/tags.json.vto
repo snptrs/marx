@@ -1,0 +1,10 @@
+---
+permalink: /tags.json
+---
+{{
+  JSON.stringify(
+    bookmarkIndex.tags.map((t) => ({ name: t.name, slug: t.slug })),
+    null,
+    2,
+  )
+}}
