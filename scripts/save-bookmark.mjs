@@ -16,6 +16,8 @@
 // Environment variables:
 //   GITHUB_TOKEN (required) — fine-grained PAT with contents:write on snptrs/marx
 
+import { execSync } from "child_process";
+
 const REPO = "snptrs/marx";
 const FILE_PATH = "src/_data/bookmarks.json";
 const API_BASE = `https://api.github.com/repos/${REPO}/contents/${FILE_PATH}`;
@@ -150,8 +152,17 @@ async function main() {
     saved: new Date().toISOString(),
   });
 
-  // 7. Serialize
-  const serialized = JSON.stringify(bookmarks, null, 2) + "\n";
+  // 7. Serialize and format with Prettier
+  let serialized;
+  try {
+    serialized = execSync("npx prettier --parser json", {
+      input: JSON.stringify(bookmarks, null, 2),
+      encoding: "utf8",
+      cwd: import.meta.dirname,
+    });
+  } catch {
+    die("Prettier formatting failed");
+  }
 
   // 8. Re-parse and validate output
   let reparsed;
