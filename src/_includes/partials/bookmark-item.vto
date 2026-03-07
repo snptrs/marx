@@ -18,6 +18,15 @@
         {{ bookmark.title || bookmark.url }}
       </h2>
     </a>
+    <p class="text-xs text-gray-400">
+      <a
+        href="{{ bookmark.url }}"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="group"
+      >
+        {{ bookmark.url }}</a>
+    </p>
     {{ if bookmark.tags.length }}
       <div class="flex flex-wrap gap-1.5">
         {{ for tag of bookmark.tags }}
