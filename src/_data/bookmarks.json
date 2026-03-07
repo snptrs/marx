@@ -1337,31 +1337,10 @@
     "saved": "2023-01-06T10:48:20.000Z"
   },
   {
-    "url": "https://brettterpstra.com/2019/03/07/the-ultimate-guide-to-duckduckgo/",
-    "title": "The ultimate guide to DuckDuckGo - BrettTerpstra.com",
-    "description": "Disclosure: DuckDuckGo has sponsored this site in the past. This post is not paid for (or even authorized by) DuckDuckGo.",
-    "tags": ["tech"],
-    "saved": "2023-01-06T22:57:54.000Z"
-  },
-  {
-    "url": "https://www.mojeek.com/",
-    "title": "Mojeek",
-    "description": "Mojeek is a web search engine that provides unbiased, fast, and relevant search results combined with a no tracking privacy policy.",
-    "tags": ["searchEngine"],
-    "saved": "2023-01-07T05:38:29.000Z"
-  },
-  {
-    "url": "https://marcus.se.net/grafana-ynab-datasource/",
-    "title": "Introduction | YNAB for Grafana",
-    "description": "<div",
-    "tags": [],
-    "saved": "2023-01-07T16:23:52.000Z"
-  },
-  {
     "url": "https://derekkedziora.com/",
     "title": "Derek Kedziora",
     "description": "The place where I procrastinate and occasionally write",
-    "tags": ["personalWebsites"],
+    "tags": ["personal-websites"],
     "saved": "2023-01-15T10:39:52.000Z"
   },
   {
@@ -1809,7 +1788,7 @@
     "url": "https://wiki.baty.net/",
     "title": "Jack Baty&#x27;s Wiki — A sort of Rudimentary Lathe",
     "description": "",
-    "tags": ["personalWebsites"],
+    "tags": ["personal-websites"],
     "saved": "2023-05-28T21:14:04.000Z"
   },
   {
@@ -3435,13 +3414,13 @@
   {
     "url": "https://www.alwaystwisted.com/relicss/",
     "title": "ReliCSS - Detect CSS Hacks & Modernise Your Code",
-    "tags": ["dev"],
+    "tags": ["coding"],
     "saved": "2026-01-29T12:00:00Z"
   },
   {
     "url": "https://nolt.io/",
     "title": "Nolt · Feedback boards your users will love",
-    "tags": ["dev"],
+    "tags": ["coding"],
     "saved": "2026-01-31T12:00:00Z"
   },
   {
@@ -3459,7 +3438,7 @@
   {
     "url": "https://vercel.com/academy/shadcn-ui",
     "title": "React UI with shadcn/ui + Radix + Tailwind | Vercel Academy",
-    "tags": ["dev"],
+    "tags": ["coding"],
     "saved": "2026-02-16T12:00:00Z"
   },
   {
@@ -3471,25 +3450,25 @@
   {
     "url": "https://dev.to/ridermansb/how-i-use-ai-raycast-and-lazygit-to-help-me-write-better-commit-messages-55g1",
     "title": "How I use AI, Raycast, and Lazygit to help me write better commit messages - DEV Community",
-    "tags": ["dev"],
+    "tags": ["coding"],
     "saved": "2026-02-25T12:00:00Z"
   },
   {
     "url": "https://www.humankode.com/eleventy/how-to-set-up-tailwind-4-with-eleventy-3/",
     "title": "How To Set Up Tailwind 4 With Eleventy 3",
-    "tags": ["dev"],
+    "tags": ["coding"],
     "saved": "2026-02-28T12:00:00Z"
   },
   {
     "url": "https://decapcms.org/docs/install-decap-cms/",
     "title": "1. Install Decap CMS | Decap CMS | Open-Source Content Management System",
-    "tags": ["dev"],
+    "tags": ["coding"],
     "saved": "2026-03-01T12:00:00Z"
   },
   {
     "url": "https://cron-job.org/en/",
     "title": "Free cronjobs - from minutely to once a year. - cron-job.org",
-    "tags": ["dev"],
+    "tags": ["coding"],
     "saved": "2026-03-01T12:01:00Z"
   },
   {
@@ -3507,31 +3486,31 @@
   {
     "url": "https://engineering.udacity.com/mastering-forms-in-next-js-15-and-react-19-e3d2d783946b",
     "title": "Mastering forms in Next.js 15 and React 19 | by Kolby Sisk | Udacity Eng & Data",
-    "tags": ["dev"],
+    "tags": ["coding"],
     "saved": "2026-03-01T12:04:00Z"
   },
   {
     "url": "https://davidea.st/articles/11ty-tips-i-wish-i-knew-from-the-start/",
     "title": "David East - 11ty tips I wish I knew from the start",
-    "tags": ["dev"],
+    "tags": ["coding"],
     "saved": "2026-03-03T12:00:00Z"
   },
   {
     "url": "https://world.hey.com/michelleharjani/building-hey-calendar-s-year-view-2e08d77d",
     "title": "Building HEY Calendar's Year View",
-    "tags": ["design", "dev"],
+    "tags": ["design", "coding"],
     "saved": "2026-03-03T12:01:00Z"
   },
   {
     "url": "https://learneleventy.dev/",
     "title": "Learn Eleventy",
-    "tags": ["dev"],
+    "tags": ["coding"],
     "saved": "2026-03-03T12:02:00Z"
   },
   {
     "url": "https://unsung.aresluna.org/mailbag-urls-as-ui/",
     "title": "Mailbag: URLs as UI – Unsung",
-    "tags": ["design", "dev"],
+    "tags": ["design", "coding"],
     "saved": "2026-03-03T12:03:00Z"
   },
   {
@@ -3549,33 +3528,33 @@
   {
     "url": "https://learneleventyfromscratch.com/",
     "title": "Learn Eleventy From Scratch | Learn Eleventy From Scratch",
-    "tags": ["dev"],
+    "tags": ["coding"],
     "saved": "2026-03-05T12:01:00Z"
   },
   {
     "url": "https://github.com/5t3ph/eleventy-rss-reader/tree/main?tab=readme-ov-file",
     "title": "5t3ph/eleventy-rss-reader: Create a personal RSS Reader using Eleventy. Review recordings to learn how it was built!",
-    "tags": ["dev"],
+    "tags": ["coding"],
     "saved": "2026-03-05T12:02:00Z"
   },
   {
     "url": "https://githubnext.com/projects/flat-data",
     "title": "GitHub Next | Flat Data",
-    "tags": ["dev"],
+    "tags": ["coding"],
     "saved": "2026-03-07T12:00:00Z"
   },
   {
     "url": "https://sweetfont.com/",
     "title": "Sweetfont — The sweetest way to find Google Fonts",
     "description": "",
-    "tags": ["design", "dev", "frontend"],
+    "tags": ["design", "coding", "frontend"],
     "saved": "2026-03-07T11:33:19Z"
   },
   {
     "url": "https://alpinejs.dev/",
     "title": "Alpine.js",
     "description": "",
-    "tags": ["dev", "frontend"],
+    "tags": ["coding", "frontend"],
     "saved": "2026-03-07T11:43:42Z"
   },
   {
