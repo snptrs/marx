@@ -1,8 +1,16 @@
-import bookmarks from "./bookmarks.json" with { type: "json" };
+import allBookmarks from "./bookmarks.json" with { type: "json" };
+
+function isExpired(bookmark, now = Date.now()) {
+  if (!bookmark.expires) return false;
+  const expiresAt = Date.parse(bookmark.expires);
+  return Number.isFinite(expiresAt) && expiresAt <= now;
+}
 
 export default function () {
-  // Sort bookmarks newest first
-  bookmarks.sort((a, b) => new Date(b.saved) - new Date(a.saved));
+  // Filter out expired bookmarks, then sort newest first
+  const bookmarks = allBookmarks
+    .filter((bookmark) => !isExpired(bookmark))
+    .sort((a, b) => new Date(b.saved) - new Date(a.saved));
 
   // Group by tag (case-insensitive)
   const tagMap = new Map();

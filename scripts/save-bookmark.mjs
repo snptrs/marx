@@ -7,7 +7,8 @@
 //     --url "https://example.com" \
 //     --title "Example" \
 //     --description "A description" \
-//     --tags "tech,apps"
+//     --tags "tech,apps" \
+//     --expires "2025-06-01T00:00:00.000Z"
 //
 // Usage (JSON on stdin):
 //   echo '{"url":"https://example.com","title":"Example","tags":"tech,apps"}' \
@@ -96,6 +97,7 @@ async function main() {
   const title = (input.title || "").trim();
   const description = (input.description || "").trim();
   const tags = parseTags(input.tags);
+  const expires = (input.expires || "").trim() || undefined;
 
   // 2. Validate input
   if (!process.env.GITHUB_TOKEN)
@@ -111,6 +113,10 @@ async function main() {
     new URL(url);
   } catch {
     die(`Invalid URL: ${url}`);
+  }
+
+  if (expires && !Number.isFinite(Date.parse(expires))) {
+    die(`Invalid expires date: ${expires}`);
   }
 
   // 3. Fetch current file from GitHub
@@ -144,13 +150,15 @@ async function main() {
   const countBefore = bookmarks.length;
 
   // 6. Append new bookmark
-  bookmarks.push({
+  const newBookmark = {
     url,
     title,
     description,
     tags,
     saved: new Date().toISOString(),
-  });
+  };
+  if (expires) newBookmark.expires = expires;
+  bookmarks.push(newBookmark);
 
   // 7. Serialize and format with Prettier
   let serialized;
