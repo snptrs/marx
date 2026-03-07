@@ -3591,5 +3591,13 @@
     "description": "Connect Clay, Stripe, GitHub, Discord, and more with ready-to-go recipes for vals",
     "tags": ["30 days"],
     "saved": "2026-03-07T22:16:27.366Z"
+  },
+  {
+    "url": "https://www.val.town/x/templates/openai-agents",
+    "title": "templates/openai-agents | Val Town",
+    "description": "Template to use the OpenAI Agents SDK",
+    "tags": ["30 days"],
+    "saved": "2026-03-07T22:17:35.240Z",
+    "expires": "2026-04-06T21:17:32.370Z"
   }
 ]
