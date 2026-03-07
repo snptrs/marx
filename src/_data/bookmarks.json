@@ -1,298 +1,3819 @@
 [
   {
+    "url": "https://marco.org/podcasting-microphones",
+    "title": "Podcasting Microphones Mega-Review – Marco.org",
+    "description": "",
+    "tags": [],
+    "saved": "2022-03-27T06:14:50.000Z"
+  },
+  {
+    "url": "https://github.com/Kinark/mac-hey",
+    "title": "GitHub - Kinark/mac-hey",
+    "description": "See: https://www.reddit.com/r/HeyEmail/comments/tcmy49/guide_to_speed_up_your_desktop_hey_app/",
+    "tags": ["tech"],
+    "saved": "2022-03-26T22:31:28.000Z"
+  },
+  {
+    "url": "http://www.nosdiet.com/",
+    "title": "No S Diet: No snacks, sweets, seconds, except on days that start with S.",
+    "description": "No snacks, No Sweets, No Seconds. Except on days that start with S.",
+    "tags": ["health"],
+    "saved": "2022-03-26T22:20:58.000Z"
+  },
+  {
+    "url": "https://russelldavies.typepad.com/planning/2022/03/so-each-and-every-week-these-leaders-have-a-brief-check-in-with-each-team-member-during-which-they-ask-two-simple-questions.html",
+    "title": "Questions, questions",
+    "description": "A correspondent writes to tell me that a good advisor asks good questions (as well as offers encouragement). Which is an excuse for this blog post - a small bundle of questions I've collected. This is probably the thing I've...",
+    "tags": [],
+    "saved": "2022-03-26T21:55:05.000Z"
+  },
+  {
+    "url": "https://kimjongunlookingatthings.com/",
+    "title": "Kim Jong Un Looking at Things",
+    "description": "@Baddiel I think this has to be the best website in the history of the internet",
+    "tags": ["funny"],
+    "saved": "2022-03-25T18:08:27.000Z"
+  },
+  {
+    "url": "https://www.getrevue.co/profile/bookfreak/issues/book-freak-issue-80-how-to-use-algorithms-to-make-better-decisions-1102061",
+    "title": "Book Freak - Issue #80: How to Use Algorithms to Make Better Decisions",
+    "description": "Book Freak - This issue of Book Freak presents four pieces of advice from Algorithms to Live By, by Brian Christian",
+    "tags": [],
+    "saved": "2022-03-25T10:11:51.000Z"
+  },
+  {
+    "url": "https://twitter.com/KopBlock205/status/1356659299431444486",
+    "title": "Escalators and old people",
+    "description": "",
+    "tags": ["funny"],
+    "saved": "2022-03-23T21:29:23.000Z"
+  },
+  {
+    "url": "https://twitter.com/grescoe/status/1505943631252779008",
+    "title": "Paternoster lifts",
+    "description": "",
+    "tags": [],
+    "saved": "2022-03-23T13:28:53.000Z"
+  },
+  {
+    "url": "https://shottr.cc/",
+    "title": "screenshot app for pixel professionals",
+    "description": "Shottr is a free macOS screenshot app with scrolling screenshots, OCR, annotation and measurement instruments.",
+    "tags": ["apps", "tech"],
+    "saved": "2022-03-22T23:51:42.000Z"
+  },
+  {
+    "url": "https://github.com/ArchiveBox/ArchiveBox",
+    "title": "ArchiveBox",
+    "description": "Self hosted web archiving tool",
+    "tags": ["tech"],
+    "saved": "2022-03-21T21:37:06.000Z"
+  },
+  {
+    "url": "https://astrojarred.github.io/puzzlepull/",
+    "title": "Puzzlepull",
+    "description": "Download crosswords in iPuz format",
+    "tags": ["crosswords"],
+    "saved": "2022-03-21T20:56:02.000Z"
+  },
+  {
+    "url": "https://theswitchboard.substack.com/p/-editorial-wishes-and-calendar-dreams?s=r",
+    "title": "Editorial Wishes &amp;amp; Calendar Dreams - by Julia Levy",
+    "description": "Creating an internal comms calendar",
+    "tags": ["comms"],
+    "saved": "2022-03-21T17:46:07.000Z"
+  },
+  {
+    "url": "https://techcommunity.microsoft.com/t5/yammer-blog/why-yammer-perspectives-from-community-professionals/ba-p/3157099",
+    "title": "Why Yammer? Perspectives from community professionals",
+    "description": "",
+    "tags": ["comms"],
+    "saved": "2022-03-21T17:31:10.000Z"
+  },
+  {
+    "url": "https://medium.com/on-human-centric-systems/your-team-needs-a-comms-manual-81d13402d165",
+    "title": "Your Team Needs a Comms Manual. When your colleagues send you a… | by Matt LeMay | On Human-Centric Systems | Medium",
+    "description": "",
+    "tags": ["comms"],
+    "saved": "2022-03-21T17:17:33.000Z"
+  },
+  {
+    "url": "https://scholarship.law.marquette.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=2239&context=mulr",
+    "title": "Women&#x27;s Name Rights",
+    "description": "",
+    "tags": ["article:surnames", "research"],
+    "saved": "2022-03-21T10:51:37.000Z"
+  },
+  {
+    "url": "https://web.archive.org/web/20070114123109/http://news.yahoo.com/s/ap/20070112/ap_on_re_us/take_my_wife_s_name",
+    "title": "Man files lawsuit to take wife&#x27;s name - Yahoo! News",
+    "description": "",
+    "tags": ["article:surnames", "research"],
+    "saved": "2022-03-21T10:51:37.000Z"
+  },
+  {
+    "url": "https://www.thoughtco.com/surname-meanings-and-origins-s2-1422408",
+    "title": "Where Do Surnames Come From?",
+    "description": "",
+    "tags": ["article:surnames", "research"],
+    "saved": "2022-03-21T10:51:37.000Z"
+  },
+  {
+    "url": "https://medium.com/@mbbroberg/i-have-a-maiden-name-58207e099e78#.qaporyf0l",
+    "title": "I Have a Maiden Name. An exploration of surnames, beliefs and… | by Matthew (Brender) Broberg | Medium",
+    "description": "",
+    "tags": ["article:surnames", "research"],
+    "saved": "2022-03-21T10:51:37.000Z"
+  },
+  {
+    "url": "https://www.nytimes.com/2015/06/28/upshot/about-the-maiden-name-analysis.html",
+    "title": "About the Maiden-Name Analysis - The New York Times",
+    "description": "",
+    "tags": ["article:surnames", "research"],
+    "saved": "2022-03-21T10:51:37.000Z"
+  },
+  {
+    "url": "https://www.bbc.com/worklife/article/20200921-why-do-women-still-change-their-names",
+    "title": "Why do women still change their names? - BBC Worklife",
+    "description": "",
+    "tags": ["article:surnames", "research"],
+    "saved": "2022-03-21T10:51:37.000Z"
+  },
+  {
+    "url": "https://poet.so/",
+    "title": "Create Beautiful Images of Twitter Posts",
+    "description": "Capture and share Twitter posts as beautiful images.",
+    "tags": ["comms", "tech"],
+    "saved": "2022-03-21T08:00:11.000Z"
+  },
+  {
+    "url": "https://github.com/gildas-lormeau/SingleFile#faq",
+    "title": "gildas-lormeau/SingleFile: Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file",
+    "description": "Replacement for webarchive?",
+    "tags": ["tech"],
+    "saved": "2022-03-21T06:59:12.000Z"
+  },
+  {
+    "url": "https://ocrmypdf.readthedocs.io/en/latest/introduction.html",
+    "title": "Introduction — ocrmypdf 13.4.0.post3+g13917c05 documentation",
+    "description": "",
+    "tags": ["tech"],
+    "saved": "2022-03-20T16:41:07.000Z"
+  },
+  {
+    "url": "https://twitter.com/christopherhope/status/1501830187008368641",
+    "title": "https://twitter.com/christopherhope/status/1501830187008368641",
+    "description": "People are choosing between heating and eating and the Tories voted twice against feeding hungry kids at Christmas during a pandemic",
+    "tags": [],
+    "saved": "2022-03-10T09:15:06.000Z"
+  },
+  {
+    "url": "https://violinistssupportukraine.com/",
+    "title": "(500) https://violinistssupportukraine.com/",
+    "description": "Watch: 94 violinists (incl. a sprinkling from the LSO) around the world accompany young violinists, some in basement shelters, in Ukraine. Read the story, donate and download the score to record your own contribution:",
+    "tags": [],
+    "saved": "2022-03-09T16:00:06.000Z"
+  },
+  {
+    "url": "https://twitter.com/bbcpress/status/1488799474185031687/video/1",
+    "title": "(400) https://twitter.com/bbcpress/status/1488799474185031687/video/1",
+    "description": "The @BBC is something that belongs to all of us. #ThisIsOurBBC",
+    "tags": [],
+    "saved": "2022-02-02T09:00:29.000Z"
+  },
+  {
+    "url": "https://twitter.com/davidschneider/status/1483201432367030275",
+    "title": "(400) https://twitter.com/davidschneider/status/1483201432367030275",
+    "description": "This is the really worrying stuff: they quietly chip away at democracy while all of us are staring at the Downing St dumpster fire. When Johnson goes, they’ll still be there, chipping chipping away.",
+    "tags": [],
+    "saved": "2022-01-18T03:48:03.000Z"
+  },
+  {
+    "url": "https://twitter.com/fionasstalker/status/1482657359063400448",
+    "title": "(400) https://twitter.com/fionasstalker/status/1482657359063400448",
+    "description": "One week into lockdown the BBC launched the biggest educational programme in its recent history to ensure children had learning support. No other platform could/would do that",
+    "tags": [],
+    "saved": "2022-01-17T00:50:50.000Z"
+  },
+  {
+    "url": "https://twitter.com/stephenfry/status/1482722192706220039/photo/1",
+    "title": "(400) https://twitter.com/stephenfry/status/1482722192706220039/photo/1",
+    "description": "Is there no shame, no shred of honour or duty? None? I suppose it’s naive of me to be shocked by and ashamed of what’s become of our parliamentary democracy.",
+    "tags": [],
+    "saved": "2022-01-16T14:31:33.000Z"
+  },
+  {
+    "url": "https://twitter.com/nadinedorries/status/1482622722228240387",
+    "title": "(400) https://twitter.com/nadinedorries/status/1482622722228240387",
+    "description": "I think it’s more likely to be your last rather than the BBC’s.",
+    "tags": [],
+    "saved": "2022-01-16T13:51:35.000Z"
+  },
+  {
+    "url": "https://twitter.com/jonathancoe/status/1482634757313863681/photo/1",
+    "title": "(400) https://twitter.com/jonathancoe/status/1482634757313863681/photo/1",
+    "description": "It's insane how these people bang on about 'global Britain' and how colossal we're going to be on the world stage, while doing everything they can to trash the core institutions our international reputation is based on.",
+    "tags": [],
+    "saved": "2022-01-16T08:44:06.000Z"
+  },
+  {
+    "url": "https://twitter.com/i_am_mill_i_am/status/1477219717593145348/photo/1",
+    "title": "(400) https://twitter.com/i_am_mill_i_am/status/1477219717593145348/photo/1",
+    "description": "I read [XXX] books in 2021. These were my favourites. >",
+    "tags": [],
+    "saved": "2022-01-01T10:06:40.000Z"
+  },
+  {
+    "url": "https://twitter.com/icklenellierose/status/1474091513705545734/photo/1",
+    "title": "(400) https://twitter.com/icklenellierose/status/1474091513705545734/photo/1",
+    "description": "Really enjoying the Tory ability to flaunt a fancy private education by naming characters and quoting lines from classic texts, revealing they have ZERO understanding of the meaning behind any of it.",
+    "tags": [],
+    "saved": "2021-12-23T18:56:18.000Z"
+  },
+  {
+    "url": "https://twitter.com/brandonleehoop/status/1473715769464823808/photo/1",
+    "title": "(400) https://twitter.com/brandonleehoop/status/1473715769464823808/photo/1",
+    "description": "Forget fintechs. This is actual innovation:",
+    "tags": [],
+    "saved": "2021-12-22T23:03:14.000Z"
+  },
+  {
+    "url": "https://m.soundcloud.com/zebsoanes/the-late-duchess-of-alba",
+    "title": "Stream episode The Late Duchess Of Alba by Zeb Soanes podcast | Listen online for free on SoundCloud",
+    "description": "The third example being a real-life audio accomplishment of @zebsoanes",
+    "tags": [],
+    "saved": "2021-12-05T22:19:47.000Z"
+  },
+  {
+    "url": "https://twitter.com/turnitup79/status/1448742799885615114",
+    "title": "(400) https://twitter.com/turnitup79/status/1448742799885615114",
+    "description": "",
+    "tags": [],
+    "saved": "2021-10-15T10:08:16.000Z"
+  },
+  {
+    "url": "https://twitter.com/jamabing/status/1448953864506462214/video/1",
+    "title": "(400) https://twitter.com/jamabing/status/1448953864506462214/video/1",
+    "description": "",
+    "tags": [],
+    "saved": "2021-10-15T10:08:16.000Z"
+  },
+  {
+    "url": "https://twitter.com/i_am_mill_i_am/status/1415731712454184967/photo/1",
+    "title": "(400) https://twitter.com/i_am_mill_i_am/status/1415731712454184967/photo/1",
+    "description": "I miss the 1990s.",
+    "tags": [],
+    "saved": "2021-07-15T17:55:17.000Z"
+  },
+  {
+    "url": "https://mashable.com/article/microsoft-bing-tank-man/",
+    "title": "Bing blocked searches for Chinese &#x27;Tank Man&#x27; photo, blamed human error",
+    "description": "China banned DuckDuckGo in 2014 and we have no plans to change that. This image belongs in search results and never disappeared from our main page. For the image tab we mainly use Bing and they fixed the error. We’re looking to supplement w/ more sources.",
+    "tags": [],
+    "saved": "2021-06-05T23:38:32.000Z"
+  },
+  {
+    "url": "https://news.sky.com/story/amp/brexit-supporting-wetherspoons-boss-calls-for-more-eu-migration-12322959",
+    "title": "Brexit-supporting Wetherspoons boss calls for more EU migration | Business News | Sky News",
+    "description": "Alexa - play me the sound of hollow laughter...",
+    "tags": [],
+    "saved": "2021-06-02T12:38:46.000Z"
+  },
+  {
+    "url": "https://twitter.com/Madz_Grant/status/1397477588054990850/photo/1",
+    "title": "(400) https://twitter.com/Madz_Grant/status/1397477588054990850/photo/1",
+    "description": "\"You weren’t just *a person* in Number 10… your title was the chief adviser\"",
+    "tags": [],
+    "saved": "2021-05-26T08:59:55.000Z"
+  },
+  {
+    "url": "https://twitter.com/JimMFelton/status/1396946707628298246/photo/1",
+    "title": "(400) https://twitter.com/JimMFelton/status/1396946707628298246/photo/1",
+    "description": "Two absolute heroes 👏",
+    "tags": [],
+    "saved": "2021-05-24T21:50:23.000Z"
+  },
+  {
+    "url": "https://twitter.com/NoContextBrits/status/1396826743730806785/photo/1",
+    "title": "(400) https://twitter.com/NoContextBrits/status/1396826743730806785/photo/1",
+    "description": "Looks like Sideshow Bob is back on the loose.",
+    "tags": [],
+    "saved": "2021-05-24T17:53:42.000Z"
+  },
+  {
+    "url": "https://twitter.com/ottojizzmark/status/1396161970039136260",
+    "title": "(400) https://twitter.com/ottojizzmark/status/1396161970039136260",
+    "description": "Deportation by Channel",
+    "tags": [],
+    "saved": "2021-05-22T23:23:19.000Z"
+  },
+  {
+    "url": "https://twitter.com/christinamartin/status/1395343133785923586",
+    "title": "(400) https://twitter.com/christinamartin/status/1395343133785923586",
+    "description": "If that doesn’t have an inscription saying “I told you I was I’ll” then they’ve missed a trick.",
+    "tags": [],
+    "saved": "2021-05-20T12:23:50.000Z"
+  },
+  {
+    "url": "https://twitter.com/Wharton1965/status/1394230223047217152/photo/1",
+    "title": "(400) https://twitter.com/Wharton1965/status/1394230223047217152/photo/1",
+    "description": "@RSmythFreelance Lovely find. Though whenever I see one of these in a s/h shop, I always think of this bit from Simon Armitage:",
+    "tags": [],
+    "saved": "2021-05-17T13:56:03.000Z"
+  },
+  {
+    "url": "https://twitter.com/TheProfRog/status/1393984349515796480/photo/1",
+    "title": "(400) https://twitter.com/TheProfRog/status/1393984349515796480/photo/1",
+    "description": "When Prince Philip met Derrida (this week’s TLS)",
+    "tags": [],
+    "saved": "2021-05-17T00:39:02.000Z"
+  },
+  {
+    "url": "https://twitter.com/blackwelloxford/status/1393152942971162626/photo/1",
+    "title": "(400) https://twitter.com/blackwelloxford/status/1393152942971162626/photo/1",
+    "description": "We're really pleased to announce that Blackwell's have hired a full-time cycle courier for our local bike delivery. This is a new green delivery job in Oxford.",
+    "tags": [],
+    "saved": "2021-05-14T10:35:19.000Z"
+  },
+  {
+    "url": "https://twitter.com/hankgreen/status/1392662559233216514/photo/1",
+    "title": "(400) https://twitter.com/hankgreen/status/1392662559233216514/photo/1",
+    "description": "Venus fly traps have to put their flowers really far away from their traps so they don’t accidentally kill their pollinators and I love it so much.",
+    "tags": [],
+    "saved": "2021-05-13T06:06:43.000Z"
+  },
+  {
+    "url": "https://twitter.com/i_am_mill_i_am/status/1392065349730934784/photo/1",
+    "title": "(400) https://twitter.com/i_am_mill_i_am/status/1392065349730934784/photo/1",
+    "description": "Leonardo DiCaprio unrecognizable in first photos of new Scorsese film. (@CheTantos tribute tweet.)",
+    "tags": [],
+    "saved": "2021-05-11T17:33:37.000Z"
+  },
+  {
+    "url": "https://twitter.com/English_Channel/status/1390636319387303942/photo/1",
+    "title": "(400) https://twitter.com/English_Channel/status/1390636319387303942/photo/1",
+    "description": "first recorded sarcastic clap",
+    "tags": [],
+    "saved": "2021-05-07T11:55:09.000Z"
+  },
+  {
+    "url": "https://twitter.com/thenewbrunette/status/1388093944425242624/photo/1",
+    "title": "(400) https://twitter.com/thenewbrunette/status/1388093944425242624/photo/1",
+    "description": "Jesús, Mary and Joseph and the wee donkey.",
+    "tags": [],
+    "saved": "2021-04-30T15:32:40.000Z"
+  },
+  {
+    "url": "https://twitter.com/MsBHarrington/status/1388140227747848193/photo/1",
+    "title": "(400) https://twitter.com/MsBHarrington/status/1388140227747848193/photo/1",
+    "description": "Touché. kid. Touché.",
+    "tags": [],
+    "saved": "2021-04-30T14:36:35.000Z"
+  },
+  {
+    "url": "https://twitter.com/BCDreyer/status/1380879302598782982/photo/1",
+    "title": "(400) https://twitter.com/BCDreyer/status/1380879302598782982/photo/1",
+    "description": "Controversy!",
+    "tags": [],
+    "saved": "2021-04-10T20:44:15.000Z"
+  },
+  {
+    "url": "https://twitter.com/English_Channel/status/1376531639153614854/photo/1",
+    "title": "(400) https://twitter.com/English_Channel/status/1376531639153614854/photo/1",
+    "description": "Artist depiction of ‘mansplaining’",
+    "tags": [],
+    "saved": "2021-03-29T17:48:12.000Z"
+  },
+  {
+    "url": "https://twitter.com/OFalafel/status/1375370081518116865/photo/1",
+    "title": "(400) https://twitter.com/OFalafel/status/1375370081518116865/photo/1",
+    "description": "I see a little silhou-",
+    "tags": [],
+    "saved": "2021-03-26T08:52:35.000Z"
+  },
+  {
+    "url": "https://twitter.com/GillianMcKeith/status/1373280268530892805",
+    "title": "(400) https://twitter.com/GillianMcKeith/status/1373280268530892805",
+    "description": "Gillian McKeith: an unqualified success.",
+    "tags": [],
+    "saved": "2021-03-20T23:46:40.000Z"
+  },
+  {
+    "url": "https://www.oliverburkeman.com/so/07NQvRjrh#/main",
+    "title": "The Imperfectionist: Wisdom for 2021",
+    "description": "",
+    "tags": [],
+    "saved": "2021-01-01T15:55:32.000Z"
+  },
+  {
+    "url": "https://cleanshot.com/",
+    "title": "CleanShot X for Mac",
+    "description": "",
+    "tags": ["apps", "tech"],
+    "saved": "2020-10-11T07:01:06.000Z"
+  },
+  {
+    "url": "https://www.behance.net/gallery/93755381/Coronavirus-Logos",
+    "title": "Coronavirus Logos on Behance",
+    "description": "",
+    "tags": [],
+    "saved": "2020-03-22T07:51:49.000Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?feature=youtu.be&v=GBaHPND2QJg&app=desktop",
+    "title": "Som Sabadell flashmob - BANCO SABADELL - YouTube",
+    "description": "",
+    "tags": [],
+    "saved": "2020-03-13T07:38:37.000Z"
+  },
+  {
+    "url": "https://eunoia.world/",
+    "title": "Eunoia: Words that Don&#x27;t Translate",
+    "description": "",
+    "tags": [],
+    "saved": "2020-01-19T13:22:10.000Z"
+  },
+  {
+    "url": "https://stoptheclockdesign.com/occasions/",
+    "title": "Stop the Clock Design",
+    "description": "Greetings cards",
+    "tags": [],
+    "saved": "2020-01-02T22:12:56.000Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?feature=youtu.be&v=_GCcoaSq3x4&app=desktop",
+    "title": "Visiting a British Pub with BG - YouTube",
+    "description": "",
+    "tags": [],
+    "saved": "2019-11-30T18:22:33.000Z"
+  },
+  {
+    "url": "http://blog.hakanserce.com/post/outlook_automation_mac/",
+    "title": "Links to Outlook e-mails: how I integrate Todoist and Outlook",
+    "description": "",
+    "tags": ["tech"],
+    "saved": "2019-10-17T07:51:07.000Z"
+  },
+  {
+    "url": "https://web.hypothes.is/",
+    "title": "Hypothesis – The Internet, peer reviewed.",
+    "description": "Highlight web pages",
+    "tags": ["tech"],
+    "saved": "2019-09-15T11:09:27.000Z"
+  },
+  {
+    "url": "http://www.markwk.com/article-tracking-with-instapaper.html",
+    "title": "Instapaper: Empowering How I Read Articles with Highlights and Tracking - Mark Koester",
+    "description": "",
+    "tags": ["learning", "tech"],
+    "saved": "2019-09-09T21:46:12.000Z"
+  },
+  {
+    "url": "https://newsletterguide.org/templates/",
+    "title": "Newsletter Guide.org",
+    "description": "",
+    "tags": ["comms"],
+    "saved": "2019-08-07T11:15:20.000Z"
+  },
+  {
+    "url": "https://bobjessop.wordpress.com/2014/04/21/lectures-on-gramsci/",
+    "title": "Lectures on Gramsci | Bob Jessop",
+    "description": "",
+    "tags": ["learning", "marxism"],
+    "saved": "2019-08-04T23:33:40.000Z"
+  },
+  {
+    "url": "https://twitter.com/hayfestival/status/1143428125692502018/photo/1",
+    "title": "(400) https://twitter.com/hayfestival/status/1143428125692502018/photo/1",
+    "description": "RT @hayfestival: \"We have now sunk to a depth at which restatement of the obvious is the first duty of intelligent men\" - George Orwell, born #OnThisDay in 1903",
+    "tags": [],
+    "saved": "2019-06-26T00:49:26.000Z"
+  },
+  {
+    "url": "https://rhinospike.com/",
+    "title": "RhinoSpike : Foreign Language Audio on Demand!",
+    "description": "",
+    "tags": ["language"],
+    "saved": "2019-02-17T19:44:54.000Z"
+  },
+  {
+    "url": "https://www.theverge.com/2019/2/12/18220289/language-learning-netflix-chrome-extension-two-subtitles",
+    "title": "This Chrome extension lets you learn a new language by watching Netflix - The Verge",
+    "description": "",
+    "tags": ["language", "learning"],
+    "saved": "2019-02-14T12:53:16.000Z"
+  },
+  {
+    "url": "https://curl.trillworks.com/#node",
+    "title": "Convert cURL command syntax to Python requests, Node.js, R code",
+    "description": "",
+    "tags": ["tech"],
+    "saved": "2018-09-28T22:01:04.000Z"
+  },
+  {
+    "url": "http://russelldavies.typepad.com/planning/2015/07/one-more-thing.html",
+    "title": "Russell Davies: One more thing",
+    "description": "Visuals in presentations",
+    "tags": [],
+    "saved": "2018-09-13T20:48:37.000Z"
+  },
+  {
+    "url": "http://saved.io/",
+    "title": "Saved.io - simple online bookmarks",
+    "description": "",
+    "tags": [],
+    "saved": "2018-09-04T10:56:50.000Z"
+  },
+  {
+    "url": "https://debuk.wordpress.com/2016/02/21/guys-and-dudes/",
+    "title": "Guys and dudes | language: a feminist guide",
+    "description": "",
+    "tags": ["comms", "language", "writing"],
+    "saved": "2018-09-02T15:32:12.000Z"
+  },
+  {
+    "url": "http://gender-decoder.katmatfield.com/about",
+    "title": "Gender Decoder: find subtle bias in job ads",
+    "description": "",
+    "tags": ["comms", "writing"],
+    "saved": "2018-09-02T07:46:28.000Z"
+  },
+  {
+    "url": "https://www.hiremorewomenintech.com/",
+    "title": "Hire More Women In Tech",
+    "description": "Fantastic examples of removing gender bias from job adverts",
+    "tags": ["comms", "writing"],
+    "saved": "2018-09-02T07:22:18.000Z"
+  },
+  {
+    "url": "https://www.theguardian.com/technology/shortcuts/2018/aug/27/re-attaching-for-convenience-passive-aggressive-email-phrases-poll",
+    "title": "‘Reattaching for convenience’: nine passive-aggressive email phrases that must end now | Technology | The Guardian",
+    "description": "",
+    "tags": [],
+    "saved": "2018-08-27T20:40:36.000Z"
+  },
+  {
+    "url": "https://www.shortstoryproject.com/",
+    "title": "The Short Story Project - Stories That Cross the Line",
+    "description": "",
+    "tags": ["literature"],
+    "saved": "2018-08-25T11:31:19.000Z"
+  },
+  {
+    "url": "https://medium.economist.com/why-keeping-the-economists-style-guide-up-to-date-is-a-battle-ff5f72c21de2?source=ifttt--------------1",
+    "title": "Why keeping The Economist’s style guide up to date is a battle",
+    "description": "Why keeping The Economist’s style guide up to date is a battle",
+    "tags": ["article", "writing"],
+    "saved": "2018-08-17T11:44:07.000Z"
+  },
+  {
+    "url": "https://uxdesign.cc/start-using-real-quotation-marks-in-ui-design-3343ef90d1f2?source=ifttt--------------1",
+    "title": "Start using real quotation marks in Design",
+    "description": "Start using real quotation marks in Design",
+    "tags": ["comms", "design"],
+    "saved": "2018-08-14T22:26:04.000Z"
+  },
+  {
+    "url": "https://medium.com/@ashleymayer/its-okay-that-your-startup-doesn-t-have-a-communications-strategy-e92f3016c4d9?source=ifttt--------------1",
+    "title": "It’s okay that your startup doesn’t have a communications strategy.",
+    "description": "It’s okay that your startup doesn’t have a communications strategy.",
+    "tags": ["comms"],
+    "saved": "2018-08-14T11:58:31.000Z"
+  },
+  {
+    "url": "https://hackernoon.com/17-small-but-powerful-shifts-every-company-should-make-in-their-messaging-d9bb33bb62ed",
+    "title": "17 Small But Powerful Shifts Every Company Should Make In Their Messaging",
+    "description": "",
+    "tags": ["comms"],
+    "saved": "2018-08-13T22:26:18.000Z"
+  },
+  {
+    "url": "https://github.com/trailofbits/algo",
+    "title": "trailofbits/algo: Set up a personal IPSEC VPN in the cloud",
+    "description": "",
+    "tags": ["tech"],
+    "saved": "2018-05-17T17:11:35.000Z"
+  },
+  {
+    "url": "https://github.com/gaomd/docker-ikev2-vpn-server",
+    "title": "gaomd/docker-ikev2-vpn-server: IKEv2 VPN Server on Docker, with .mobileconfig for iOS &amp;amp; macOS.",
+    "description": "",
+    "tags": ["tech"],
+    "saved": "2018-05-16T21:08:58.000Z"
+  },
+  {
+    "url": "https://github.com/klinquist/iOS-VPN-Autoconnect",
+    "title": "klinquist/iOS-VPN-Autoconnect: Generates a mobileconfig file to auto-connect to a VPN on your iOS device.",
+    "description": "",
+    "tags": ["tech"],
+    "saved": "2018-05-16T19:46:44.000Z"
+  },
+  {
+    "url": "https://thomas-witt.com/auto-connect-your-ios-device-to-a-vpn-when-joining-an-unknown-wifi-d1df8100c4ba",
+    "title": "Auto-Connect your iOS-Device to a VPN when joining an unknown WiFi",
+    "description": "",
+    "tags": ["tech"],
+    "saved": "2018-05-16T19:45:51.000Z"
+  },
+  {
+    "url": "https://www.thepolyglotdeveloper.com/2017/03/nginx-reverse-proxy-containerized-docker-applications/",
+    "title": "Use NGINX As A Reverse Proxy To Your Containerized Docker Applications",
+    "description": "Learn how to create several web application containers and access them behind an NGINX reverse proxy that is also a Docker container.",
+    "tags": ["tech"],
+    "saved": "2018-05-16T12:47:51.000Z"
+  },
+  {
+    "url": "https://github.com/hakimel/reveal.js/",
+    "title": "hakimel/reveal.js: The HTML Presentation Framework",
+    "description": "",
+    "tags": ["javascript"],
+    "saved": "2018-05-14T11:59:11.000Z"
+  },
+  {
+    "url": "https://www.tripmode.ch/",
+    "title": "Home | TripMode | Your mobile data savior.",
+    "description": "",
+    "tags": ["software"],
+    "saved": "2018-05-10T16:57:31.000Z"
+  },
+  {
+    "url": "http://www.unheap.com/?badge=all",
+    "title": "Unheap - A tidy Repository of jQuery Plugins &amp;amp; JavaScripts",
+    "description": "",
+    "tags": ["javascript"],
+    "saved": "2018-04-30T21:12:23.000Z"
+  },
+  {
+    "url": "http://youmightnotneedjquery.com/",
+    "title": "You Might Not Need jQuery",
+    "description": "",
+    "tags": ["javascript"],
+    "saved": "2018-04-29T15:18:26.000Z"
+  },
+  {
+    "url": "https://caniuse.com/",
+    "title": "Can I use... Support tables for HTML5, CSS3, etc",
+    "description": "",
+    "tags": ["javascript"],
+    "saved": "2018-04-29T15:04:41.000Z"
+  },
+  {
+    "url": "https://github.com/gordonmzhu/cheatsheet-js",
+    "title": "gordonmzhu/cheatsheet-js: A super condensed JavaScript this reference for Watch and Code students.",
+    "description": "",
+    "tags": ["javascript"],
+    "saved": "2018-04-28T11:01:44.000Z"
+  },
+  {
+    "url": "https://www.theguardian.com/news/2018/feb/06/talk-is-cheap-the-myth-of-the-focus-group",
+    "title": "Talk is cheap: the myth of the focus group | News | The Guardian",
+    "description": "The process looks like democracy in action, and most people enjoy participating. Yet focus groups are widely despised. The public resents the mediocre outcomes of a focus-grouped world, feeling that the culture of consultation dumbs down our politics, entertainment and just about everything else. The clients who commission focus groups to give feedback on a new product or political initiative resent the obligation to listen to ordinary, non-expert people, and often feel humiliated by their judgments. Everyone imagines the participants to be idiots.",
+    "tags": ["article"],
+    "saved": "2018-04-28T10:47:56.000Z"
+  },
+  {
+    "url": "https://blog.usejournal.com/net-promoter-score-considered-harmful-and-what-ux-professionals-can-do-about-it-fe7a132f4430?source=userActivityShare-440a04f2e862-1524905486",
+    "title": "Net Promoter Score Considered Harmful",
+    "description": "",
+    "tags": ["article"],
+    "saved": "2018-04-28T08:51:52.000Z"
+  },
+  {
+    "url": "http://www.typogui.de/",
+    "title": "A Pocket Guide to Master Every Day’s Typographic Adventures",
+    "description": "",
+    "tags": ["comms", "typography"],
+    "saved": "2018-04-14T15:42:16.000Z"
+  },
+  {
+    "url": "https://www.siteinspire.com/",
+    "title": "siteInspire - Web Design Inspiration",
+    "description": "A showcase of the best web design inspiration, featuring over 7,000 websites and  profiles of the digital agencies, designers and developers who made them.",
+    "tags": ["design", "tech"],
+    "saved": "2018-04-14T15:41:36.000Z"
+  },
+  {
+    "url": "http://www.thewriter.com/what-we-think/style-guide/",
+    "title": "Style guide | The Writer",
+    "description": "",
+    "tags": ["writing"],
+    "saved": "2018-03-31T09:54:07.000Z"
+  },
+  {
+    "url": "https://monzo.com/tone-of-voice/",
+    "title": "Monzo – Tone of Voice",
+    "description": "",
+    "tags": ["writing"],
+    "saved": "2018-03-31T09:47:23.000Z"
+  },
+  {
+    "url": "http://jessicaabel.com/pay-yourself-first-life-expanding-projects/",
+    "title": "How to escape panic mode and embrace your life-expanding projects. - Jessica Abel",
+    "description": "",
+    "tags": ["productivity"],
+    "saved": "2018-03-10T12:19:04.000Z"
+  },
+  {
+    "url": "http://www.proust-ink.com/course/info/",
+    "title": "Proust online course",
+    "description": "",
+    "tags": ["literature"],
+    "saved": "2018-02-04T11:57:59.000Z"
+  },
+  {
+    "url": "https://www.theguardian.com/news/2017/nov/23/from-inboxing-to-thought-showers-how-business-bullshit-took-over?CMP=Share_iOSApp_Other",
+    "title": "From inboxing to thought showers: how business bullshit took over",
+    "description": "One thing continued to puzzle me: why was it that so many people were paid to do this kind of empty work. One reason that David Graeber gives, in his book The Utopia of Rules, is rampant bureaucracy: there are more forms to be filled in, procedures to be followed and standards to be complied with than ever. Today, bureaucracy comes cloaked in the language of change. Organisations are full of people whose job is to create change for no real reason.",
+    "tags": ["writing"],
+    "saved": "2017-11-23T12:43:34.000Z"
+  },
+  {
+    "url": "https://www.theguardian.com/books/2017/oct/07/dont-press-send-new-rules-good-writing-sam-leith",
+    "title": "Don’t press send … The new rules for good writing in the 21st century | Books | The Guardian",
+    "description": "http://lnr.li/cniDT",
+    "tags": ["article", "language", "writing"],
+    "saved": "2017-10-07T16:50:06.000Z"
+  },
+  {
+    "url": "https://fr.forvo.com/",
+    "title": "Forvo : le guide de la prononciation. Tous les mots du monde prononcés par des locuteurs natifs",
+    "description": "",
+    "tags": ["language", "learning", "reference"],
+    "saved": "2017-08-14T20:51:51.000Z"
+  },
+  {
+    "url": "https://www.linguee.com/",
+    "title": "Linguee | Dictionary for German, French, Spanish, and more",
+    "description": "",
+    "tags": ["language", "learning", "reference"],
+    "saved": "2017-08-14T19:48:41.000Z"
+  },
+  {
+    "url": "https://www.supermemo.com/en/articles/20rules",
+    "title": "Effective learning: Twenty rules of formulating knowledge | SuperMemo.com",
+    "description": "",
+    "tags": ["language", "learning"],
+    "saved": "2017-08-14T19:30:40.000Z"
+  },
+  {
+    "url": "https://www.francaisauthentique.com/",
+    "title": "Parler le français facilement et rapidement",
+    "description": "",
+    "tags": ["language", "learning"],
+    "saved": "2017-08-13T21:02:57.000Z"
+  },
+  {
+    "url": "https://www.verbling.com/",
+    "title": "Verbling - The Modern Way to Learn a Language.",
+    "description": "",
+    "tags": ["language", "learning"],
+    "saved": "2017-08-13T19:27:53.000Z"
+  },
+  {
+    "url": "http://context.reverso.net/translation/",
+    "title": "Reverso Context | Translation in context - Arabic, German, Spanish, French, Hebrew, Italian, Dutch, Polish, Portuguese, Romanian, Russian, English",
+    "description": "",
+    "tags": ["language", "learning"],
+    "saved": "2017-08-13T19:24:45.000Z"
+  },
+  {
+    "url": "http://thehappyphilosopher.com/utility-happiness/",
+    "title": "Understanding the Relationship Between Utility, Happiness and Cost | The Happy Philosopher",
+    "description": "Most things we have serve a purpose. They do something, or have utility. This is their primary function. It is unlikely an item with no utility will bring us happiness. It first has to be useful.",
+    "tags": ["article"],
+    "saved": "2017-08-12T20:17:17.000Z"
+  },
+  {
+    "url": "https://www.lawlessfrench.com/",
+    "title": "Lawless French - Free French lessons and language tools from Laura K. Lawless, including verb conjugations and bilingual articles to help you improve your reading and listening comprehension.",
+    "description": "",
+    "tags": ["language", "learning"],
+    "saved": "2017-08-12T13:58:52.000Z"
+  },
+  {
+    "url": "https://www.laits.utexas.edu/tex/gr/",
+    "title": "Tex&#x27;s French grammar",
+    "description": "",
+    "tags": ["language", "learning"],
+    "saved": "2017-08-10T20:15:11.000Z"
+  },
+  {
+    "url": "http://commentconjuguer.com/",
+    "title": "Conjugaison Française - http://www.commentconjuguer.com",
+    "description": "French verb conjugator",
+    "tags": ["language", "learning"],
+    "saved": "2017-08-10T19:43:28.000Z"
+  },
+  {
+    "url": "https://www.lingq.com/learn/fr/web/feed",
+    "title": "LingQ Learning Languages Simply",
+    "description": "Like the concept, but you can't do much for free and the interface is a bit clunky.",
+    "tags": ["language", "learning"],
+    "saved": "2017-08-10T18:51:59.000Z"
+  },
+  {
+    "url": "http://kk.org/thetechnium/1000-true-fans/",
+    "title": "The Technium: 1,000 True Fans",
+    "description": "1,000 true fans is an alternative path to success other than stardom. Instead of trying to reach the narrow and unlikely peaks of platinum bestseller hits, blockbusters, and celebrity status, you can aim for direct connection with a thousand true fans. On your way, no matter how many fans you actually succeed in gaining, you’ll be surrounded not by faddish infatuation, but by genuine and true appreciation. It’s a much saner destiny to hope for. And you are much more likely to actually arrive there.",
+    "tags": ["article"],
+    "saved": "2017-06-22T07:43:58.000Z"
+  },
+  {
+    "url": "https://mobile.nytimes.com/2017/04/08/opinion/sunday/the-utter-uselessness-of-job-interviews.html?_r=0",
+    "title": "The Utter Uselessness of Job Interviews - NYTimes.com",
+    "description": "The key psychological insight here is that people have no trouble turning any information into a coherent narrative. This is true when, as in the case of my friend, the information (i.e., her tardiness) is incorrect. And this is true, as in our experiments, when the information is random. People can’t help seeing signals, even in noise.",
+    "tags": ["article"],
+    "saved": "2017-04-15T22:50:12.000Z"
+  },
+  {
+    "url": "http://thehappyphilosopher.com/how-understanding-the-marginal-utility-of-money-will-make-you-happier/",
+    "title": "How Understanding the Marginal Utility of Money Will Make you Happier | The Happy Philosopher",
+    "description": "To summarize: Each additional dollar acquired becomes less valuable because it brings us a smaller bit of utility than the one before it. Each unit of time we trade for that depreciating money is more precious.",
+    "tags": ["article"],
+    "saved": "2017-04-09T21:32:16.000Z"
+  },
+  {
+    "url": "http://www.macdrifter.com/2016/04/a-quick-tour-of-keyboard-maestro-fill-in-snippets.html",
+    "title": "A Quick Tour of Keyboard Maestro Fill-In Snippets",
+    "description": "",
+    "tags": [],
+    "saved": "2017-02-03T10:55:55.000Z"
+  },
+  {
+    "url": "https://t.co/6HzTFdOMXv",
+    "title": "Refugees poem",
+    "description": "RT @brian_bilston: My poem 'Refugees' for #refugeeswelcome",
+    "tags": [],
+    "saved": "2017-01-28T06:46:02.000Z"
+  },
+  {
+    "url": "https://www.rocketlanguages.com/italian/rocket-italian-premium.php",
+    "title": "Rocket Italian Premium Level 1 Beginners Italian Course",
+    "description": "",
+    "tags": ["language"],
+    "saved": "2017-01-07T16:52:53.000Z"
+  },
+  {
+    "url": "https://glossika.com/courses/fluency123/italian",
+    "title": "Glossika Language Training",
+    "description": "",
+    "tags": ["language", "learning"],
+    "saved": "2017-01-07T16:50:23.000Z"
+  },
+  {
+    "url": "https://bliubliu.com/en/",
+    "title": "Bliu Bliu - The Fun Way to Learn Languages",
+    "description": "",
+    "tags": ["language", "learning"],
+    "saved": "2017-01-07T16:35:12.000Z"
+  },
+  {
+    "url": "http://readlang.com/",
+    "title": "Readlang - Read, translate and supercharge your vocabulary",
+    "description": "",
+    "tags": ["language", "learning"],
+    "saved": "2017-01-07T16:35:03.000Z"
+  },
+  {
+    "url": "http://pca.st/aJLf",
+    "title": "No Platform - Seriously...",
+    "description": "Friday 18 November 2016 Andrew Hussey on the history of the 'no platform' debates raging on university campuses. More ways to listen",
+    "tags": ["podcast"],
+    "saved": "2016-11-26T11:15:01.000Z"
+  },
+  {
+    "url": "https://css-tricks.com/use-target_blank/",
+    "title": "When to use target=&#x27;blank&#x27; | CSS-Tricks",
+    "description": "Anchor links1 may have a target attribute which controls what happens when that link is clicked. One of the possible values of that attribute is _blank, which",
+    "tags": ["tech"],
+    "saved": "2016-11-01T19:15:47.000Z"
+  },
+  {
+    "url": "https://www.ablebits.com/office-addins-blog/2015/08/26/excel-compare-two-columns-matches-differences/#compare-two-columns",
+    "title": "Excel: Compare two columns for matches and differences",
+    "description": "",
+    "tags": ["tech"],
+    "saved": "2016-10-29T15:34:05.000Z"
+  },
+  {
+    "url": "https://webdesign.tutsplus.com/tutorials/creating-a-future-proof-responsive-email-without-media-queries--cms-23919",
+    "title": "Creating a Future-Proof Responsive Email Without Media Queries",
+    "description": "Using this method you can create an email that has responsiveness baked in to the layout, without any need for CSS or media queries in the <head>, so that even in the worst case scenario of...",
+    "tags": ["comms", "tech"],
+    "saved": "2016-10-07T19:04:51.000Z"
+  },
+  {
+    "url": "http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown",
+    "title": "Sustainable Authorship in Plain Text using Pandoc and Markdown | Programming Historian",
+    "description": "",
+    "tags": [],
+    "saved": "2016-09-10T23:16:32.000Z"
+  },
+  {
+    "url": "http://www.linux-magazine.com/Online/Features/Protect-your-Documents-with-GPG",
+    "title": "Protect your Documents with GPG » Linux Magazine",
+    "description": "",
+    "tags": ["tech"],
+    "saved": "2016-09-03T21:37:01.000Z"
+  },
+  {
+    "url": "https://github.com/JElchison/encrypt-tool",
+    "title": "JElchison/encrypt-tool: Bash script to encrypt/decrypt arbitrary files using OpenSSL. Useful for maintaining encrypted versions of files in the cloud (such as Dropbox), such that local plaintext edits never appear in Dropbox&#x27;s &amp;quot;previous versions&amp;quot; history.",
+    "description": "",
+    "tags": ["tech"],
+    "saved": "2016-09-03T14:27:07.000Z"
+  },
+  {
+    "url": "http://www.codelitt.com/blog/my-first-10-minutes-on-a-server-primer-for-securing-ubuntu/",
+    "title": "My First 10 Minutes On a Server - Primer for Securing Ubuntu",
+    "description": "",
+    "tags": ["tech"],
+    "saved": "2016-08-29T12:58:16.000Z"
+  },
+  {
+    "url": "https://github.com/drduh/OS-X-Security-and-Privacy-Guide",
+    "title": "drduh/OS-X-Security-and-Privacy-Guide: A practical guide to securing OS X",
+    "description": "",
+    "tags": [],
+    "saved": "2016-08-28T22:59:31.000Z"
+  },
+  {
+    "url": "http://messymatters.com/autonomy/",
+    "title": "For Love and/or Money: Financial Autonomy in Marriage | Messy Matters",
+    "description": "",
+    "tags": ["article"],
+    "saved": "2016-08-14T11:11:05.000Z"
+  },
+  {
+    "url": "http://pca.st/FnNQ",
+    "title": "The Camera Never Lies - Seriously...",
+    "description": "Friday 27 May 2016 Film-maker Molly Dineen examines the concept of truth in documentary.",
+    "tags": ["podcast"],
+    "saved": "2016-08-11T21:33:57.000Z"
+  },
+  {
+    "url": "https://www.theguardian.com/books/2016/aug/10/top-10-books-writers-should-read-dbc-pierre",
+    "title": "Top 10 books writers should read | Books | The Guardian",
+    "description": "",
+    "tags": ["writing"],
+    "saved": "2016-08-10T18:58:17.000Z"
+  },
+  {
+    "url": "http://www.lrb.co.uk/contributors/marghanita-laski",
+    "title": "Marghanita Laski · LRB",
+    "description": "",
+    "tags": ["research"],
+    "saved": "2016-08-08T10:31:01.000Z"
+  },
+  {
+    "url": "http://orlando.cambridge.org/public/svPeople?person_id=laskma",
+    "title": "Marghanita Laski © Orlando Project",
+    "description": "",
+    "tags": ["literature", "phd"],
+    "saved": "2016-08-04T08:50:56.000Z"
+  },
+  {
+    "url": "http://arts.uottawa.ca/writingcentre/en/hypergrammar",
+    "title": "HyperGrammar | The Writing Centre | University of Ottawa",
+    "description": "",
+    "tags": ["reference", "writing"],
+    "saved": "2016-07-04T10:33:41.000Z"
+  },
+  {
+    "url": "https://www.facebook.com/itvnews/videos/vb.148007467671/10153829429782672/?type=2&theater",
+    "title": "Geldof shouts at Farage",
+    "description": "",
+    "tags": ["funny"],
+    "saved": "2016-06-15T19:27:05.000Z"
+  },
+  {
+    "url": "http://www.thepoke.co.uk/2016/06/15/eyewitness-account-brexit-farage-geldof-flotilla-essential-must-read/",
+    "title": "This eyewitness account of the Brexit / Farage / Geldof Flotilla is an essential MUST READ | The Poke",
+    "description": "",
+    "tags": ["funny"],
+    "saved": "2016-06-15T19:26:46.000Z"
+  },
+  {
+    "url": "https://www.smashingmagazine.com/2015/08/understanding-critical-css/",
+    "title": "Understanding Critical CSS – Smashing Magazine",
+    "description": "",
+    "tags": ["tech"],
+    "saved": "2016-04-04T10:04:13.000Z"
+  },
+  {
+    "url": "http://www.slow-journalism.com/delayed-gratification-magazine",
+    "title": "Delayed Gratification magazine | The Slow Journalism Magazine",
+    "description": "",
+    "tags": ["magazines"],
+    "saved": "2016-03-29T16:50:47.000Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=2hNuBjXploE",
+    "title": "Apple vs. Samsung - Spy in the Store - YouTube",
+    "description": "",
+    "tags": ["funny"],
+    "saved": "2015-10-18T09:36:49.000Z"
+  },
+  {
+    "url": "http://subs2srs.sourceforge.net/",
+    "title": "subs2srs Usage",
+    "description": "",
+    "tags": ["language", "learning"],
+    "saved": "2015-10-09T22:03:12.000Z"
+  },
+  {
+    "url": "https://italian.yabla.com/",
+    "title": "Yabla Italian Video Immersion - The Authentic Way to Learn Italian",
+    "description": "",
+    "tags": ["language", "learning"],
+    "saved": "2015-09-30T10:04:10.000Z"
+  },
+  {
+    "url": "https://hinative.com/",
+    "title": "HiNative | A question and answer community for language learners.",
+    "description": "",
+    "tags": ["language", "learning"],
+    "saved": "2015-09-30T08:46:12.000Z"
+  },
+  {
+    "url": "http://www.wordreference.com/enit/welcome",
+    "title": "WordReference",
+    "description": "",
+    "tags": ["language", "reference"],
+    "saved": "2015-09-29T18:49:15.000Z"
+  },
+  {
+    "url": "http://www.bbc.co.uk/languages/italian/lamappa/episode/1",
+    "title": "BBC Languages - Learn Italian online with this interactive video drama for beginners",
+    "description": "",
+    "tags": ["language", "learning"],
+    "saved": "2015-09-29T10:38:48.000Z"
+  },
+  {
+    "url": "https://www.reddit.com/r/italianlearning/wiki/learning",
+    "title": "learning - italianlearning",
+    "description": "",
+    "tags": ["language", "learning"],
+    "saved": "2015-09-27T19:08:39.000Z"
+  },
+  {
+    "url": "http://www.generation-online.org/p/fpalthusser11.htm",
+    "title": "How to Read Marx&#x27;s Capital",
+    "description": "",
+    "tags": ["learning", "marxism"],
+    "saved": "2015-07-28T17:54:30.000Z"
+  },
+  {
+    "url": "http://www.polyluxmarx.de/en/home.html",
+    "title": "Home - PolyluxMarx - A Capital Workbook in Slides",
+    "description": "",
+    "tags": ["learning", "marxism"],
+    "saved": "2015-07-28T17:48:07.000Z"
+  },
+  {
+    "url": "http://davidharvey.org/reading-capital/",
+    "title": "Reading Marx&#x27;s Capital with David Harvey Online Courses",
+    "description": "",
+    "tags": ["learning", "marxism"],
+    "saved": "2015-07-28T17:45:50.000Z"
+  },
+  {
+    "url": "http://content.csbs.utah.edu/~ehrbar/akmc.htm",
+    "title": "Ehrbar&#x27;s Marx Annotations",
+    "description": "",
+    "tags": ["learning", "marxism", "reference"],
+    "saved": "2015-07-28T17:45:04.000Z"
+  },
+  {
+    "url": "http://kk.org/cooltools/best-magazine-articles-ever",
+    "title": "The Best Magazine Articles Ever",
+    "description": "",
+    "tags": ["magazines"],
+    "saved": "2015-07-17T15:44:26.000Z"
+  },
+  {
+    "url": "http://www.theguardian.com/books/gallery/2015/jun/29/sherlock-holmes-examining-the-evidence-in-charts",
+    "title": "Sherlock Holmes: examining the evidence – in charts | Books | The Guardian",
+    "description": "",
+    "tags": ["literature"],
+    "saved": "2015-06-29T17:14:44.000Z"
+  },
+  {
+    "url": "http://www.nytimes.com/2008/11/30/travel/30Florence.html?pagewanted=all&_r=0",
+    "title": "Florence, Then and Now, With a Literary Guide - NYTimes.com",
+    "description": "",
+    "tags": ["florence", "literature"],
+    "saved": "2015-06-17T11:04:55.000Z"
+  },
+  {
+    "url": "https://m.facebook.com/story.php?story_fbid=781642778563467&id=179573255437092&refsrc=https%3A%2F%2Fm.facebook.com%2Fthisisiradio%2Fvideos%2F781642778563467%2F&_rdr",
+    "title": "Lips Hoover girl",
+    "description": "",
+    "tags": ["funny"],
+    "saved": "2015-05-16T10:22:40.000Z"
+  },
+  {
+    "url": "https://m.facebook.com/story.php?story_fbid=303099013147792&id=209390455851982&refsrc=https%3A%2F%2Fm.facebook.com%2Fvideo.php&_rdr",
+    "title": "Ricky Gervais video",
+    "description": "\"Fuck off\"",
+    "tags": ["funny"],
+    "saved": "2015-05-13T21:40:58.000Z"
+  },
+  {
+    "url": "http://www.waywordsandmeansigns.com/",
+    "title": "Waywords and Meansigns: Recreating Finnegans Wake in its Whole Wholume - Waywords and Meansigns: Recreating Finnegans Wake [in its whole wholume]",
+    "description": "",
+    "tags": ["literature"],
+    "saved": "2015-05-13T18:02:04.000Z"
+  },
+  {
+    "url": "http://fractiousfiction.com/finnegans_wake.html",
+    "title": "The Adventurer&#x27;s Guide to Finnegans Wake",
+    "description": "",
+    "tags": ["literature"],
+    "saved": "2015-05-13T18:01:49.000Z"
+  },
+  {
+    "url": "http://www.interleaves.org/~rteeter/grtfad3.html",
+    "title": "Fadiman. Lifetime Reading Plan, 3rd ed.",
+    "description": "",
+    "tags": ["literature"],
+    "saved": "2013-05-19T17:07:10.000Z"
+  },
+  {
+    "url": "https://mike-taylor.org/2022/03/01/how-i-create-my-weekly-newsletter-and-personal-curation-tips-you-should-steal/",
+    "title": "How I Create My Weekly Newsletter (and personal curation tips you should steal) – Mike Taylor",
+    "description": "Image from https://blog.feedly.com/ Since I haven’t written a blog post in a while, I thought it was time to dust off the cobwebs. I wanted to answer one of the questions I get asked the most. In this post, I’ll share a bit about my curation process and how I choose the things I share…",
+    "tags": [],
+    "saved": "2022-04-02T09:32:18.000Z"
+  },
+  {
+    "url": "https://ghost.org/resources/the-browser-curation-tips/",
+    "title": "The Browser on how to start a curation newsletter",
+    "description": "There's a growing need for great curators to help us find the best sources online. This resource will show you how to curate like a pro.",
+    "tags": [],
+    "saved": "2022-04-03T06:03:41.000Z"
+  },
+  {
+    "url": "https://regexlearn.com/",
+    "title": "Regex Learn - Step by step, from zero to advanced.",
+    "description": "Learn Regex interactively, practice at your level, test and share your own Regex.",
+    "tags": ["tech"],
+    "saved": "2022-04-03T10:56:30.000Z"
+  },
+  {
+    "url": "https://www.reddit.com/r/oxford/comments/tv3uta/what_is_a_must_see_in_oxfordshire/",
+    "title": "Things to do around Oxford",
+    "description": "Hi guys, I have been living in Oxford for 3 years now. I feel like I know the city pretty well. But I didn’t have the time to explore any …",
+    "tags": ["oxford"],
+    "saved": "2022-04-03T10:59:52.000Z"
+  },
+  {
+    "url": "https://mjtsai.com/blog/2022/04/04/searching-in-open-save-panels/",
+    "title": "Michael Tsai - Blog  -  Searching in Open/Save Panels",
+    "description": "",
+    "tags": ["tech"],
+    "saved": "2022-04-04T16:14:14.000Z"
+  },
+  {
+    "url": "https://www.toools.design/",
+    "title": "Toools.design – Design Resources Archive &amp; Newsletter",
+    "description": "A growing archive of 900+ design resources, weekly updated for the community. Discover highly useful design resources & tools.",
+    "tags": ["comms"],
+    "saved": "2022-04-05T07:23:41.000Z"
+  },
+  {
+    "url": "https://marxdown.github.io/",
+    "title": "MARXdown",
+    "description": "",
+    "tags": [],
+    "saved": "2022-04-05T07:36:38.000Z"
+  },
+  {
+    "url": "https://www.collaborativefund.com/blog/100-little-ideas/",
+    "title": "100 Little Ideas · Collaborative Fund",
+    "description": "-",
+    "tags": [],
+    "saved": "2022-04-05T07:37:00.000Z"
+  },
+  {
+    "url": "https://kottke.org/22/04/the-del-monte-20-bill",
+    "title": "The Del Monte $20 Bill",
+    "description": "",
+    "tags": [],
+    "saved": "2022-04-06T18:54:13.000Z"
+  },
+  {
+    "url": "https://stancarey.wordpress.com/2022/04/07/wordable-awareness/",
+    "title": "Wordable awareness | Sentence first",
+    "description": "I came across an interesting word in Don DeLillo’s novel Falling Man (Picador, 2007). It appears in the middle of a conversation between an estranged couple, here discussing their son: ‘We talked about it,’ Keith said. ‘But only once.’ ‘What did he say?’ ‘Not much. And neither did I.’ ‘They’re searching the skies.’ ‘That’s right,’…",
+    "tags": [],
+    "saved": "2022-04-09T02:52:25.000Z"
+  },
+  {
+    "url": "https://mobile.twitter.com/bradwolverton/status/1403487267017089035",
+    "title": "https://mobile.twitter.com/bradwolverton/status/1403487267017089035",
+    "description": "",
+    "tags": ["comms"],
+    "saved": "2022-04-10T21:26:45.000Z"
+  },
+  {
+    "url": "https://www.easygerman.org/",
+    "title": "Easy German",
+    "description": "Learning German from the Streets: Every week, we speak with real people,",
+    "tags": ["german", "language", "learning"],
+    "saved": "2022-04-11T07:15:32.000Z"
+  },
+  {
+    "url": "https://wormhole.app/",
+    "title": "Wormhole - Simple, private file sharing",
+    "description": "Wormhole lets you share files with end-to-end encryption and a link that automatically expires.",
+    "tags": ["tech"],
+    "saved": "2022-04-12T20:50:28.000Z"
+  },
+  {
+    "url": "https://hogbaysoftware.netlify.app/bike/",
+    "title": "Bike app",
+    "description": "Hog Bay Software blog",
+    "tags": ["tech"],
+    "saved": "2022-04-14T21:10:56.000Z"
+  },
+  {
+    "url": "https://pudding.cool/2018/04/birthday-paradox/",
+    "title": "The Birthday Paradox Experiment",
+    "description": "Your birthday twin is probably reading this right now. Because math.",
+    "tags": [],
+    "saved": "2022-04-18T10:11:02.000Z"
+  },
+  {
+    "url": "https://www.deanishe.net/snippet/macos-shortcuts-to-alfred-snippets/",
+    "title": "Sync macOS Shortcuts to Alfred Snippets — deanishe.net",
+    "description": "dem Dean sein Zeug",
+    "tags": [],
+    "saved": "2022-04-18T20:43:58.000Z"
+  },
+  {
+    "url": "https://bundlehunt.com/",
+    "title": "BundleHunt",
+    "description": "",
+    "tags": [],
+    "saved": "2022-04-18T21:43:06.000Z"
+  },
+  {
+    "url": "https://mimestream.com/",
+    "title": "Mimestream | A native macOS email client for Gmail",
+    "description": "A native macOS email client for Gmail",
+    "tags": [],
+    "saved": "2022-04-18T21:54:22.000Z"
+  },
+  {
+    "url": "https://wordpress.org/openverse/",
+    "title": "Openverse | WordPress.org",
+    "description": "Openly licensed assets",
+    "tags": [],
+    "saved": "2022-05-11T06:06:07.000Z"
+  },
+  {
+    "url": "https://marxdown.github.io/about/",
+    "title": "Marxdown",
+    "description": "",
+    "tags": [],
+    "saved": "2022-07-01T06:54:01.000Z"
+  },
+  {
+    "url": "https://era.org.uk/shakespeare-archive/",
+    "title": "BBC Shakespeare Archive Resource",
+    "description": "",
+    "tags": ["literature"],
+    "saved": "2022-07-03T12:28:47.000Z"
+  },
+  {
+    "url": "https://recommendmeabook.com/",
+    "title": "Recommend Me a Book",
+    "description": "Find new books to read without judging the cover. Read first pages of novels without bias, and reveal the author and title if you're hooked.",
+    "tags": [],
+    "saved": "2022-08-13T20:13:13.000Z"
+  },
+  {
+    "url": "https://www.bbcrewind.co.uk/asset/5ffc73c1f15a6b0027622457?q=sheffield%20worries",
+    "title": "https://www.bbcrewind.co.uk/asset/5ffc73c1f15a6b0027622457?q=sheffield%20worries",
+    "description": "What will you find? Explore thousands of recent archive clips from around the UK.",
+    "tags": [],
+    "saved": "2022-08-29T15:31:27.000Z"
+  },
+  {
+    "url": "https://twitter.com/pechacek_amy/status/1555172960662585345?s=20&t=4nDAEDKBoHx-T3YZSOtzzw",
+    "title": "https://twitter.com/pechacek_amy/status/1555172960662585345?s=20&amp;t=4nDAEDKBoHx-T3YZSOtzzw",
+    "description": "",
+    "tags": [],
+    "saved": "2022-10-24T07:12:37.000Z"
+  },
+  {
+    "url": "https://www.fifteensquared.net/",
+    "title": "Fifteensquared – Never knowingly undersolved",
+    "description": "",
+    "tags": ["crosswords"],
+    "saved": "2022-11-01T13:47:10.000Z"
+  },
+  {
+    "url": "https://coreyward.svbtle.com/websters-unabridged-dictionary-1913-on-macos-catalina",
+    "title": "Using Webster’s 1913 Dictionary on macOS Catalina, Big Sur, or Monterey",
+    "description": "I recently had the pleasure of discovering James Somer’s blog through Instapaper’s weekly “top highlights” email. I found James’ post about the dictionary particularly compelling, and it seems I’m not alone. Alas, the instructions provided for... | Corey Ward | Full-stack, freelance designer + web developer building GatsbyJS and Rails websites. I also design and build furniture.",
+    "tags": [],
+    "saved": "2022-11-04T11:23:37.000Z"
+  },
+  {
+    "url": "https://infiniteconversation.com/",
+    "title": "The Infinite Conversation",
+    "description": "An AI generated, never-ending discussion between Werner Herzog and Slavoj Žižek.",
+    "tags": [],
+    "saved": "2022-11-04T13:04:43.000Z"
+  },
+  {
+    "url": "https://twitodon.com/",
+    "title": "Twitodon - Find your Twitter friends on Mastodon",
+    "description": "",
+    "tags": [],
+    "saved": "2022-11-08T19:13:38.000Z"
+  },
+  {
+    "url": "https://github.com/joyeusenoelle/GuideToMastodon/",
+    "title": "GitHub - joyeusenoelle/GuideToMastodon: An increasingly less-brief guide to Mastodon",
+    "description": "An increasingly less-brief guide to Mastodon. Contribute to joyeusenoelle/GuideToMastodon development by creating an account on GitHub.",
+    "tags": [],
+    "saved": "2022-11-13T21:23:52.000Z"
+  },
+  {
+    "url": "https://literature-clock.jenevoldsen.com/",
+    "title": "Literature Clock",
+    "description": "",
+    "tags": [],
+    "saved": "2022-11-20T18:37:35.000Z"
+  },
+  {
+    "url": "https://tidbyt.com/",
+    "title": "Tidbyt - See What Matters",
+    "description": "Tidbyt keeps you updated on transit, weather and more. Leave your phone in your pocket.",
+    "tags": [],
+    "saved": "2022-11-27T22:30:31.000Z"
+  },
+  {
+    "url": "https://theheartybrew.com/how-to-use-a-moccamaster/",
+    "title": "How to Use a Moccamaster | A Complete Crash Course",
+    "description": "Welcome to your one-stop guide to everything you ever wanted to learn about how to use a Moccamaster drip coffee maker!",
+    "tags": [],
+    "saved": "2022-11-28T08:30:30.000Z"
+  },
+  {
+    "url": "https://moccamaster.workshopcoffee.com/10/",
+    "title": "Brew Guide – MoccaMaster — Page 10",
+    "description": "",
+    "tags": [],
+    "saved": "2022-11-28T08:33:45.000Z"
+  },
+  {
+    "url": "https://danwin1210.de/github-ipv6-proxy.php",
+    "title": "GitHub IPv6 proxy",
+    "description": "GitHub IPv6 proxy allows downloading GitHub repositories on IPv6 only servers",
+    "tags": [],
+    "saved": "2022-12-04T11:33:34.000Z"
+  },
+  {
+    "url": "https://notebook.lachlanjc.com/",
+    "title": "@lachlanjc/notebook",
+    "description": "Lachlan Campbell’s personal blog, Notebook, with posts about whatever they want.",
+    "tags": [],
+    "saved": "2022-12-05T08:36:20.000Z"
+  },
+  {
+    "url": "https://getindiekit.com/",
+    "title": "Indiekit",
+    "description": "The little server that connects your website to the independent web.",
+    "tags": [],
+    "saved": "2022-12-26T11:11:41.000Z"
+  },
+  {
+    "url": "https://github.com/thisisparker/xword-dl",
+    "title": "GitHub - thisisparker/xword-dl: ⬛⬜⬛ Command line tool to scrape crosswords from online solvers and save them as .puz files ⬛⬜⬛",
+    "description": "⬛⬜⬛ Command line tool to scrape crosswords from online solvers and save them as .puz files ⬛⬜⬛ - GitHub - thisisparker/xword-dl: ⬛⬜⬛ Command line tool to scrape crosswords from online solvers and save them as .puz files ⬛⬜⬛",
+    "tags": [],
+    "saved": "2022-12-29T06:31:03.000Z"
+  },
+  {
+    "url": "https://github.com/lartsch/FediAct",
+    "title": "GitHub - Lartsch/FediAct: Chrome/Firefox extension that simplifies interactions on other Mastodon instances than your own.",
+    "description": "Chrome/Firefox extension that simplifies interactions on other Mastodon instances than your own.  - GitHub - Lartsch/FediAct: Chrome/Firefox extension that simplifies interactions on other Mastodon instances than your own.",
+    "tags": [],
+    "saved": "2022-12-29T22:20:05.000Z"
+  },
+  {
+    "url": "https://followgraph.vercel.app/#searchForm",
+    "title": "Followgraph for Mastodon",
+    "description": "Find people to follow on Mastodon by expanding your follow graph.",
+    "tags": ["mastodon"],
+    "saved": "2022-12-29T22:40:24.000Z"
+  },
+  {
+    "url": "https://phire.cc/Filtering-mail-with-Lua-using-imapfilter.html",
+    "title": "Filtering mail with Lua using imapfilter",
+    "description": "Using imapfilter to programatically filter E-Mail with Lua on an always-on machine",
+    "tags": [],
+    "saved": "2022-12-30T12:26:55.000Z"
+  },
+  {
+    "url": "https://acbeers.github.io/mastodonlm/main",
+    "title": "Mastodon List Manager",
+    "description": "",
+    "tags": ["mastodon"],
+    "saved": "2023-01-01T21:59:05.000Z"
+  },
+  {
+    "url": "https://wreninkpaper.com/",
+    "title": "All the (Dickensian) Year Round – ✍ &quot;Brighten it, brighten it, brighten it!&quot; ✍",
+    "description": "✍ \"Brighten it, brighten it, brighten it!\" ✍",
+    "tags": [],
+    "saved": "2023-01-03T23:13:48.000Z"
+  },
+  {
+    "url": "https://www.linkedin.com/posts/adamrbroda_jobsintech-studentvoices-careertips-activity-7013866389971107840-CCOD",
+    "title": "Adam Broda on LinkedIn: #jobsintech #studentvoices #careertips #jobsearchstrategies | 123 comments",
+    "description": "The 8 best sites for remote tech jobs:",
+    "tags": ["coding", "jobs", "tech"],
+    "saved": "2023-01-04T08:21:27.000Z"
+  },
+  {
+    "url": "https://www.newdevcareer.com/",
+    "title": "Home | New Dev Career",
+    "description": "",
+    "tags": ["coding", "jobs", "tech"],
+    "saved": "2023-01-04T22:19:59.000Z"
+  },
+  {
+    "url": "https://www.dmarctester.com/",
+    "title": "Learn and Test DMARC",
+    "description": "Learn and Test DMARC",
+    "tags": ["tech"],
+    "saved": "2023-01-05T11:59:58.000Z"
+  },
+  {
+    "url": "https://dmarc.postmarkapp.com/",
+    "title": "Free DMARC Monitoring from Postmark",
+    "description": "A free tool to monitor and implement DMARC",
+    "tags": [],
+    "saved": "2023-01-05T12:01:01.000Z"
+  },
+  {
+    "url": "https://gath.io/",
+    "title": "gathio",
+    "description": "Organise events",
+    "tags": ["fediverse", "tech"],
+    "saved": "2023-01-05T21:58:29.000Z"
+  },
+  {
+    "url": "https://github.com/picosh/pico",
+    "title": "GitHub - picosh/pico: pico services - prose.sh, lists.sh, pastes.sh, imgs.sh, feeds.sh",
+    "description": "pico services - prose.sh, lists.sh, pastes.sh, imgs.sh, feeds.sh - GitHub - picosh/pico: pico services - prose.sh, lists.sh, pastes.sh, imgs.sh, feeds.sh",
+    "tags": ["tech"],
+    "saved": "2023-01-06T10:48:20.000Z"
+  },
+  {
+    "url": "https://brettterpstra.com/2019/03/07/the-ultimate-guide-to-duckduckgo/",
+    "title": "The ultimate guide to DuckDuckGo - BrettTerpstra.com",
+    "description": "Disclosure: DuckDuckGo has sponsored this site in the past. This post is not paid for (or even authorized by) DuckDuckGo.",
+    "tags": ["tech"],
+    "saved": "2023-01-06T22:57:54.000Z"
+  },
+  {
+    "url": "https://www.mojeek.com/",
+    "title": "Mojeek",
+    "description": "Mojeek is a web search engine that provides unbiased, fast, and relevant search results combined with a no tracking privacy policy.",
+    "tags": ["searchEngine"],
+    "saved": "2023-01-07T05:38:29.000Z"
+  },
+  {
+    "url": "https://marcus.se.net/grafana-ynab-datasource/",
+    "title": "Introduction | YNAB for Grafana",
+    "description": "<div",
+    "tags": [],
+    "saved": "2023-01-07T16:23:52.000Z"
+  },
+  {
+    "url": "https://derekkedziora.com/",
+    "title": "Derek Kedziora",
+    "description": "The place where I procrastinate and occasionally write",
+    "tags": ["personalWebsites"],
+    "saved": "2023-01-15T10:39:52.000Z"
+  },
+  {
+    "url": "https://yentalist.com/",
+    "title": "yentalist website",
+    "description": "Daily Free Mostly Remote Job Postings for Marketing, Design, Writing, Content Creation, and Communications",
+    "tags": ["jobs"],
+    "saved": "2023-01-15T10:44:50.000Z"
+  },
+  {
+    "url": "https://talk.automators.fm/t/apple-mail-rule-updater/14079",
+    "title": "Apple Mail Rule Updater - macOS - Automators Talk",
+    "description": "Apple Mail has the best Rules function compared to 3rd Party apps, but updating them is cumbersome.",
+    "tags": [],
+    "saved": "2023-01-16T15:18:52.000Z"
+  },
+  {
+    "url": "https://nanaschutneys.com/collections/frontpage",
+    "title": "Chutneys – Nana&#x27;s Chutneys",
+    "description": "At Nana's Chutneys, we've done months of recipe development to provide you with a unique range of chutneys that will tickle your tastebuds and ignite your love for modern Indian flavours.",
+    "tags": ["dragonsDen"],
+    "saved": "2023-01-20T19:15:12.000Z"
+  },
+  {
+    "url": "https://semaphore.social/",
+    "title": "Home · Semaphore",
+    "description": "An alternative web client for Mastodon, focused on speed and simplicity.",
+    "tags": ["mastodon"],
+    "saved": "2023-01-23T11:24:02.000Z"
+  },
+  {
+    "url": "https://mastodeck.com/",
+    "title": "Mastodeck",
+    "description": "",
+    "tags": ["mastodon"],
+    "saved": "2023-01-23T11:25:27.000Z"
+  },
+  {
+    "url": "https://fe.soapbox.pub/",
+    "title": "https://fe.soapbox.pub/",
+    "description": "",
+    "tags": ["mastodon"],
+    "saved": "2023-01-23T11:25:57.000Z"
+  },
+  {
+    "url": "https://elk.zone/zirk.us/explore",
+    "title": "Elk",
+    "description": "",
+    "tags": ["mastodon"],
+    "saved": "2023-01-23T11:26:06.000Z"
+  },
+  {
+    "url": "https://www.listlang.com/",
+    "title": "ListLang: Learn the most frequent words in context",
+    "description": "ListLang: Learn the most frequent words in context",
+    "tags": ["language"],
+    "saved": "2023-01-28T07:36:20.000Z"
+  },
+  {
+    "url": "https://expressiveegg.substack.com/p/100-books-to-read-before-the-end",
+    "title": "100 Books to Read Before the End, Part 1 - by Darren Allen",
+    "description": "A guide to the best that literature has to offer (now updated). First part of three; Adorno to Hašek",
+    "tags": ["literature"],
+    "saved": "2023-02-01T20:38:35.000Z"
+  },
+  {
+    "url": "https://www.linkedin.com/posts/vitalyfriedman_ux-design-datavisualization-activity-7027217967553642497-LAQk?utm_source=share&utm_medium=member_ios",
+    "title": "Vitaly Friedman on LinkedIn: #ux #design #datavisualization | 61 comments",
+    "description": "🔖 A Guide to Designing Better Data Visualization — just a few incredibly helpful data viz resources I keep in my bookmarks ↓",
+    "tags": [],
+    "saved": "2023-02-05T17:01:38.000Z"
+  },
+  {
+    "url": "https://news.feedseer.com/",
+    "title": "FeedSeer",
+    "description": "",
+    "tags": ["mastodon"],
+    "saved": "2023-02-05T22:28:05.000Z"
+  },
+  {
+    "url": "https://simpleicons.org/",
+    "title": "Simple Icons",
+    "description": "2435 Free SVG icons for popular brands",
+    "tags": [],
+    "saved": "2023-02-13T08:50:30.000Z"
+  },
+  {
+    "url": "https://siftrss.com/",
+    "title": "siftrss | Filter your RSS feeds and throw away the junk",
+    "description": "Add powerful filters to any Atom or RSS feed for free!  No registration, no limitations, no ads—just a handy tool to declutter your feeds.",
+    "tags": [],
+    "saved": "2023-02-13T08:54:27.000Z"
+  },
+  {
+    "url": "https://github.com/Stephen-Lon?tab=repositories",
+    "title": "Stephen-Lon (Stephen-Lon) / Repositories · GitHub",
+    "description": "An enthusiast of Alfred, DEVONthink and photography—in retirement. - Stephen-Lon",
+    "tags": [],
+    "saved": "2023-02-20T10:24:58.000Z"
+  },
+  {
+    "url": "https://transfer.sh/",
+    "title": "transfer.sh - Easy and fast file sharing from the command-line.",
+    "description": "Easy and fast file sharing from the command-line.",
+    "tags": [],
+    "saved": "2023-03-03T22:17:24.000Z"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/style-guide/welcome/",
+    "title": "Welcome - Microsoft Style Guide | Microsoft Learn",
+    "description": "The online Microsoft Writing Style Guide provides up-to-date style and terminology guidelines. It replaces the Microsoft Manual of Style.",
+    "tags": ["comms", "writing"],
+    "saved": "2023-03-04T20:41:53.000Z"
+  },
+  {
+    "url": "https://developers.google.com/style",
+    "title": "About this guide  |  Google developer documentation style guide  |  Google Developers",
+    "description": "Editorial style guidelines for public-facing Google developer documentation.",
+    "tags": ["comms", "writing"],
+    "saved": "2023-03-04T20:42:33.000Z"
+  },
+  {
+    "url": "https://support.apple.com/en-in/guide/applestyleguide/welcome/web",
+    "title": "Welcome - Apple Support (IN)",
+    "description": "",
+    "tags": ["comms", "writing"],
+    "saved": "2023-03-04T20:43:38.000Z"
+  },
+  {
+    "url": "https://developer.apple.com/design/human-interface-guidelines/foundations/writing/",
+    "title": "Writing - Foundations - Human Interface Guidelines - Design - Apple Developer",
+    "description": "",
+    "tags": ["comms", "writing"],
+    "saved": "2023-03-05T07:39:50.000Z"
+  },
+  {
+    "url": "https://www.grzegorowski.com/restic-backblaze-b2-backups",
+    "title": "Restic backups with Backblaze B2",
+    "description": "How to create Restic based backup using Backblaze B2 cloud storage as a backend. This tutorial was made on Mac OS X High Sierra with restic…",
+    "tags": [],
+    "saved": "2023-03-11T08:53:34.000Z"
+  },
+  {
+    "url": "https://medium.com/@denniswebb/fast-and-secure-backups-to-s3-with-restic-49fd07944304",
+    "title": "Fast and Secure Backups to S3 with Restic | by Dennis Webb | Medium",
+    "description": "We all know how important backups are, but even today we seldom have a reliable and secure backup solution. Some people have a small NAS device at home that they backup their data to, but how useful…",
+    "tags": [],
+    "saved": "2023-03-11T09:03:11.000Z"
+  },
+  {
+    "url": "https://modernfontstacks.com/",
+    "title": "Modern Font Stacks",
+    "description": "System font stack CSS organized by typeface classification for every modern OS. The fastest fonts available. No downloading, no layout shifts, no flashes — just instant renders.",
+    "tags": [],
+    "saved": "2023-03-14T21:32:30.000Z"
+  },
+  {
+    "url": "https://www.atlasofplaces.com/",
+    "title": "Atlas of Places",
+    "description": "Atlas of Places is a public educational collection of Academia, Architecture, Cartography, Cinema, Essays, Painting, Photography, Research.",
+    "tags": [],
+    "saved": "2023-03-27T16:07:36.000Z"
+  },
+  {
+    "url": "https://www.polywork.com/",
+    "title": "Polywork | The Collaboration Network",
+    "description": "Discover opportunities to collaborate with other professionals - speak on podcasts, beta-test new apps, partner on side projects, and more. You’ll never be bored again. Join today.",
+    "tags": [],
+    "saved": "2023-04-11T06:25:08.000Z"
+  },
+  {
+    "url": "https://coolors.co/",
+    "title": "Coolors - The super fast color palettes generator!",
+    "description": "Generate or browse beautiful color combinations for your designs.",
+    "tags": [],
+    "saved": "2023-04-12T20:21:20.000Z"
+  },
+  {
+    "url": "https://simplecss.org/",
+    "title": "Simple.css",
+    "description": "A CSS framework that makes semantic HTML look good.",
+    "tags": ["coding", "css"],
+    "saved": "2023-04-16T04:02:02.000Z"
+  },
+  {
+    "url": "https://betterprogramming.pub/setting-up-your-mac-for-web-development-in-2020-659f5588b883#d118",
+    "title": "How to Set Up Your MacBook for Web Development in 2020 | by Vinicius De Antoni | Better Programming",
+    "description": "I recently switched jobs, and during the first few days on the new job, I had to setup a MacBook with all the tools required for me to do my job, web development. Although, I’ve used Macs for a long…",
+    "tags": ["tech"],
+    "saved": "2023-04-16T13:28:08.000Z"
+  },
+  {
+    "url": "https://github.com/hmml/awesome-zsh",
+    "title": "GitHub - hmml/awesome-zsh: ZSH is awesome, here&#x27;s why...",
+    "description": "ZSH is awesome, here's why... Contribute to hmml/awesome-zsh development by creating an account on GitHub.",
+    "tags": [],
+    "saved": "2023-04-16T17:05:37.000Z"
+  },
+  {
+    "url": "https://devhints.io/",
+    "title": "Devhints — TL;DR for developer documentation",
+    "description": "A ridiculous collection of web development cheatsheets · One-page guide to",
+    "tags": ["tech"],
+    "saved": "2023-04-17T13:58:55.000Z"
+  },
+  {
+    "url": "https://www.usethehumanvoice.com/formats/",
+    "title": "https://www.usethehumanvoice.com/formats/",
+    "description": "",
+    "tags": ["blogging", "tech", "writing"],
+    "saved": "2023-04-18T05:46:30.000Z"
+  },
+  {
+    "url": "https://getpixelsnap.com/?ref=cleanshot",
+    "title": "PixelSnap 2 for Mac",
+    "description": "PixelSnap - The fastest tool for measuring anything on your screen for macOS. Measure stuff like a PRO!",
+    "tags": ["apps", "tech"],
+    "saved": "2023-04-20T06:39:09.000Z"
+  },
+  {
+    "url": "https://sipapp.io/",
+    "title": "Sip",
+    "description": "A better Color Picker for your Mac.",
+    "tags": ["apps", "tech"],
+    "saved": "2023-04-20T19:02:52.000Z"
+  },
+  {
+    "url": "https://gist.github.com/nifl/1178878",
+    "title": "Your problem with Vim is that you don&#x27;t grok vi. · GitHub",
+    "description": "Your problem with Vim is that you don't grok vi. GitHub Gist: instantly share code, notes, and snippets.",
+    "tags": ["tech"],
+    "saved": "2023-04-23T09:22:48.000Z"
+  },
+  {
+    "url": "https://usememos.com/",
+    "title": "memos - A lightweight, self-hosted memo hub. Open Source and Free forever",
+    "description": "A lightweight, self-hosted memo hub. Open Source and Free forever",
+    "tags": [],
+    "saved": "2023-04-23T15:26:10.000Z"
+  },
+  {
+    "url": "https://brettterpstra.com/projects/snibbets/",
+    "title": "Snibbets - BrettTerpstra.com",
+    "description": "Snibbets allows me to keep code snippets in raw files, not relying on a dedicated code snippet app. I can collect and edit my snippets using a text editor, nvALT (nvUltra), or simply by saving",
+    "tags": ["apps", "tech"],
+    "saved": "2023-04-23T15:26:45.000Z"
+  },
+  {
+    "url": "https://gomakethings.com/changing-the-default-text-editor-on-macos/",
+    "title": "Changing the default text editor on macOS | Go Make Things",
+    "description": "I’ve been using the same computer for almost a decade, but recently upgraded my computer.",
+    "tags": ["tech"],
+    "saved": "2023-04-24T11:43:30.000Z"
+  },
+  {
+    "url": "https://levelup.gitconnected.com/use-git-like-a-senior-engineer-ef6d741c898e",
+    "title": "Use Git like a senior engineer. Git is a powerful tool that feels great… | by Jacob Bennett | Level Up Coding",
+    "description": "I’ve used these features of Git for years across teams and projects. I’m still developing opinions around some workflows (like to squash or not) but the core tooling is powerful and flexible (and…",
+    "tags": ["git", "tech"],
+    "saved": "2023-04-25T06:23:06.000Z"
+  },
+  {
+    "url": "https://www.dejal.com/timeout/",
+    "title": "Dejal - Time Out",
+    "description": "Dejal Time Out: break timer with micro-breaks for macOS.",
+    "tags": [],
+    "saved": "2023-04-26T12:31:56.000Z"
+  },
+  {
+    "url": "https://github.com/rubocop/ruby-style-guide",
+    "title": "GitHub - rubocop/ruby-style-guide: A community-driven Ruby coding style guide",
+    "description": "A community-driven Ruby coding style guide. Contribute to rubocop/ruby-style-guide development by creating an account on GitHub.",
+    "tags": ["coding", "ruby", "tech"],
+    "saved": "2023-04-26T21:02:36.000Z"
+  },
+  {
+    "url": "https://learnrubythehardway.org/book/",
+    "title": "Learn Ruby the Hard Way - Read for Free",
+    "description": "",
+    "tags": ["coding", "ruby"],
+    "saved": "2023-04-26T21:26:36.000Z"
+  },
+  {
+    "url": "https://discover.fedified.com/",
+    "title": "Discover Mastodon | Fedified",
+    "description": "",
+    "tags": [],
+    "saved": "2023-04-28T06:15:30.000Z"
+  },
+  {
+    "url": "https://www.akshaykhot.com/ruby-switch-statement/",
+    "title": "Ruby&#x27;s Switch Statement is More Flexible Than You Thought",
+    "description": "Ruby's switch statement is very versatile and flexible, especially due to the dynamic nature of Ruby. This post shows how it works with examples.",
+    "tags": ["coding", "ruby"],
+    "saved": "2023-04-28T06:50:00.000Z"
+  },
+  {
+    "url": "https://sinatrarb.com/intro.html?ref=akshaykhot.com",
+    "title": "Sinatra: README",
+    "description": "",
+    "tags": ["coding", "ruby"],
+    "saved": "2023-04-28T07:36:18.000Z"
+  },
+  {
+    "url": "https://mac.install.guide/ruby/index.html",
+    "title": "Install Ruby 3.1 · Mac · Complete Guide · 2022",
+    "description": "Install Ruby Mac (M1 or Intel). How to install Ruby 3.1 on macOS Monterey. A complete guide with FAQ from the author of the book, Learn Ruby on Rails.",
+    "tags": ["coding", "ruby", "tech"],
+    "saved": "2023-04-28T10:43:40.000Z"
+  },
+  {
+    "url": "https://github.com/airbnb/ruby",
+    "title": "GitHub - airbnb/ruby: Ruby Style Guide",
+    "description": "Ruby Style Guide. Contribute to airbnb/ruby development by creating an account on GitHub.",
+    "tags": ["coding", "ruby"],
+    "saved": "2023-04-28T19:53:11.000Z"
+  },
+  {
+    "url": "https://rubystyle.guide/",
+    "title": "Ruby Style Guide",
+    "description": "",
+    "tags": ["coding", "ruby"],
+    "saved": "2023-04-29T12:54:03.000Z"
+  },
+  {
+    "url": "https://tuple.app/pair-programming-guide",
+    "title": "Tuple&#x27;s Pair Programming Guide",
+    "description": "",
+    "tags": ["coding"],
+    "saved": "2023-05-02T09:17:19.000Z"
+  },
+  {
+    "url": "https://thoughtbot.com/upcase/fundamentals-of-tdd",
+    "title": "Fundamentals of Test-Driven Development",
+    "description": "",
+    "tags": ["coding"],
+    "saved": "2023-05-02T09:17:27.000Z"
+  },
+  {
+    "url": "https://www.rubykoans.com/",
+    "title": "Learn Ruby with the Edgecase Ruby Koans",
+    "description": "Learn Ruby with the Edgecase Ruby Koans",
+    "tags": ["coding", "ruby"],
+    "saved": "2023-05-02T10:35:17.000Z"
+  },
+  {
+    "url": "https://overapi.com/ruby",
+    "title": "Ruby Cheat Sheet | OverAPI.com",
+    "description": "OverAPI.com is a site collecting all the cheatsheets,all!",
+    "tags": ["coding", "ruby"],
+    "saved": "2023-05-02T10:36:26.000Z"
+  },
+  {
+    "url": "https://www.diagram.codes/",
+    "title": "Diagram.codes",
+    "description": "Automatic diagram generation from text",
+    "tags": ["coding"],
+    "saved": "2023-05-02T10:43:10.000Z"
+  },
+  {
+    "url": "https://www.hackerrank.com/domains/ruby?filters%5Bsubdomains%5D%5B%5D=ruby-tutorials",
+    "title": "Solve Ruby | HackerRank",
+    "description": "Join over 16 million developers in solving code challenges on HackerRank, one of the best ways to prepare for programming interviews.",
+    "tags": ["coding", "ruby"],
+    "saved": "2023-05-02T10:44:25.000Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=1uMcjCmCdPo&t=146s",
+    "title": "Makers - Code Accelerator - Largest 5 digit number in series (30/04/20) - YouTube",
+    "description": "This recording is the demonstration part of a Code Accelerator workshop.Aimed at those at the beginning of their journey learning to program, these workshops...",
+    "tags": ["bootcamp", "coding", "ruby"],
+    "saved": "2023-05-03T09:53:01.000Z"
+  },
+  {
+    "url": "https://twitter.com/Doug_Tilley/status/1650517041797910530/mediaViewer?currentTweet=1650517041797910530¤tTweetUser=Doug_Tilley",
+    "title": "https://twitter.com/Doug_Tilley/status/1650517041797910530/mediaViewer?currentTweet=1650517041797910530&amp;currentTweetUser=Doug_Tilley",
+    "description": "",
+    "tags": ["funny"],
+    "saved": "2023-05-03T17:22:08.000Z"
+  },
+  {
+    "url": "https://github.com/ActiveState/code",
+    "title": "GitHub - ActiveState/code: ActiveState Code Recipes",
+    "description": "ActiveState Code Recipes. Contribute to ActiveState/code development by creating an account on GitHub.",
+    "tags": ["coding"],
+    "saved": "2023-05-04T21:36:16.000Z"
+  },
+  {
+    "url": "https://kapeli.com/cheatsheets",
+    "title": "Dash Cheat Sheets - Kapeli",
+    "description": "Cheat sheet repository for Dash, the macOS documentation browser.",
+    "tags": ["coding"],
+    "saved": "2023-05-07T11:19:52.000Z"
+  },
+  {
+    "url": "https://www.sourcetreeapp.com/",
+    "title": "Sourcetree | Free Git GUI for Mac and Windows",
+    "description": "A Git GUI that offers a visual representation of your repositories. Sourcetree is a free Git client for Windows and Mac.",
+    "tags": ["coding"],
+    "saved": "2023-05-08T10:33:11.000Z"
+  },
+  {
+    "url": "https://www.gitkraken.com/",
+    "title": "GitKraken Legendary Git Tools | GitKraken",
+    "description": "Meet GitKraken, the creator of legendary Git tools for developers and teams - like the GitKraken Client, with Git GUI and CLI, Git Integration for Jira, and GitLens for VS Code.",
+    "tags": ["coding"],
+    "saved": "2023-05-08T10:33:23.000Z"
+  },
+  {
+    "url": "https://hashnode.com/explore/tags?category=week",
+    "title": "Explore trending tags",
+    "description": "Explore the most popular tech trends, topics, and tags from the Hashnode community. A constantly updating list.",
+    "tags": ["coding"],
+    "saved": "2023-05-08T15:43:03.000Z"
+  },
+  {
+    "url": "https://www.davidalecrim.dev/articles/raycast-extension-building-guide/",
+    "title": "Raycast extension building guide - David Alecrim",
+    "description": "This article will serve to document my journey in building my very first raycast extension, publish it to the raycast store and all the quirks that I found along the way.",
+    "tags": [],
+    "saved": "2023-05-08T21:10:29.000Z"
+  },
+  {
+    "url": "https://martindb.net/shortcuts/declutter-with-dictionaries/",
+    "title": "Declutter with Dictionaries - Martindb",
+    "description": "",
+    "tags": [],
+    "saved": "2023-05-13T11:33:42.000Z"
+  },
+  {
+    "url": "https://www.openshot.org/",
+    "title": "OpenShot Video Editor | Free, Open, and Award-Winning Video Editor for Linux, Mac, and Windows!",
+    "description": "OpenShot is an award-winning free and open-source video editor for Linux, Mac, and Windows. Create videos with exciting video effects, titles, audio tracks, and animations.",
+    "tags": [],
+    "saved": "2023-05-13T14:34:47.000Z"
+  },
+  {
+    "url": "https://github.com/mifi/lossless-cut",
+    "title": "GitHub - mifi/lossless-cut: The swiss army knife of lossless video/audio editing",
+    "description": "The swiss army knife of lossless video/audio editing - GitHub - mifi/lossless-cut: The swiss army knife of lossless video/audio editing",
+    "tags": [],
+    "saved": "2023-05-13T14:35:17.000Z"
+  },
+  {
+    "url": "https://dev.to/matthri/create-your-own-ios-widget-with-javascript-5a11",
+    "title": "Create your own iOS widget with JavaScript - DEV Community",
+    "description": "How to create your own iOS home screen widget with pure JavaScript. Tagged with javascript, showdev, ios.",
+    "tags": [],
+    "saved": "2023-05-13T15:54:08.000Z"
+  },
+  {
+    "url": "https://thoughtbot.com/upcase",
+    "title": "Upcase by thoughtbot | Learn Web Development Online",
+    "description": "",
+    "tags": [],
+    "saved": "2023-05-13T15:57:58.000Z"
+  },
+  {
+    "url": "https://github.com/jbranchaud/til",
+    "title": "GitHub - jbranchaud/til: Today I Learned",
+    "description": ":memo: Today I Learned. Contribute to jbranchaud/til development by creating an account on GitHub.",
+    "tags": [],
+    "saved": "2023-05-13T17:01:01.000Z"
+  },
+  {
+    "url": "https://asciiflow.com/#/",
+    "title": "ASCIIFlow",
+    "description": "",
+    "tags": ["coding", "diagramming"],
+    "saved": "2023-05-15T18:11:26.000Z"
+  },
+  {
+    "url": "https://www.30secondsofcode.org/",
+    "title": "30 seconds of code",
+    "description": "Browse 1232 short code snippets for all your development needs on 30 seconds of code.",
+    "tags": ["coding"],
+    "saved": "2023-05-16T08:16:36.000Z"
+  },
+  {
+    "url": "https://www.reddit.com/r/HomeKit/comments/yy2oy7/apple_has_a_downloadable_profile_to_really_clear/",
+    "title": "Profile to reset all Apple Home data",
+    "description": "",
+    "tags": [],
+    "saved": "2023-05-17T07:42:33.000Z"
+  },
+  {
+    "url": "https://github.com/LukeMathWalker",
+    "title": "LukeMathWalker (Luca Palmieri) · GitHub",
+    "description": "Playing around with Rust, at $dayjob and for fun. LukeMathWalker has 89 repositories available. Follow their code on GitHub.",
+    "tags": ["coding", "githubProfiles"],
+    "saved": "2023-05-20T12:56:25.000Z"
+  },
+  {
+    "url": "https://tana.inc/",
+    "title": "Tana – The Everything OS",
+    "description": "Welcome to the future of work. Build anything. Use it for everything. Kill your SaaS subscriptions.",
+    "tags": [],
+    "saved": "2023-05-27T06:43:44.000Z"
+  },
+  {
+    "url": "https://capacities.io/",
+    "title": "Capacities – A studio for your mind",
+    "description": "A powerful note-taking tool. All your ideas – typed and connected.",
+    "tags": [],
+    "saved": "2023-05-27T06:44:10.000Z"
+  },
+  {
+    "url": "https://dev.to/nezirzahirovic/10-useful-ruby-one-liners-examples-and-descriptions-5a9c",
+    "title": "10 Useful Ruby One-Liners: Examples and Descriptions - DEV Community",
+    "description": "Introduction:  Ruby is a powerful and elegant programming language known for its readability and... Tagged with ruby, code, onliners, rails.",
+    "tags": ["coding", "ruby"],
+    "saved": "2023-05-28T08:17:08.000Z"
+  },
+  {
+    "url": "https://wiki.baty.net/",
+    "title": "Jack Baty&#x27;s Wiki — A sort of Rudimentary Lathe",
+    "description": "",
+    "tags": ["personalWebsites"],
+    "saved": "2023-05-28T21:14:04.000Z"
+  },
+  {
+    "url": "https://github.com/piotrmurach/tty",
+    "title": "GitHub - piotrmurach/tty: Toolkit for developing sleek command line apps.",
+    "description": "Toolkit for developing sleek command line apps. Contribute to piotrmurach/tty development by creating an account on GitHub.",
+    "tags": ["coding", "ruby"],
+    "saved": "2023-05-29T06:42:26.000Z"
+  },
+  {
+    "url": "https://books.goalkicker.com/",
+    "title": "Free Programming Books – GoalKicker.com",
+    "description": "Free Programming Books on Android development, C, C#, CSS, HTML5, iOS development, Java, JavaScript, PowerShell, PHP, Python, SQL Sever and more",
+    "tags": ["coding"],
+    "saved": "2023-05-31T13:18:25.000Z"
+  },
+  {
+    "url": "https://www.haystackapp.io/",
+    "title": "Haystack | Where techies discover opportunities",
+    "description": "Giving techies the tools to uncover, explore and discover the tech landscape with full anonymity - showcasing opportunities that match their interests, values and tech stack.",
+    "tags": ["coding", "jobs"],
+    "saved": "2023-06-02T09:13:45.000Z"
+  },
+  {
+    "url": "https://juniordeveloper.careers/jobs",
+    "title": "Junior Developer Jobs - Juniordeveloper.careers",
+    "description": "",
+    "tags": ["coding", "jobs"],
+    "saved": "2023-06-02T09:13:55.000Z"
+  },
+  {
+    "url": "https://jlander.notion.site/jlander/Code-Notes-1977ee631a3941b99a41b16aadd49a44",
+    "title": "Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.",
+    "description": "A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team",
+    "tags": ["coding"],
+    "saved": "2023-06-02T12:09:49.000Z"
+  },
+  {
+    "url": "https://andybrewer.github.io/mvp/",
+    "title": "MVP.css - Minimalist stylesheet for HTML elements",
+    "description": "MVP.css - No classes, no framework. Just semantic HTML and you're done.",
+    "tags": ["coding", "css"],
+    "saved": "2023-06-03T13:32:56.000Z"
+  },
+  {
+    "url": "https://milligram.io/",
+    "title": "Milligram - A minimalist CSS framework",
+    "description": "Milligram - A minimalist CSS framework",
+    "tags": ["coding", "css"],
+    "saved": "2023-06-03T13:42:57.000Z"
+  },
+  {
+    "url": "https://picocss.com/",
+    "title": "Pico.css • Minimal CSS Framework for semantic HTML",
+    "description": "Elegant styles for all native HTML elements without .classes and dark mode automatically enabled. 7.9 kB minified and gzipped!",
+    "tags": ["coding", "css"],
+    "saved": "2023-06-03T13:44:17.000Z"
+  },
+  {
+    "url": "https://purecss.io/",
+    "title": "Pure",
+    "description": "Pure is a ridiculously tiny CSS library you can use to start any web project.",
+    "tags": ["coding", "css"],
+    "saved": "2023-06-03T13:44:25.000Z"
+  },
+  {
+    "url": "https://vanillacss.com/",
+    "title": "Vanilla CSS |  A minimal baseline stylesheet for any web project",
+    "description": "",
+    "tags": ["coding", "css"],
+    "saved": "2023-06-03T13:45:16.000Z"
+  },
+  {
+    "url": "http://minicss.us/",
+    "title": "mini.css - Minimal, responsive, style-agnostic CSS framework",
+    "description": "mini.css is a tiny CSS framework designed to build quick, modern and responsive websites.",
+    "tags": ["coding", "css"],
+    "saved": "2023-06-03T13:45:45.000Z"
+  },
+  {
+    "url": "https://vimtricks.com/p/category/tips-and-tricks/",
+    "title": "Tips and Tricks Archives - VimTricks",
+    "description": "",
+    "tags": ["coding"],
+    "saved": "2023-06-06T07:07:39.000Z"
+  },
+  {
+    "url": "https://wireframe.cc/",
+    "title": "Wireframe.cc – the go-to free, online wireframing tool.",
+    "description": "Create and share better wireframes with a powerful, intuitive low-fidelity wireframing tool.",
+    "tags": ["coding"],
+    "saved": "2023-06-07T16:18:43.000Z"
+  },
+  {
+    "url": "https://github.com/matiassingers/awesome-readme",
+    "title": "GitHub - matiassingers/awesome-readme: A curated list of awesome READMEs",
+    "description": "A curated list of awesome READMEs. Contribute to matiassingers/awesome-readme development by creating an account on GitHub.",
+    "tags": ["coding"],
+    "saved": "2023-06-10T06:01:58.000Z"
+  },
+  {
+    "url": "https://fly.io/ruby-dispatch/welcome-to-rails-cheat-sheet/",
+    "title": "Welcome to Rails Cheat Sheet · Fly",
+    "description": "A helpful list of resources for people who are just getting started out with Rails.",
+    "tags": ["coding", "rails", "ruby"],
+    "saved": "2023-06-21T06:21:59.000Z"
+  },
+  {
+    "url": "https://exercism.org/",
+    "title": "Exercism",
+    "description": "Learn, practice and get world-class mentoring in over 50 languages. 100% free.",
+    "tags": ["coding", "learning"],
+    "saved": "2023-06-21T06:39:11.000Z"
+  },
+  {
+    "url": "https://bjanderson.github.io/js-models/",
+    "title": "JavaScript Models | BJ Anderson",
+    "description": "Practical advice for developing websites and web applications.",
+    "tags": ["coding"],
+    "saved": "2023-06-21T20:15:26.000Z"
+  },
+  {
+    "url": "https://www.reddit.com/r/vim/comments/32r85c/this_is_my_favorite_vim_cheat_sheet_does_anyone/",
+    "title": "Reddit - Dive into anything",
+    "description": "",
+    "tags": ["coding"],
+    "saved": "2023-07-02T07:00:03.000Z"
+  },
+  {
+    "url": "https://github.com/chubin/cheat.sh",
+    "title": "GitHub - chubin/cheat.sh: the only cheat sheet you need",
+    "description": "the only cheat sheet you need. Contribute to chubin/cheat.sh development by creating an account on GitHub.",
+    "tags": ["coding"],
+    "saved": "2023-07-02T17:00:50.000Z"
+  },
+  {
+    "url": "https://apps.apple.com/gb/app/s3-files/id6447647340",
+    "title": "‎S3 Files on the App Store",
+    "description": "Read reviews, compare customer ratings, see screenshots and learn more about S3 Files. Download S3 Files and enjoy it on your iPhone, iPad, iPod touch, or Mac OS X 13.1 or later.",
+    "tags": ["apps"],
+    "saved": "2023-07-04T05:44:18.000Z"
+  },
+  {
+    "url": "https://quartz.jzhao.xyz/",
+    "title": "🪴 Quartz 3.3",
+    "description": "Host your second brain and digital garden for free. Quartz features extremely fast full-text search, Wikilink support, backlinks, local graph, tags, and link previews.",
+    "tags": [],
+    "saved": "2023-07-09T07:36:01.000Z"
+  },
+  {
+    "url": "https://silverbullet.md/",
+    "title": "SilverBullet",
+    "description": "",
+    "tags": [],
+    "saved": "2023-07-09T07:39:16.000Z"
+  },
+  {
+    "url": "https://fullstackopen.com/en/",
+    "title": "Full stack open",
+    "description": "Open online course on JavaScript based modern web development by University of Helsinki and Houston Inc..",
+    "tags": ["coding", "learning"],
+    "saved": "2023-07-10T17:24:41.000Z"
+  },
+  {
+    "url": "https://egghead.io/",
+    "title": "Expert led courses for front-end web developers. | egghead.io",
+    "description": "expert led courses for front-end web developers and teams that want to level up through straightforward and concise lessons on the most useful tools available.",
+    "tags": ["coding", "learning"],
+    "saved": "2023-07-15T07:59:43.000Z"
+  },
+  {
+    "url": "https://www.sharedrop.io/",
+    "title": "ShareDrop",
+    "description": "ShareDrop is a peer-to-peer file sharing app powered by HTML5 WebRTC.",
+    "tags": [],
+    "saved": "2023-07-20T06:44:44.000Z"
+  },
+  {
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "title": "GitHub - getify/You-Dont-Know-JS: A book series on JavaScript. @YDKJS on twitter.",
+    "description": "A book series on JavaScript. @YDKJS on twitter. Contribute to getify/You-Dont-Know-JS development by creating an account on GitHub.",
+    "tags": ["coding", "javascript", "learning"],
+    "saved": "2023-07-20T20:56:35.000Z"
+  },
+  {
+    "url": "https://hired.com/join/",
+    "title": "Hired - Job Search Marketplace. Tech Job Hunting Simplified!",
+    "description": "With Hired your job search has never been easier! Simply create a profile & vetted companies compete for you, reaching out with salary & equity upfront.",
+    "tags": ["coding", "jobs"],
+    "saved": "2023-07-23T08:35:12.000Z"
+  },
+  {
+    "url": "https://www.taniarascia.com/setting-up-a-brand-new-mac-for-development/",
+    "title": "macOS Monterey: Setting up a Mac for Development | Tania Rascia",
+    "description": "Last Updated: 1/28/2022 I have to set up a MacBook Pro fairly often - when starting a new job and when buying a new personal computer. I…",
+    "tags": [],
+    "saved": "2023-07-23T09:36:50.000Z"
+  },
+  {
+    "url": "https://career-ladders.dev/engineering/",
+    "title": "career-ladders",
+    "description": "",
+    "tags": ["coding"],
+    "saved": "2023-07-23T09:53:03.000Z"
+  },
+  {
+    "url": "https://github.com/abdulrahman1s/fem-dl",
+    "title": "GitHub - abdulrahman1s/fem-dl: Frontend Masters Course Downloader That actually works.",
+    "description": "Frontend Masters Course Downloader That actually works. - GitHub - abdulrahman1s/fem-dl: Frontend Masters Course Downloader That actually works.",
+    "tags": ["coding", "learning"],
+    "saved": "2023-08-08T16:13:36.000Z"
+  },
+  {
+    "url": "https://cord.co/",
+    "title": "The direct messaging tool for finding work - cord",
+    "description": "",
+    "tags": ["coding", "jobs"],
+    "saved": "2023-08-11T07:27:09.000Z"
+  },
+  {
+    "url": "https://hackajob.com/talent",
+    "title": "hackajob - Secure Your Dream Tech Job!",
+    "description": "Find your next developer job with hackajob. Work with the best Software Developers, DevOps Engineers and amazing tech teams in the UK and US.",
+    "tags": ["coding", "jobs"],
+    "saved": "2023-08-11T07:30:54.000Z"
+  },
+  {
+    "url": "https://surge.sh/",
+    "title": "Surge",
+    "description": "Shipping web projects should be fast, easy, and low risk. Surge is static web publishing for Front-End Developers, right from the CLI.",
+    "tags": ["coding", "hosting"],
+    "saved": "2023-08-13T05:56:20.000Z"
+  },
+  {
+    "url": "https://hashnode.com/",
+    "title": "Hashnode - where developer blogs meet community power!",
+    "description": "Hashnode is your go-to community to connect with other developers worldwide. It offers a platform to read and learn from high-quality tech and programming articles, engage in discussions, and even start your own dev blog. Start your journey of learning, sharing, and growing with Hashnode today!",
+    "tags": ["coding", "developers"],
+    "saved": "2023-08-13T06:40:46.000Z"
+  },
+  {
+    "url": "https://github.com/microsoft/playwright",
+    "title": "GitHub - microsoft/playwright: Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
+    "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  - GitHub - microsoft/playwright: Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
+    "tags": ["coding", "javascript", "testing"],
+    "saved": "2023-08-13T07:24:26.000Z"
+  },
+  {
+    "url": "https://vitest.dev/",
+    "title": "Vitest | A blazing fast unit test framework powered by Vite",
+    "description": "A blazing fast unit test framework powered by Vite",
+    "tags": ["coding", "javascript", "testing"],
+    "saved": "2023-08-13T07:27:06.000Z"
+  },
+  {
+    "url": "https://app.otta.com/",
+    "title": "Otta | Login",
+    "description": "Only matches tailored to your preferences. Only the most exciting, innovative and fast-moving companies.",
+    "tags": ["coding", "jobs"],
+    "saved": "2023-08-13T07:40:18.000Z"
+  },
+  {
+    "url": "https://www.barbarianmeetscoding.com/blog/boost-your-coding-fu-with-vscode-and-vim",
+    "title": "Boost Your Coding Fu With Visual Studio Code and Vim | Barbarian Meets Coding",
+    "description": "In this article we uncover how to level up your Visual Studio Code coding skills by using the VsCodeVim plugin that brings lots of awesomeness from Vim inside Visual Studio Code.",
+    "tags": ["coding", "vscode"],
+    "saved": "2023-08-14T17:04:03.000Z"
+  },
+  {
+    "url": "https://ultimatehackingkeyboard.com/",
+    "title": "Ultimate Hacking Keyboard - The keyboard. For professionals.",
+    "description": "",
+    "tags": [],
+    "saved": "2023-08-15T05:20:28.000Z"
+  },
+  {
+    "url": "https://github.com/swiftbar/SwiftBar#swiftbar",
+    "title": "GitHub - swiftbar/SwiftBar: Powerful macOS menu bar customization tool",
+    "description": "Powerful macOS menu bar customization tool. Contribute to swiftbar/SwiftBar development by creating an account on GitHub.",
+    "tags": ["software"],
+    "saved": "2023-08-17T05:48:45.000Z"
+  },
+  {
+    "url": "https://dev.to/ashutoshmishra/5-best-full-stack-communities-to-join-in-2023-47be",
+    "title": "5 Best Full Stack Communities to Join in 2023 - DEV Community",
+    "description": "Becoming a Full Stack Developer is a great career option in 2022. However, the path is long and could... Tagged with webdev, beginners, programming, community.",
+    "tags": ["coding", "communities"],
+    "saved": "2023-08-17T16:05:21.000Z"
+  },
+  {
+    "url": "https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore",
+    "title": "GitHub - you-dont-need/You-Dont-Need-Lodash-Underscore: List of JavaScript methods which you can use natively + ESLint Plugin",
+    "description": "List of JavaScript methods which you can use natively + ESLint Plugin - GitHub - you-dont-need/You-Dont-Need-Lodash-Underscore: List of JavaScript methods which you can use natively + ESLint Plugin",
+    "tags": ["coding", "javascript"],
+    "saved": "2023-08-17T18:58:42.000Z"
+  },
+  {
+    "url": "https://www.reddit.com/r/learnprogramming/comments/12ghao8/a_guide_to_grinding_leetcode/",
+    "title": "A Guide to grinding Leetcode",
+    "description": "",
+    "tags": ["coding", "learning"],
+    "saved": "2023-08-18T18:50:25.000Z"
+  },
+  {
+    "url": "https://playwright.dev/",
+    "title": "Fast and reliable end-to-end testing for modern web apps | Playwright",
+    "description": "Cross-browser end-to-end testing for modern web apps",
+    "tags": ["coding", "testing"],
+    "saved": "2023-08-19T08:31:02.000Z"
+  },
+  {
+    "url": "https://zzetao.github.io/awesome-github-profile/",
+    "title": "Awesome Github Profile",
+    "description": "",
+    "tags": ["coding", "githubProfiles"],
+    "saved": "2023-08-19T13:19:05.000Z"
+  },
+  {
+    "url": "https://github.com/rodzy/activity-box",
+    "title": "GitHub - rodzy/activity-box",
+    "description": "Contribute to rodzy/activity-box development by creating an account on GitHub.",
+    "tags": ["githubProfiles", "tech"],
+    "saved": "2023-08-19T13:25:40.000Z"
+  },
+  {
+    "url": "https://github.com/pr2tik1",
+    "title": "pr2tik1 (Pratik Kumar) · GitHub",
+    "description": "pr2tik1 has 21 repositories available. Follow their code on GitHub.",
+    "tags": ["coding", "githubProfiles"],
+    "saved": "2023-08-19T20:30:56.000Z"
+  },
+  {
+    "url": "https://github.com/lizheming",
+    "title": "lizheming (Austin Lee) · GitHub",
+    "description": "Frontend Developer, core maintainer of ThinkJS, Firekylin. - lizheming",
+    "tags": ["coding", "githubProfiles"],
+    "saved": "2023-08-19T20:31:01.000Z"
+  },
+  {
+    "url": "https://github.com/sakshamtaneja21",
+    "title": "sakshamtaneja21 (saksham taneja) · GitHub",
+    "description": "@google  Ex DSC Lead |  @microsoft Student Partner | @mozillian |",
+    "tags": ["coding", "githubProfiles"],
+    "saved": "2023-08-19T20:31:05.000Z"
+  },
+  {
+    "url": "https://roadmap.sh/",
+    "title": "Developer Roadmaps - roadmap.sh",
+    "description": "Community driven roadmaps, articles and guides for developers to grow in their career.",
+    "tags": ["coding", "jobs", "learning"],
+    "saved": "2023-08-20T09:19:37.000Z"
+  },
+  {
+    "url": "https://www.theodinproject.com/",
+    "title": "Your Career in Web Development Starts Here | The Odin Project",
+    "description": "The Odin Project empowers aspiring web developers to learn together for free",
+    "tags": ["coding", "learning"],
+    "saved": "2023-08-20T15:43:44.000Z"
+  },
+  {
+    "url": "https://github.com/ossu/computer-science",
+    "title": "GitHub - ossu/computer-science: :mortar_board: Path to a free self-taught education in Computer Science!",
+    "description": ":mortar_board: Path to a free self-taught education in Computer Science! - GitHub - ossu/computer-science: :mortar_board: Path to a free self-taught education in Computer Science!",
+    "tags": ["coding", "learning"],
+    "saved": "2023-08-20T15:48:19.000Z"
+  },
+  {
+    "url": "https://github.com/mk1123/timebox",
+    "title": "GitHub - mk1123/timebox: A Custom Pomodoro macOS Menubar App",
+    "description": "A Custom Pomodoro macOS Menubar App. Contribute to mk1123/timebox development by creating an account on GitHub.",
+    "tags": ["apps"],
+    "saved": "2023-08-21T10:54:28.000Z"
+  },
+  {
+    "url": "https://camillovisini.com/article/create-macos-menu-bar-app-pomodoro/",
+    "title": "Mac OS Menu Bar App with Python - Camillo Visini",
+    "description": "Create your very own macOS Menu Bar App using Python, rumps and py2app",
+    "tags": ["coding"],
+    "saved": "2023-08-21T15:05:01.000Z"
+  },
+  {
+    "url": "https://espanso.org/",
+    "title": "Espanso - A Privacy-first, Cross-platform Text Expander",
+    "description": "",
+    "tags": ["apps", "software"],
+    "saved": "2023-08-21T15:41:59.000Z"
+  },
+  {
+    "url": "https://www.geeksforgeeks.org/",
+    "title": "GeeksforGeeks | A computer science portal for geeks",
+    "description": "A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.",
+    "tags": ["coding", "learning"],
+    "saved": "2023-08-22T10:56:10.000Z"
+  },
+  {
+    "url": "https://evanhahn.com/a-decade-of-dotfiles/",
+    "title": "A decade of dotfiles",
+    "description": "Reflections on a decade of configuration files.",
+    "tags": ["dotfiles", "macos"],
+    "saved": "2023-08-22T16:35:32.000Z"
+  },
+  {
+    "url": "https://godly.website/",
+    "title": "Godly — Astronomically good web design inspiration",
+    "description": "Godly is a curation of the best web design inspiration, every day. Browse the best e-commerce websites, portfolio websites, animation websites and more.",
+    "tags": ["coding", "design"],
+    "saved": "2023-08-23T09:20:05.000Z"
+  },
+  {
+    "url": "https://hovrly.com/",
+    "title": "Hovrly",
+    "description": "Best partner for disctributed teams",
+    "tags": ["apps"],
+    "saved": "2023-08-23T15:42:06.000Z"
+  },
+  {
+    "url": "https://evanhahn.com/jingle-on-git-commit/",
+    "title": "Play a jingle on Git commits",
+    "description": "I'm Evan Hahn, a programmer.",
+    "tags": ["coding"],
+    "saved": "2023-08-23T21:57:29.000Z"
+  },
+  {
+    "url": "https://github.com/norvig/pytudes",
+    "title": "GitHub - norvig/pytudes: Python programs, usually short, of considerable difficulty, to perfect particular skills.",
+    "description": "Python programs, usually short, of considerable difficulty, to perfect particular skills. - GitHub - norvig/pytudes: Python programs, usually short, of considerable difficulty, to perfect particular skills.",
+    "tags": ["coding", "learning", "python"],
+    "saved": "2023-08-24T08:24:54.000Z"
+  },
+  {
+    "url": "https://github.com/tpope/vim-surround",
+    "title": "GitHub - tpope/vim-surround: surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease",
+    "description": "surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease - GitHub - tpope/vim-surround: surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease",
+    "tags": ["coding", "tech"],
+    "saved": "2023-08-24T09:41:04.000Z"
+  },
+  {
+    "url": "https://exploringjs.com/impatient-js/toc.html",
+    "title": "JavaScript for impatient programmers (ES2022 edition)",
+    "description": "",
+    "tags": ["coding", "javascript", "learning", "reference"],
+    "saved": "2023-08-24T12:17:39.000Z"
+  },
+  {
+    "url": "https://lowtechguys.com/clop/",
+    "title": "Clop - Image, video and clipboard optimiser",
+    "description": "Image, video and clipboard optimiser. Copy large, paste small, send fast",
+    "tags": ["apps", "software"],
+    "saved": "2023-08-24T13:25:48.000Z"
+  },
+  {
+    "url": "https://learnxinyminutes.com/",
+    "title": "Learn X in Y Minutes: Scenic Programming Language Tours",
+    "description": "",
+    "tags": ["coding", "learning"],
+    "saved": "2023-08-24T16:34:09.000Z"
+  },
+  {
+    "url": "https://www.smashingmagazine.com/2015/01/designing-for-print-with-css/",
+    "title": "Designing For Print With CSS — Smashing Magazine",
+    "description": "If you mention printing with CSS to many people who work on the web, [print style sheets](https://www.smashingmagazine.com/2013/03/08/tips-and-tricks-for-print-style-sheets/) are the use that comes to mind. We are all well used to creating a style sheet that is called upon when a web document is printed. These style sheets ensure that the print version is legible and that we don’t cause a user to print out huge images.",
+    "tags": ["coding", "css"],
+    "saved": "2023-08-24T18:25:30.000Z"
+  },
+  {
+    "url": "https://bru6.de/jxa/",
+    "title": "Scripting with JXA | JavaScript for Automation (JXA)",
+    "description": "JavaScript for Automation (JXA) allows to automate tasks in macOS. Although it is a bit rough around the edges, it has advantages over AppleScript.",
+    "tags": ["automation", "javascript", "macos"],
+    "saved": "2023-08-24T21:21:42.000Z"
+  },
+  {
+    "url": "https://scrimba.com/",
+    "title": "Learn to Code with Interactive Tutorials - Scrimba.com",
+    "description": "Scrimba is a fun and fast way of learning to code! Our interactive courses and tutorials will teach you React, Vue, Angular, JavaScript, HTML, CSS, and more.",
+    "tags": ["coding", "learning"],
+    "saved": "2023-08-26T07:51:28.000Z"
+  },
+  {
+    "url": "https://github.com/tbillington/kondo",
+    "title": "GitHub - tbillington/kondo: Cleans dependencies and build artifacts from your projects.",
+    "description": "Cleans dependencies and build artifacts from your projects. - GitHub - tbillington/kondo: Cleans dependencies and build artifacts from your projects.",
+    "tags": ["coding", "software", "tech"],
+    "saved": "2023-08-26T10:58:39.000Z"
+  },
+  {
+    "url": "https://github.com/d-akara/development-resources",
+    "title": "GitHub - d-akara/development-resources: Collection of useful development resources",
+    "description": "Collection of useful development resources. Contribute to d-akara/development-resources development by creating an account on GitHub.",
+    "tags": ["coding", "learning", "reference"],
+    "saved": "2023-08-27T11:15:38.000Z"
+  },
+  {
+    "url": "http://superherojs.com/",
+    "title": "Superhero.js",
+    "description": "",
+    "tags": ["coding", "javascript", "learning", "reference"],
+    "saved": "2023-08-27T11:17:01.000Z"
+  },
+  {
+    "url": "https://github.com/mtdvio/every-programmer-should-know",
+    "title": "GitHub - mtdvio/every-programmer-should-know: A collection of (mostly) technical things every software developer should know about",
+    "description": "A collection of (mostly) technical things every software developer should know about - GitHub - mtdvio/every-programmer-should-know: A collection of (mostly) technical things every software developer should know about",
+    "tags": ["coding", "learning", "reference"],
+    "saved": "2023-08-27T11:18:11.000Z"
+  },
+  {
+    "url": "https://github.com/jorgebucaran/awsm.fish",
+    "title": "GitHub - jorgebucaran/awsm.fish: A curation of prompts, plugins &amp; other Fish treasures 🐚💎",
+    "description": "A curation of prompts, plugins & other Fish treasures 🐚💎 - GitHub - jorgebucaran/awsm.fish: A curation of prompts, plugins & other Fish treasures 🐚💎",
+    "tags": ["macos"],
+    "saved": "2023-08-28T09:50:42.000Z"
+  },
+  {
+    "url": "https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md",
+    "title": "free-programming-books/books/free-programming-books-langs.md at main · EbookFoundation/free-programming-books · GitHub",
+    "description": ":books: Freely available programming books. Contribute to EbookFoundation/free-programming-books development by creating an account on GitHub.",
+    "tags": ["coding", "learning", "reference"],
+    "saved": "2023-08-30T16:18:24.000Z"
+  },
+  {
+    "url": "https://command-not-found.com/",
+    "title": "command-not-found.com",
+    "description": "Install any command on any operating system and in Docker.",
+    "tags": ["coding", "macos", "software"],
+    "saved": "2023-08-31T13:25:50.000Z"
+  },
+  {
+    "url": "https://stackoverflow.com/questions/1425892/how-do-you-merge-two-git-repositories/10548919#10548919",
+    "title": "How do you merge two Git repositories? - Stack Overflow",
+    "description": "",
+    "tags": ["coding", "git"],
+    "saved": "2023-08-31T16:58:45.000Z"
+  },
+  {
+    "url": "https://devtoolstips.org/",
+    "title": "DevTools Tips",
+    "description": "",
+    "tags": ["coding"],
+    "saved": "2023-09-01T08:31:47.000Z"
+  },
+  {
+    "url": "https://gist.github.com/juliavdkris/e3bda6fece354956caf637a8e4a78cc5",
+    "title": "Fish config (aliases n some other shit) · GitHub",
+    "description": "Fish config (aliases n some other shit). GitHub Gist: instantly share code, notes, and snippets.",
+    "tags": ["coding"],
+    "saved": "2023-09-01T10:25:17.000Z"
+  },
+  {
+    "url": "https://module-graduates.codeyourfuture.io/",
+    "title": "Home - Graduate Module",
+    "description": "Welcome to the Graduate Module",
+    "tags": ["coding", "jobs", "resources"],
+    "saved": "2023-09-03T11:57:01.000Z"
+  },
+  {
+    "url": "https://drive.google.com/drive/folders/1UWH1FJBu8LhRmAzHos7mfFsswYLZV5Ar",
+    "title": "Watch Me Recruit Workshop – Google Drive",
+    "description": "",
+    "tags": ["coding", "jobs"],
+    "saved": "2023-09-04T06:52:59.000Z"
+  },
+  {
+    "url": "https://www.frontendmentor.io/challenges",
+    "title": "Frontend Mentor | Challenges",
+    "description": "Browse through the front-end coding challenges on Frontend Mentor. Find interesting projects to practice your HTML, CSS and JavaScript",
+    "tags": ["coding", "learning", "portfolio", "projects"],
+    "saved": "2023-09-04T06:58:29.000Z"
+  },
+  {
+    "url": "https://troopl.com/",
+    "title": "https://troopl.com/",
+    "description": "",
+    "tags": ["coding", "jobs", "portfolio"],
+    "saved": "2023-09-04T07:15:44.000Z"
+  },
+  {
+    "url": "https://www.firsttimersonly.com/",
+    "title": "First Timers Only - Get involved in Open Source and commit code to your first project!",
+    "description": "",
+    "tags": ["coding"],
+    "saved": "2023-09-04T07:21:55.000Z"
+  },
+  {
+    "url": "https://github.com/Kallaway/100-days-of-code",
+    "title": "GitHub - kallaway/100-days-of-code: Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available)",
+    "description": "Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available) - GitHub - kallaway/100-days-of-code: Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available)",
+    "tags": ["challenges", "coding", "projects"],
+    "saved": "2023-09-04T07:22:24.000Z"
+  },
+  {
+    "url": "https://medium.com/basecs/bits-bytes-building-with-binary-13cb4289aafa",
+    "title": "Understanding binary",
+    "description": "",
+    "tags": ["coding", "learning", "reference"],
+    "saved": "2023-09-04T07:23:24.000Z"
+  },
+  {
+    "url": "https://www.frontendpractice.com/",
+    "title": "Frontend Practice | Become a better frontend developer.",
+    "description": "Take your frontend skills to the next level by recreating real websites from real companies.",
+    "tags": ["coding", "portfolio", "projects"],
+    "saved": "2023-09-04T07:31:59.000Z"
+  },
+  {
+    "url": "https://developers.google.com/tech-writing/one",
+    "title": "Technical Writing One introduction  |  Google for Developers",
+    "description": "",
+    "tags": ["coding"],
+    "saved": "2023-09-04T08:55:06.000Z"
+  },
+  {
+    "url": "https://component-party.dev/",
+    "title": "Component Party",
+    "description": "Web component JS frameworks overview by their syntax and features: Svelte 4, React, Vue 3, Angular, Lit, Vue 2, Ember, SolidJS, Alpine, Mithril, Aurelia 2, Qwik, Marko, Aurelia 1, Svelte 5 (preview)",
+    "tags": ["coding", "javascript"],
+    "saved": "2023-09-22T07:06:41.000Z"
+  },
+  {
+    "url": "https://getbezel.app/",
+    "title": "Bezel • Show your iPhone on your Mac",
+    "description": "Bezel mirrors your iPhone onto your Mac by just plugging it in. Beautifully designed for Mac, with ease of use in mind.",
+    "tags": ["apps", "macos"],
+    "saved": "2023-10-02T07:23:01.000Z"
+  },
+  {
+    "url": "https://www.footer.design/",
+    "title": "Footer ‚ÄĒ The only footer gallery on earth.",
+    "description": "Footer is a curated gallery of the top website footer inspiration on earth. Find the footers you need and sort by type and style.",
+    "tags": ["coding", "design", "inspiration"],
+    "saved": "2023-10-05T07:12:09.000Z"
+  },
+  {
+    "url": "https://free-for.dev/#/",
+    "title": "Free for Developers",
+    "description": "Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all to make informed decisions.",
+    "tags": ["coding"],
+    "saved": "2023-10-24T21:08:31.000Z"
+  },
+  {
+    "url": "https://github.com/stevegrunwell/asimov",
+    "title": "GitHub - stevegrunwell/asimov: Automatically exclude development dependencies from Apple Time Machine backups",
+    "description": "Automatically exclude development dependencies from Apple Time Machine backups - GitHub - stevegrunwell/asimov: Automatically exclude development dependencies from Apple Time Machine backups",
+    "tags": ["coding"],
+    "saved": "2023-11-02T13:14:33.000Z"
+  },
+  {
+    "url": "https://apple.stackexchange.com/questions/7799/quicklook-for-files-with-no-extension-or-an-unknown-extension/425757#425757",
+    "title": "ui - QuickLook for files with no extension or an unknown extension - Ask Different",
+    "description": "",
+    "tags": ["coding"],
+    "saved": "2023-11-03T10:26:34.000Z"
+  },
+  {
+    "url": "https://phuoc.ng/collection/html-dom/",
+    "title": "HTML DOM — Phuoc Nguyen",
+    "description": "",
+    "tags": ["coding"],
+    "saved": "2023-11-07T07:33:53.000Z"
+  },
+  {
+    "url": "https://github.com/josean-dev/dev-environment-files",
+    "title": "GitHub - josean-dev/dev-environment-files",
+    "description": "Contribute to josean-dev/dev-environment-files development by creating an account on GitHub.",
+    "tags": ["coding", "neovim"],
+    "saved": "2023-11-19T15:29:53.000Z"
+  },
+  {
+    "url": "https://www.josean.com/posts/neovim-linting-and-formatting",
+    "title": "How To Setup Linting &amp; Formatting In Neovim And Replace null-ls",
+    "description": "How to setup linting & formatting in Neovim with conform.nvim and nvim-lint to replace the archived null-ls plugin.",
+    "tags": ["coding", "neovim"],
+    "saved": "2023-11-20T08:30:27.000Z"
+  },
+  {
+    "url": "https://jvns.ca/blog/2023/11/01/confusing-git-terminology/",
+    "title": "Confusing git terminology",
+    "description": "Confusing git terminology",
+    "tags": ["coding", "git"],
+    "saved": "2023-11-23T22:29:12.000Z"
+  },
+  {
+    "url": "https://github.com/ecosse3/nvim/tree/master",
+    "title": "GitHub - ecosse3/nvim: A non-minimal Neovim config built to work most efficiently with Frontend Development",
+    "description": "A non-minimal Neovim config built to work most efficiently with Frontend Development - GitHub - ecosse3/nvim: A non-minimal Neovim config built to work most efficiently with Frontend Development",
+    "tags": ["coding", "neovim"],
+    "saved": "2023-11-25T06:48:17.000Z"
+  },
+  {
+    "url": "https://css-tricks.com/snippets/css/complete-guide-grid/",
+    "title": "A Complete Guide to CSS Grid | CSS-Tricks - CSS-Tricks",
+    "description": "Our comprehensive guide to CSS grid, focusing on all the settings both for the grid parent container and the grid child elements.",
+    "tags": ["coding", "css"],
+    "saved": "2023-12-04T07:39:00.000Z"
+  },
+  {
+    "url": "https://heptabase.com/",
+    "title": "Heptabase",
+    "description": "A note-taking tool for visual learning.",
+    "tags": ["apps"],
+    "saved": "2024-02-02T08:16:22.000Z"
+  },
+  {
+    "url": "https://github.com/rockerBOO/awesome-neovim?tab=readme-ov-file#snippet",
+    "title": "GitHub - rockerBOO/awesome-neovim: Collections of awesome neovim plugins.",
+    "description": "Collections of awesome neovim plugins. Contribute to rockerBOO/awesome-neovim development by creating an account on GitHub.",
+    "tags": ["coding", "neovim"],
+    "saved": "2024-02-04T18:40:44.000Z"
+  },
+  {
+    "url": "https://github.com/JackDerksen/tmux/blob/main/tmux.conf",
+    "title": "tmux/tmux.conf at main · JackDerksen/tmux · GitHub",
+    "description": "My Tmux config. Contribute to JackDerksen/tmux development by creating an account on GitHub.",
+    "tags": ["coding"],
+    "saved": "2024-02-06T07:23:08.000Z"
+  },
+  {
+    "url": "https://www.reddit.com/r/neovim/comments/st1kxs/some_telescope_tips/",
+    "title": "Some telescope tips",
+    "description": "",
+    "tags": ["coding", "neovim"],
+    "saved": "2024-02-11T21:54:46.000Z"
+  },
+  {
+    "url": "https://codefile.io/",
+    "title": "Codefile — Share collaborative code snippets online⚡️",
+    "description": "Codefile is a collaborative online code editor to share code in real-time with other developers. Create, share and edit collaborative code snippets online for your technical interviews, pair programming, teaching, etc.",
+    "tags": ["coding"],
+    "saved": "2024-02-18T09:22:30.000Z"
+  },
+  {
+    "url": "https://rosettacode.org/wiki/Rosetta_Code",
+    "title": "Rosetta Code",
+    "description": "Rosetta Code is a programming chrestomathy site. The idea is to present solutions to the same task in as many different languages as possible, to demonstrate how...",
+    "tags": ["coding"],
+    "saved": "2024-02-18T17:53:35.000Z"
+  },
+  {
+    "url": "https://www.joshwcomeau.com/css/custom-css-reset/",
+    "title": "Modern CSS Reset / Global Styles",
+    "description": "I have a set of baseline CSS styles that come with me from project to project. In the past, I'd use a typical CSS reset, but times have changed, and I believe I have a better set of global styles!",
+    "tags": ["coding"],
+    "saved": "2024-02-20T23:07:04.000Z"
+  },
+  {
+    "url": "https://github.com/sharkdp/vivid",
+    "title": "GitHub - sharkdp/vivid: A themeable LS_COLORS generator with a rich filetype datebase",
+    "description": "A themeable LS_COLORS generator with a rich filetype datebase - sharkdp/vivid",
+    "tags": ["coding"],
+    "saved": "2024-02-24T18:07:20.000Z"
+  },
+  {
+    "url": "https://www.digitalrebellion.com/posthaste/",
+    "title": "https://www.digitalrebellion.com/posthaste/",
+    "description": "",
+    "tags": ["coding"],
+    "saved": "2024-02-26T10:35:49.000Z"
+  },
+  {
+    "url": "https://dev.to/vonheikemen/lazynvim-how-to-revert-a-plugin-back-to-a-previous-version-1pdp",
+    "title": "Lazy.nvim: how to revert a plugin back to a previous version - DEV Community",
+    "description": "learn how to restore a plugin back to previous version using lazy.nvim. Tagged with neovim, shell.",
+    "tags": ["neovim"],
+    "saved": "2024-03-01T22:33:21.000Z"
+  },
+  {
+    "url": "https://quickref.me/",
+    "title": "QuickRef.ME - Quick Reference Cheat Sheet",
+    "description": "Share quick reference and cheat sheet for developers",
+    "tags": ["coding", "reference"],
+    "saved": "2024-03-02T07:35:42.000Z"
+  },
+  {
+    "url": "https://robohash.org/",
+    "title": "RoboHash",
+    "description": "Generate robot avatars",
+    "tags": ["coding", "placeholders"],
+    "saved": "2024-03-05T15:02:12.000Z"
+  },
+  {
+    "url": "https://deploymentfromscratch.com/",
+    "title": "Deployment from Scratch",
+    "description": "An introductory book to web application deployment",
+    "tags": ["coding"],
+    "saved": "2024-03-17T17:08:42.000Z"
+  },
+  {
+    "url": "https://dev.to/borama/moving-from-hey-to-fastmail-phe",
+    "title": "Moving from HEY to Fastmail - DEV Community",
+    "description": "A few weeks ago, I decided to migrate my mails from HEY to Fastmail. The reasons were not in any way... Tagged with hey, fastmail, email.",
+    "tags": [],
+    "saved": "2024-03-24T11:49:57.000Z"
+  },
+  {
+    "url": "https://github.com/hoppscotch/hoppscotch",
+    "title": "GitHub - hoppscotch/hoppscotch: 👽 Open source API development ecosystem - https://hoppscotch.io",
+    "description": "👽 Open source API development ecosystem - https://hoppscotch.io - hoppscotch/hoppscotch",
+    "tags": ["coding"],
+    "saved": "2024-03-24T18:00:47.000Z"
+  },
+  {
+    "url": "https://bsky.app/profile/filippo.abyssdomain.expert/post/3kowjkx2njy2b",
+    "title": "xz backdoor",
+    "description": "I'm watching some folks reverse engineer the xz backdoor, sharing some *preliminary* analysis with permission.",
+    "tags": ["article", "tech"],
+    "saved": "2024-04-04T12:23:21.000Z"
+  },
+  {
+    "url": "https://github.com/sbarex/SourceCodeSyntaxHighlight?tab=readme-ov-file",
+    "title": "GitHub - sbarex/SourceCodeSyntaxHighlight: Quick Look extension for highlight source code files on macOS 10.15 and later.",
+    "description": "Quick Look extension for highlight source code files on macOS 10.15 and later. - sbarex/SourceCodeSyntaxHighlight",
+    "tags": [],
+    "saved": "2024-04-06T04:44:06.000Z"
+  },
+  {
+    "url": "https://github.com/sindresorhus/quick-look-plugins",
+    "title": "GitHub - sindresorhus/quick-look-plugins: List of useful Quick Look plugins for developers",
+    "description": "List of useful Quick Look plugins for developers. Contribute to sindresorhus/quick-look-plugins development by creating an account on GitHub.",
+    "tags": ["macos"],
+    "saved": "2024-04-06T04:50:11.000Z"
+  },
+  {
+    "url": "https://tidytales.ca/series/2023-01-24_reproducible-data-science/posts/system-setup",
+    "title": "Tidy Tales - System Setup",
+    "description": "Installing and configuring the basics.",
+    "tags": ["dotfiles"],
+    "saved": "2024-04-06T17:51:56.000Z"
+  },
+  {
+    "url": "https://onepagelove.com/",
+    "title": "One Page Love - One Page Website Inspiration and Templates",
+    "description": "One Page Love is a One Page website design gallery showcasing the best Single Page websites, templates and resources.",
+    "tags": ["inspiration", "websites"],
+    "saved": "2024-04-06T17:52:37.000Z"
+  },
+  {
+    "url": "https://bearblog.dev/",
+    "title": "Bear Blog",
+    "description": "Free, no-nonsense, super-fast blogging",
+    "tags": ["blogging"],
+    "saved": "2024-04-06T17:52:56.000Z"
+  },
+  {
+    "url": "https://blogroll.social/",
+    "title": "blogroll.social",
+    "description": "Real-time updates, list sorted by name or time, expand a blog to see recent posts and more.",
+    "tags": ["blogging"],
+    "saved": "2024-04-06T17:53:13.000Z"
+  },
+  {
+    "url": "https://www.mollywhite.net/blogroll/",
+    "title": "Blogroll",
+    "description": "A list of blogs Molly White likes to read.",
+    "tags": ["blogrolls"],
+    "saved": "2024-04-07T07:28:38.000Z"
+  },
+  {
+    "url": "https://john.philpin.com/blogroll/mb/",
+    "title": "Micro Bloggers // 💬 John Philpin",
+    "description": "Journals are typically private. So is mine, but this site is the public-facing part of that private journal",
+    "tags": ["blogrolls"],
+    "saved": "2024-04-07T07:28:58.000Z"
+  },
+  {
+    "url": "https://www.moncefbelyamani.com/automating-the-setup-of-a-new-mac-with-all-your-apps-preferences-and-development-tools/",
+    "title": "Automating the Setup of a New Mac With All Your Apps, Preferences, and Development Tools",
+    "description": "Moncef Belyamani writes guides to help you become a more confident coder.",
+    "tags": ["dotfiles", "macos"],
+    "saved": "2024-04-07T07:34:11.000Z"
+  },
+  {
+    "url": "https://pipedream.com/explore",
+    "title": "Explore Popular APIs, Triggers, Actions and More - Pipedream",
+    "description": "Seems like an interesting alternative to Zapier etc.",
+    "tags": ["tech"],
+    "saved": "2024-04-07T20:43:10.000Z"
+  },
+  {
+    "url": "https://www.reddit.com/r/neovim/comments/14fdyjk/typescripttoolsnvim_the_typescript_integration/",
+    "title": "typescript-tools.nvim - The TypeScript Integration NeoVim Deserves",
+    "description": "",
+    "tags": ["neovim"],
+    "saved": "2024-04-09T10:19:55.000Z"
+  },
+  {
+    "url": "https://www.val.town/",
+    "title": "Val Town",
+    "description": "",
+    "tags": [],
+    "saved": "2024-04-11T17:16:48.000Z"
+  },
+  {
+    "url": "https://dev.to/barrymichaeldoyle/tanstacks-react-query-kicked-onsuccess-onerror-and-onsettled-out-of-usequery-now-what-2i33",
+    "title": "Tanstack&#x27;s React Query Kicked `onSuccess`, `onError`, and `onSettled` Out of `useQuery`: Now What?! - DEV Community",
+    "description": "Useful example of moving away from onError in React Query.",
+    "tags": ["code", "react"],
+    "saved": "2024-04-12T10:28:02.000Z"
+  },
+  {
+    "url": "https://n8d.at/how-to-apply-your-locale-to-office-for-mac",
+    "title": "How to apply your locale to Office for Mac | Stefan Bauer - N8D",
+    "description": "If your user interface language doesn't match your region you need to make a small change to get the correct support in Applications as well as Microsoft Office.",
+    "tags": [],
+    "saved": "2024-04-16T05:48:37.000Z"
+  },
+  {
+    "url": "https://jeffhuang.com/productivity_text_file/",
+    "title": "My productivity app is a never-ending .txt file",
+    "description": "",
+    "tags": [],
+    "saved": "2024-04-21T13:53:34.000Z"
+  },
+  {
+    "url": "https://salferrarello.com/mac-pfctl-port-forwarding/",
+    "title": "Mac pfctl Port Forwarding - Sal Ferrarello",
+    "description": "Historically, I used ipfw from the command line to do port forwarding on my Mac. Unfortunately, as of Yosemite OS X 10.10 ipfw has been removed. (In all fairness, ipfw has been deprecated for some time but I continued using it because it was way easier than pfctl on the command line). Command Line pfctl […]",
+    "tags": [],
+    "saved": "2024-05-01T12:21:44.000Z"
+  },
+  {
+    "url": "https://partridge.cloud/",
+    "title": "Partridge Cloud | alan partridge quote gif search engine",
+    "description": "Alan Partridge Quote GIF Search Engine",
+    "tags": [],
+    "saved": "2024-05-02T07:31:33.000Z"
+  },
+  {
+    "url": "https://blip.net/",
+    "title": "Blip – The fastest way to send files",
+    "description": "Send big files with no size limits, at full quality, directly to other people and devices. Blip lets you send files of any size across platforms to your other devices, or to anyone (wherever they are). Files go directly to the other person, so they can start receiving instantly at super fast speeds, even over long distances. Get started with Blip for free today.",
+    "tags": [],
+    "saved": "2024-05-06T07:19:27.000Z"
+  },
+  {
+    "url": "https://www.reddit.com/r/neovim/comments/1azmxiy/underrated_plugins/",
+    "title": "https://www.reddit.com/r/neovim/comments/1azmxiy/underrated_plugins/",
+    "description": "",
+    "tags": [],
+    "saved": "2024-05-16T21:53:14.000Z"
+  },
+  {
+    "url": "https://www.reddit.com/r/neovim/comments/1atjo16/cool_shortcuts_to_become_a_neovim_wizard/",
+    "title": "https://www.reddit.com/r/neovim/comments/1atjo16/cool_shortcuts_to_become_a_neovim_wizard/",
+    "description": "",
+    "tags": [],
+    "saved": "2024-05-16T21:53:38.000Z"
+  },
+  {
+    "url": "https://www.reddit.com/r/neovim/comments/1af1r03/what_was_that_one_keybinding_that_you_somehow/",
+    "title": "https://www.reddit.com/r/neovim/comments/1af1r03/what_was_that_one_keybinding_that_you_somehow/",
+    "description": "",
+    "tags": [],
+    "saved": "2024-05-16T21:53:52.000Z"
+  },
+  {
+    "url": "https://www.reddit.com/r/neovim/comments/1ask23t/clipboardunnamedplus_rob_my_nerves_how_do_you/",
+    "title": "https://www.reddit.com/r/neovim/comments/1ask23t/clipboardunnamedplus_rob_my_nerves_how_do_you/",
+    "description": "",
+    "tags": [],
+    "saved": "2024-05-16T21:54:05.000Z"
+  },
+  {
+    "url": "https://github.com/jordanbaird/Ice",
+    "title": "GitHub - jordanbaird/Ice: Powerful menu bar manager for macOS",
+    "description": "Powerful menu bar manager for macOS. Contribute to jordanbaird/Ice development by creating an account on GitHub.",
+    "tags": ["apps"],
+    "saved": "2024-06-16T07:30:40.000Z"
+  },
+  {
+    "url": "https://x.com/bydonkeys/status/1807141707571454290?s=10",
+    "title": "Farage Led by Donkeys Putin stunt",
+    "description": "",
+    "tags": ["funny"],
+    "saved": "2024-06-30T12:15:20.000Z"
+  },
+  {
+    "url": "https://technotales.wordpress.com/2010/04/29/vim-splits-a-guide-to-doing-exactly-what-you-want/",
+    "title": "Vim Splits: A Guide to Doing Exactly What You Want | Jonathan&#x27;s Techno-tales",
+    "description": "UPDATE: With respect to terminology, check out Drew Neil's comment below. In Vim, I've been using splits for years. Splits are great: view 2 files at the same time view 2 parts of the same file at the same time dump bits of text into a new split dump command outputs into a new split…",
+    "tags": ["neovim"],
+    "saved": "2024-07-11T13:03:45.000Z"
+  },
+  {
+    "url": "https://hyperpolyglot.org/",
+    "title": "Programming Languages - Hyperpolyglot",
+    "description": "Side-by-side comparisons of different programming languages",
+    "tags": ["coding"],
+    "saved": "2024-07-15T14:27:10.000Z"
+  },
+  {
+    "url": "https://design-system.service.gov.uk/patterns/phone-numbers/",
+    "title": "Phone numbers – GOV.UK Design System",
+    "description": "Help users enter a valid phone number",
+    "tags": [],
+    "saved": "2024-07-26T11:04:50.000Z"
+  },
+  {
+    "url": "https://www.evernote.design/",
+    "title": "All in One Bookmark Links for Designer - Evernote.Design",
+    "description": "The best resources for designer",
+    "tags": [],
+    "saved": "2024-08-03T15:49:15.000Z"
+  },
+  {
+    "url": "https://github.com/public-apis/public-apis?tab=readme-ov-file",
+    "title": "GitHub - public-apis/public-apis: A collective list of free APIs",
+    "description": "A collective list of free APIs. Contribute to public-apis/public-apis development by creating an account on GitHub.",
+    "tags": [],
+    "saved": "2024-08-04T13:21:47.000Z"
+  },
+  {
+    "url": "https://github.com/MLFlexer/resurrect.wezterm",
+    "title": "GitHub - MLFlexer/resurrect.wezterm: A plugin to restore windows, tabs and panes for Wezterm inspired by tmux-resurrect",
+    "description": "A plugin to restore windows, tabs and panes for Wezterm inspired by tmux-resurrect - MLFlexer/resurrect.wezterm",
+    "tags": ["terminal"],
+    "saved": "2024-08-04T20:26:22.000Z"
+  },
+  {
+    "url": "https://recastthis.com/",
+    "title": "Recast",
+    "description": "A service to replay podcast feeds from the start.",
+    "tags": [],
+    "saved": "2024-08-17T06:18:40.000Z"
+  },
+  {
+    "url": "https://latr.fm",
+    "title": "latr.fm",
+    "description": "Latr.fm lets you save episodes of podcasts to a single feed.",
+    "tags": [],
+    "saved": "2024-08-27T21:48:19.000Z"
+  },
+  {
+    "url": "https://jam.dev/utilities",
+    "title": "Open Source Developer Tools | Free Utilities",
+    "description": "Jam exists to make developers lives easier. Here are fast, free, open source, ad-free tools. Simplify your coding tasks with utilities like Base64 encode/decode, URL encode/decode, HEX to RGB converter, Timestamp to Date converter, and more.",
+    "tags": [],
+    "saved": "2024-08-28T21:06:37.000Z"
+  },
+  {
+    "url": "https://departuremono.com/",
+    "title": "Departure Mono",
+    "description": "Departure Mono is a monospaced pixel font by Helena Zhang, licensed under the SIL OFL.",
+    "tags": [],
+    "saved": "2024-09-04T07:47:08.000Z"
+  },
+  {
+    "url": "https://github.com/michaelbrusegard/awesome-wezterm?tab=readme-ov-file",
+    "title": "GitHub - michaelbrusegard/awesome-wezterm: Collections of awesome WezTerm plugins.",
+    "description": "Collections of awesome WezTerm plugins. Contribute to michaelbrusegard/awesome-wezterm development by creating an account on GitHub.",
+    "tags": ["terminal"],
+    "saved": "2024-09-08T06:36:48.000Z"
+  },
+  {
+    "url": "https://mwop.net/blog/2024-07-04-how-i-use-wezterm.html",
+    "title": "mwop.net :: How I use Wezterm",
+    "description": "",
+    "tags": ["terminal"],
+    "saved": "2024-09-13T20:19:06.000Z"
+  },
+  {
+    "url": "https://innerfrench.com/",
+    "title": "innerFrench – Learn French through topics that matter.",
+    "description": "",
+    "tags": ["french", "language", "podcast"],
+    "saved": "2024-09-17T19:37:40.000Z"
+  },
+  {
+    "url": "https://apprendre.tv5monde.com/en/exercices/shamengo",
+    "title": "Access Denied",
+    "description": "",
+    "tags": ["french", "language"],
+    "saved": "2024-09-17T20:05:22.000Z"
+  },
+  {
+    "url": "https://onethinginafrenchday.podbean.com/",
+    "title": "One Thing In A French Day | Laetitia Perraut",
+    "description": "A small slice of a Frenchwoman’s day -- in France and in French. A fun podcast to improve your French! On Mondays, Wednesdays and Fridays.",
+    "tags": ["french", "language"],
+    "saved": "2024-09-17T20:07:47.000Z"
+  },
+  {
+    "url": "https://francaisfacile.rfi.fr/fr/",
+    "title": "RFI - learn French",
+    "description": "Follow any political information, cultural, sporting and live streaming on RFI. The latest information, news and events in France, Europe and around the world.",
+    "tags": ["french", "language"],
+    "saved": "2024-09-17T20:55:05.000Z"
+  },
+  {
+    "url": "https://newsinfrench.org/",
+    "title": "The Daily Newsletter - News in French",
+    "description": "Start your day with a little français.  More than just a free email — it’s your daily dose of French, right in your inbox, every morning. Discover new Francophone music, learn new vocabulary, and get up to speed on the day’s most interesting stories — all en français. Sign up now and join 15,000+ students, […]",
+    "tags": ["french", "language"],
+    "saved": "2024-09-17T21:36:34.000Z"
+  },
+  {
+    "url": "https://languagecrush.com/why-join-us#reading",
+    "title": "Why LanguageCrush",
+    "description": "why_join_us_peb__metadata",
+    "tags": ["language"],
+    "saved": "2024-09-22T17:36:40.000Z"
+  },
+  {
+    "url": "https://speakly.me/en",
+    "title": "Speakly: Learn languages 5x faster",
+    "description": "Speakly is the fastest way to learn a language",
+    "tags": ["language"],
+    "saved": "2024-09-22T17:36:51.000Z"
+  },
+  {
+    "url": "https://www.languagereactor.com/",
+    "title": "Language Reactor",
+    "description": "Language Reactor: your language learning toolbox. Discover, understand, and learn from native materials, including Netflix and YouTube. (Formerly called 'Language Learning with Netflix'.)",
+    "tags": ["language"],
+    "saved": "2024-09-23T12:29:04.000Z"
+  },
+  {
+    "url": "https://refold.la/",
+    "title": "The Best Way To Learn A New Language - Refold",
+    "description": "The first complete language learning solution. We show you how to learn a new language from zero to fluency. Get started now.",
+    "tags": ["language"],
+    "saved": "2024-09-23T12:29:59.000Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=KxLRp1yd8Ro",
+    "title": "The ULTIMATE Sentence Mining Tutorial - How to make your own Anki cards",
+    "description": "Refold tutorial",
+    "tags": ["language"],
+    "saved": "2024-09-27T09:21:43.000Z"
+  },
+  {
+    "url": "https://languatalk.com/blog/podcast/french/",
+    "title": "LanguaTalk Slow French: Learn French With Gaëlle | French podcast for A2 &amp; above",
+    "description": "Learn French with Gaëlle, an experienced French teacher. 99% in French and designed for basic level (A2) learners & above. Free interactive transcripts & vocab lists.",
+    "tags": ["french", "language"],
+    "saved": "2024-10-05T15:02:46.000Z"
+  },
+  {
+    "url": "https://www.fluentu.com/blog/french/french-podcasts/?rfsn=85633.c2da#toc_3",
+    "title": "21 Excellent French Podcasts for Learners | FluentU Language Learning",
+    "description": "Try listening to some French podcasts if you are trying to improve your French listening, but are tired of the same old methods! This post will introduce you to 21 French podcasts you're guaranteed to love, from the beginner to the advanced level. So open your favorite podcast app and let's get listening!",
+    "tags": ["french", "language"],
+    "saved": "2024-10-06T16:35:37.000Z"
+  },
+  {
+    "url": "https://greycoder.com/a-list-of-text-only-new-sites/",
+    "title": "A List Of Text-Only &amp; Minimalist News Sites - GreyCoder",
+    "description": "Here is a list of text-only and clutter-free news sites:",
+    "tags": [],
+    "saved": "2024-10-09T06:57:09.000Z"
+  },
+  {
+    "url": "https://thecopenhagenbook.com/",
+    "title": "The Copenhagen Book",
+    "description": "A basic guideline on implementing auth for the web.",
+    "tags": ["coding"],
+    "saved": "2024-10-12T06:35:53.000Z"
+  },
+  {
+    "url": "https://francais.lingolia.com/en/",
+    "title": "Lingolia",
+    "description": "",
+    "tags": ["french", "language"],
+    "saved": "2024-10-16T18:46:23.000Z"
+  },
+  {
+    "url": "https://www.linternaute.fr/dictionnaire/fr/",
+    "title": "Dictionnaire français : définitions faciles, synonymes, exemples",
+    "description": "Dictionnaire gratuit avec synonymes, contraires,",
+    "tags": ["french", "language"],
+    "saved": "2024-10-17T10:47:57.000Z"
+  },
+  {
+    "url": "https://indigostack.app/",
+    "title": "IndigoStack | IndigoStack",
+    "description": "IndigoStack: the local dev environment you will love.",
+    "tags": ["coding"],
+    "saved": "2024-10-19T21:43:01.000Z"
+  },
+  {
+    "url": "https://languageroadmap.com/",
+    "title": "Language Roadmap",
+    "description": "Find the perfect language content to immerse in next",
+    "tags": ["french", "language"],
+    "saved": "2024-10-22T07:15:53.000Z"
+  },
+  {
+    "url": "https://www.linguno.com/practice/conjugations/drills/?lang=fra",
+    "title": "Linguno - French conjugation practice",
+    "description": "Practice French conjugations.",
+    "tags": ["french", "language"],
+    "saved": "2024-10-22T09:33:30.000Z"
+  },
+  {
+    "url": "https://www.netflix.com/gb/browse/genre/100378",
+    "title": "French Movies &amp; TV Shows | Netflix Official Site",
+    "description": "Romantic dramas, funny comedies, scary horror stories, action-packed thrillers – these movies and TV shows in French have something for fans of all genres.",
+    "tags": ["french", "language"],
+    "saved": "2024-10-26T13:01:49.000Z"
+  },
+  {
+    "url": "https://morpheem.org/fr",
+    "title": "Morpheem - For serious language learners",
+    "description": "",
+    "tags": ["french", "language"],
+    "saved": "2024-10-27T21:32:22.000Z"
+  },
+  {
+    "url": "https://bui.interestingprojects.net/",
+    "title": "Beeminder UI",
+    "description": "Beeminder UI",
+    "tags": [],
+    "saved": "2024-10-30T09:47:08.000Z"
+  },
+  {
+    "url": "https://apprendre.tv5monde.com/en",
+    "title": "Access Denied",
+    "description": "",
+    "tags": ["french", "language"],
+    "saved": "2024-11-01T08:31:28.000Z"
+  },
+  {
+    "url": "https://www.raconte.app/",
+    "title": "Raconte",
+    "description": "Learn real French naturally with native content. The best curated library for learning French with podcasts, youtube videos, news and more.",
+    "tags": ["french", "language"],
+    "saved": "2024-11-01T20:22:17.000Z"
+  },
+  {
+    "url": "https://libguides.utsa.edu/c.php?g=1339348",
+    "title": "Getting Started - DEVONthink for Mac - LibGuides at University of Texas at San Antonio",
+    "description": "Tool for organizing, describing, searching, and linking text and multimedia documents",
+    "tags": [],
+    "saved": "2024-11-08T14:49:24.000Z"
+  },
+  {
+    "url": "https://blueskydirectory.com/",
+    "title": "The Ultimate Directory of tools and applications for Bluesky",
+    "description": "A curated collection of all things relating to the Blue Sky social media platform.",
+    "tags": [],
+    "saved": "2024-11-15T07:13:05.000Z"
+  },
+  {
+    "url": "https://stretchmytimeoff.com/",
+    "title": "Stretch My Time Off - Optimise Your Vacation Days",
+    "description": "Unlock the secret to extending your vacation by optimising your time off.",
+    "tags": [],
+    "saved": "2024-11-15T08:22:25.000Z"
+  },
+  {
+    "url": "https://www.theverge.com/24295933/bluesky-social-network-custom-how-to",
+    "title": "Here’s some cool stuff you can do with Bluesky - The Verge",
+    "description": "Bluesky offers a lot of unique features like algorithmic feeds and custom moderation that can make for a rich, in-control experience for users.",
+    "tags": [],
+    "saved": "2024-11-17T22:33:55.000Z"
+  },
+  {
+    "url": "https://100daysofdante.com/",
+    "title": "Dante reading group",
+    "description": "Travel with Dante, Virgil and Beatrice through the Inferno up to Paradise with the world's largest reading group of Dante's Divine Comedy.",
+    "tags": ["literature"],
+    "saved": "2024-12-30T08:24:51.000Z"
+  },
+  {
+    "url": "https://kindavim.app/",
+    "title": "kindaVim",
+    "description": "it's kinda like Vim but not really.",
+    "tags": [],
+    "saved": "2025-01-03T07:38:19.000Z"
+  },
+  {
+    "url": "https://github.com/infused-kim/fish-refresh-prompt-on-cmd?tab=readme-ov-file#ideal-setup",
+    "title": "GitHub - infused-kim/fish-refresh-prompt-on-cmd: A fish shell plugin that allows you to refresh the prompt BEFORE the next command is executed to display updated time, git state, etc. at the moment of the command execution.",
+    "description": "A fish shell plugin that allows you to refresh the prompt BEFORE the next command is executed to display updated time, git state, etc. at the moment of the command execution. - infused-kim/fish-refresh-prompt-on-cmd",
+    "tags": [],
+    "saved": "2025-01-06T07:17:12.000Z"
+  },
+  {
+    "url": "https://github.com/pkazmier/nvim/tree/main",
+    "title": "GitHub - pkazmier/nvim: My personal neovim configuration",
+    "description": "My personal neovim configuration. Contribute to pkazmier/nvim development by creating an account on GitHub.",
+    "tags": ["neovim"],
+    "saved": "2025-01-08T21:50:44.000Z"
+  },
+  {
+    "url": "https://dev.to/elliotalexander/how-to-use-docker-without-docker-desktop-on-macos-217m",
+    "title": "How to use Docker without Docker Desktop on MacOS 📦 - DEV Community",
+    "description": "Preamble   I think a lot of large software teams have struggled with Docker's licensing... Tagged with docker, containerapps, devops, webdev.",
+    "tags": ["coding", "docker"],
+    "saved": "2025-01-10T09:24:05.000Z"
+  },
+  {
+    "url": "https://ffmpegbyexample.com/",
+    "title": "FFmpeg By Example",
+    "description": "Explore the depth of FFmpeg with Examples",
+    "tags": [],
+    "saved": "2025-01-16T06:36:14.000Z"
+  },
+  {
+    "url": "https://orbstack.dev/",
+    "title": "OrbStack · Fast, light, simple Docker &amp; Linux",
+    "description": "Say goodbye to slow, clunky containers and VMs. The fast, light, and easy way to run containers and Linux. Develop at lightspeed with our Docker Desktop alternative.",
+    "tags": ["coding", "docker"],
+    "saved": "2025-02-06T06:36:28.000Z"
+  },
+  {
+    "url": "https://www.mrporter.com/en-gb/journal/lifestyle/life-lessons-people-tokyo-japan-style-food-24538500",
+    "title": "15 Ways To Improve Your Life, Japanese Style",
+    "description": "",
+    "tags": [],
+    "saved": "2025-02-09T17:28:44.000Z"
+  },
+  {
+    "url": "https://pinggy.io/",
+    "title": "Pinggy - Simple Localhost Tunnels",
+    "description": "Pinggy is the simplest way to bring your localhost projects online. It the the fastest way to create secure tunnels to localhost with a public url.",
+    "tags": [],
+    "saved": "2025-02-19T10:51:44.000Z"
+  },
+  {
+    "url": "https://beej.us/guide/bggit/html/split/",
+    "title": "Beej&#x27;s Guide to Git",
+    "description": "",
+    "tags": ["coding", "git"],
+    "saved": "2025-02-21T08:30:53.000Z"
+  },
+  {
+    "url": "https://github.com/abhinavxd/libredesk",
+    "title": "GitHub - abhinavxd/libredesk: Open source, self-hosted customer support desk. Single binary app.",
+    "description": "Open source, self-hosted customer support desk. Single binary app. - abhinavxd/libredesk",
+    "tags": [],
+    "saved": "2025-02-28T07:13:55.000Z"
+  },
+  {
+    "url": "https://github.com/kleneway/pastemax",
+    "title": "GitHub - kleneway/pastemax: A simple tool to select files from a repository to copy/paste into an LLM",
+    "description": "A simple tool to select files from a repository to copy/paste into an LLM - kleneway/pastemax",
+    "tags": [],
+    "saved": "2025-03-24T23:09:28.000Z"
+  },
+  {
+    "url": "https://resend.com/",
+    "title": "Resend · Email for developers · Resend",
+    "description": "Build, test, and send transactional and marketing emails at scale.",
+    "tags": ["coding", "email"],
+    "saved": "2025-03-26T15:17:33.000Z"
+  },
+  {
+    "url": "https://github.com/glanceapp/glance",
+    "title": "GitHub - glanceapp/glance: A self-hosted dashboard that puts all your feeds in one place",
+    "description": "A self-hosted dashboard that puts all your feeds in one place - glanceapp/glance",
+    "tags": [],
+    "saved": "2025-03-28T09:24:07.000Z"
+  },
+  {
+    "url": "https://www.rationl.co.uk/",
+    "title": "Vegan footwear &amp; accessories– Ration.L",
+    "description": "Vegan trainers , sneakers and vegan fashion . Sustainable fashion brands. vegan society certified",
+    "tags": ["trainers"],
+    "saved": "2025-03-29T05:49:22.000Z"
+  },
+  {
+    "url": "https://wills-vegan-shoes.com/collections/vegan-trainers-sneakers-mens",
+    "title": "Vegan Sneakers &amp; Trainers",
+    "description": "Vegan shoes, boots, clothing & accessories ethically made in Europe since 2012. 365 days free returns & exchanges. Make a Positive Choice.",
+    "tags": ["trainers"],
+    "saved": "2025-03-29T05:53:54.000Z"
+  },
+  {
+    "url": "https://www.reebok.eu/en-gb/sets/vegan",
+    "title": "Reebok vegan trainers",
+    "description": "",
+    "tags": ["trainers"],
+    "saved": "2025-03-29T05:54:58.000Z"
+  },
+  {
+    "url": "https://www.syllabi.directory/",
+    "title": "Syllabi",
+    "description": "Introductions to new subjects by great people.",
+    "tags": [],
+    "saved": "2025-03-29T12:45:39.000Z"
+  },
+  {
+    "url": "https://github.com/punkpeye/awesome-mcp-servers",
+    "title": "GitHub - punkpeye/awesome-mcp-servers: A collection of MCP servers.",
+    "description": "A collection of MCP servers. Contribute to punkpeye/awesome-mcp-servers development by creating an account on GitHub.",
+    "tags": [],
+    "saved": "2025-04-03T14:20:35.000Z"
+  },
+  {
+    "url": "https://endler.dev/2025/best-programmers/",
+    "title": "The Best Programmers I Know | Matthias Endler",
+    "description": "Personal website of Matthias Endler, a Software Engineer interested in low-level programming and Backend development. Rust, Go",
+    "tags": ["coding"],
+    "saved": "2025-04-10T05:47:14.000Z"
+  },
+  {
+    "url": "https://brettterpstra.com/off/",
+    "title": "Off White/Black",
+    "description": "Pick off-white/black background colour",
+    "tags": ["coding"],
+    "saved": "2025-04-15T18:31:17.000Z"
+  },
+  {
+    "url": "https://dylanbeattie.net/2025/04/11/the-problem-with-vibe-coding.html",
+    "title": "The Problem with “Vibe Coding” : dylanbeattie.net",
+    "description": "An article from dylanbeattie.net",
+    "tags": ["coding"],
+    "saved": "2025-04-16T07:57:02.000Z"
+  },
+  {
+    "url": "https://mediablog.prnewswire.com/2025/03/26/verification-tools-for-journalists/",
+    "title": "20 Helpful Verification Tools for Journalists | Beyond Bylines",
+    "description": "As we near April Fool’s Day and its potential wave of misleading content, we're rounding up a few verification tools that journalists should bookmark.",
+    "tags": [],
+    "saved": "2025-04-20T10:52:30.000Z"
+  },
+  {
+    "url": "https://github.com/ggml-org/whisper.cpp",
+    "title": "GitHub - ggml-org/whisper.cpp: Port of OpenAI&#x27;s Whisper model in C/C++",
+    "description": "Port of OpenAI's Whisper model in C/C++. Contribute to ggml-org/whisper.cpp development by creating an account on GitHub.",
+    "tags": [],
+    "saved": "2025-04-23T06:18:01.000Z"
+  },
+  {
+    "url": "https://framous.app/",
+    "title": "Framous",
+    "description": "The fastest way to add device frames to your screenshots.",
+    "tags": ["apps"],
+    "saved": "2025-04-26T21:40:35.000Z"
+  },
+  {
+    "url": "https://www.reddit.com/r/French/wiki/resources/",
+    "title": "r/French resources",
+    "description": "",
+    "tags": ["french"],
+    "saved": "2025-04-29T07:16:42.000Z"
+  },
+  {
+    "url": "https://pudding.cool/2025/03/language/",
+    "title": "How do animals sound across languages?",
+    "description": "Analyzing animal onomatopoeia across languages can demystify how we shape sound into meaning.",
+    "tags": [],
+    "saved": "2025-04-29T08:29:23.000Z"
+  },
+  {
+    "url": "https://github.com/glomatico/gamdl",
+    "title": "GitHub - glomatico/gamdl: A Python CLI app for downloading Apple Music songs, music videos and post videos.",
+    "description": "A Python CLI app for downloading Apple Music songs, music videos and post videos. - glomatico/gamdl",
+    "tags": [],
+    "saved": "2025-05-03T10:42:24.000Z"
+  },
+  {
+    "url": "https://nanuelectrics.com/products/nudge-counter",
+    "title": "Nudge Counter– Nanu",
+    "description": "For the things that count Nudge is a tabletop tally counter for personal reflection. Big or small, track the wins, routines, and habits that matter to you. Used as a habit accountability tool, daily meditation tool, stitch and row counter, and many more!",
+    "tags": [],
+    "saved": "2025-05-07T20:31:01.000Z"
+  },
+  {
+    "url": "https://plainvanillaweb.com/index.html",
+    "title": "Plain Vanilla",
+    "description": "An explainer for doing web development using only vanilla techniques.",
+    "tags": ["code"],
+    "saved": "2025-05-12T09:05:59.000Z"
+  },
+  {
+    "url": "https://pagescms.org/",
+    "title": "Pages CMS: The No-Hassle CMS for Static Sites Generators",
+    "description": "Tired of juggling Git and YAML to update your Next.js, Astro, Hugo or Nuxt website? Make it easy on you and your team, get a user-friendly CMS running straight on top of GitHub.",
+    "tags": ["code"],
+    "saved": "2025-05-12T13:21:55.000Z"
+  },
+  {
+    "url": "https://www.youtube.com/@FrenchWithPanache",
+    "title": "French With Panache",
+    "description": "",
+    "tags": ["french", "video", "youtube"],
+    "saved": "2025-09-27T12:47:59.000Z"
+  },
+  {
+    "url": "https://www.radiofrance.fr/franceculture/podcasts/les-pieds-sur-terre",
+    "title": "Les Pieds sur terre : podcast de reportages sur France Culture",
+    "description": "PODCAST. Chaque jour, une demi-heure de reportage sans commentaire. Écoutez en replay l'émission Les Pieds sur terre par Sonia Kronlund sur France Culture.",
+    "tags": ["french", "podcast"],
+    "saved": "2025-09-28T07:26:11.000Z"
+  },
+  {
+    "url": "https://www.urbansider.com/shopping/leau-et-les-reves/",
+    "title": "L’Eau et Les Rêves | Urbansider",
+    "description": "Can you think of anything more charming than a bookshop on a boat? And in Paris? There's a coffee shop too...",
+    "tags": ["paris"],
+    "saved": "2025-09-28T14:36:14.000Z"
+  },
+  {
+    "url": "https://online-go.com/learn-to-play-go",
+    "title": "Learn to play Go",
+    "description": "Online-Go.com is the best place to play the game of Go online. Our community supported site is friendly, easy to use, and free, so come join us and play some Go!",
+    "tags": [],
+    "saved": "2025-09-29T06:14:50.000Z"
+  },
+  {
+    "url": "https://loadmo.re/",
+    "title": "LOADMORE",
+    "description": "LOADMORE showcases unconventional websites for smartphones.",
+    "tags": [],
+    "saved": "2025-10-01T06:25:57.000Z"
+  },
+  {
+    "url": "https://www.are.na/trudy-painter/cool-websites-yj6tfjbuhp8",
+    "title": "📚 cool websites🕹 | Are.na",
+    "description": "⭐️ https://gizmo.party/",
+    "tags": [],
+    "saved": "2025-10-01T06:27:39.000Z"
+  },
+  {
+    "url": "https://cargo.site/",
+    "title": "Cargo",
+    "description": "Site builder for designers and artists",
+    "tags": [],
+    "saved": "2025-10-01T06:31:05.000Z"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing",
+    "title": "Wikipedia:Signs of AI writing - Wikipedia",
+    "description": "",
+    "tags": [],
+    "saved": "2025-10-08T20:27:38.000Z"
+  },
+  {
+    "url": "https://hacker-laws.com/#hofstadters-law",
+    "title": "Hacker Laws",
+    "description": "",
+    "tags": [],
+    "saved": "2025-10-10T07:24:07.000Z"
+  },
+  {
+    "url": "https://rameerez.com/free-newsletter-service/#listmonk-tutorial",
+    "title": "Try this free newsletter service (free Mailchimp alternative)",
+    "description": "Run your email marketing campaigns for free (or for really, really cheap), no matter the size of your newsletter.",
+    "tags": [],
+    "saved": "2025-10-10T09:58:57.000Z"
+  },
+  {
+    "url": "https://www.halfaya.org/proust/translation",
+    "title": "Halfaya Research - Proust in Translation",
+    "description": "Proust main page\u000b\u000bMy own translations of some short passages",
+    "tags": ["proust"],
+    "saved": "2025-10-13T06:12:36.000Z"
+  },
+  {
+    "url": "https://vercel.com/changelog/mcp-server-support-on-vercel",
+    "title": "MCP server support on Vercel - Vercel",
+    "description": "Run MCP servers on with Next.js or Node.js in your Vercel project with 1st class support for Anthropic's MCP SDK",
+    "tags": [],
+    "saved": "2025-10-14T06:33:03.000Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=45874987",
+    "title": "Vibe Code Warning – A personal casestudy | Hacker News",
+    "description": "",
+    "tags": [],
+    "saved": "2025-11-12T07:36:09.000Z"
+  },
+  {
+    "url": "https://www.incommonwith.com/collections/table-lamps",
+    "title": "In Common With | Table Lamps",
+    "description": "In Common With",
+    "tags": ["design", "tech", "websites"],
+    "saved": "2025-11-13T07:55:24.000Z"
+  },
+  {
+    "url": "https://vert.sh/",
+    "title": "VERT.sh",
+    "description": "With VERT you can quickly convert any image, video and audio file. No ads, no tracking, open source, and all processing (other than video) is done on your device.",
+    "tags": [],
+    "saved": "2025-11-17T11:24:26.000Z"
+  },
+  {
     "url": "https://leancrew.com/all-this/2025/07/savin-links-to-tot/",
     "title": "Saving links to Tot - All this",
-    "tags": [
-      "automation"
-    ],
+    "tags": ["automation"],
     "saved": "2025-11-22T12:00:00Z"
   },
   {
     "url": "https://leancrew.com/all-this/2017/04/one-off-text-filtering-in-bbedit/",
     "title": "One-off text filtering in BBEdit - All this",
-    "tags": [
-      "text-editors"
-    ],
+    "tags": ["text-editors"],
     "saved": "2025-11-22T12:01:00Z"
   },
   {
     "url": "https://leancrew.com/all-this/2022/02/switching-safari-tabs-from-bbedit/",
     "title": "Switching Safari tabs from BBEdit - All this",
-    "tags": [
-      "text-editors"
-    ],
+    "tags": ["text-editors"],
     "saved": "2025-11-23T12:00:00Z"
   },
   {
     "url": "https://www.reddit.com/r/IpodClassic/comments/148nohs/podcasts_tab_not_appearing_in_ipod_page_in_macos/",
     "title": "Podcasts tab not appearing in iPod page in MacOS Finder : r/IpodClassic",
-    "tags": [
-      "tech"
-    ],
+    "tags": ["tech"],
     "saved": "2025-11-24T12:00:00Z"
   },
   {
     "url": "https://blip.net/",
     "title": "Blip – The fastest way to send files",
-    "tags": [
-      "apps"
-    ],
+    "tags": ["apps"],
     "saved": "2025-11-27T12:00:00Z"
   },
   {
     "url": "https://lingolingo.app/french-youtube-channels",
     "title": "YouTube Channels for Learning French - Recommended by Reddit",
-    "tags": [
-      "french"
-    ],
+    "tags": ["french"],
     "saved": "2025-12-01T12:00:00Z"
   },
   {
     "url": "https://www.fizzy.do/",
     "title": "Fizzy — Kanban as it should be. Not as it has been.",
-    "tags": [
-      "apps"
-    ],
+    "tags": ["apps"],
     "saved": "2025-12-06T12:00:00Z"
   },
   {
     "url": "https://practicaltypography.com/typography-in-ten-minutes.html",
     "title": "Typography in ten minutes | Butterick's Practical Typography",
-    "tags": [
-      "design"
-    ],
+    "tags": ["design"],
     "saved": "2025-12-11T12:00:00Z"
   },
   {
     "url": "https://www.vibekanban.com/",
     "title": "Vibe Kanban - Orchestrate AI Coding Agents",
-    "tags": [
-      "ai"
-    ],
+    "tags": ["ai"],
     "saved": "2025-12-21T12:00:00Z"
   },
   {
     "url": "https://www.timetimer.com/products/time-timer-mod-home-edition?variant=40119008100450",
     "title": "Time Timer MOD® - Home Edition - Colorful 60 Minute Visual Timer",
-    "tags": [
-      "stuff"
-    ],
+    "tags": ["stuff"],
     "saved": "2025-12-25T12:00:00Z"
   },
   {
     "url": "https://fr.verbific.com/en/",
     "title": "French Verb Conjugation Charts - Learn 1869+ Verbs | Verbific",
-    "tags": [
-      "french"
-    ],
+    "tags": ["french"],
     "saved": "2026-01-21T12:00:00Z"
   },
   {
     "url": "https://www.alwaystwisted.com/relicss/",
     "title": "ReliCSS - Detect CSS Hacks & Modernise Your Code",
-    "tags": [
-      "dev"
-    ],
+    "tags": ["dev"],
     "saved": "2026-01-29T12:00:00Z"
   },
   {
     "url": "https://nolt.io/",
     "title": "Nolt · Feedback boards your users will love",
-    "tags": [
-      "dev"
-    ],
+    "tags": ["dev"],
     "saved": "2026-01-31T12:00:00Z"
   },
   {
     "url": "https://abetusk.github.io/neatocal/",
     "title": "Neato Calendar",
-    "tags": [
-      "apps"
-    ],
+    "tags": ["apps"],
     "saved": "2026-02-01T12:00:00Z"
   },
   {
     "url": "https://kottke.org/26/02/times-new-resistance",
     "title": "Times New Resistance",
-    "tags": [
-      "design"
-    ],
+    "tags": ["design"],
     "saved": "2026-02-14T12:00:00Z"
   },
   {
     "url": "https://vercel.com/academy/shadcn-ui",
     "title": "React UI with shadcn/ui + Radix + Tailwind | Vercel Academy",
-    "tags": [
-      "dev"
-    ],
+    "tags": ["dev"],
     "saved": "2026-02-16T12:00:00Z"
   },
   {
     "url": "https://www.robertstephens.com/blog/the-venereal-game/",
     "title": "The Venereal Game | Robert Stephens",
-    "tags": [
-      "misc"
-    ],
+    "tags": ["misc"],
     "saved": "2026-02-19T12:00:00Z"
   },
   {
     "url": "https://dev.to/ridermansb/how-i-use-ai-raycast-and-lazygit-to-help-me-write-better-commit-messages-55g1",
     "title": "How I use AI, Raycast, and Lazygit to help me write better commit messages - DEV Community",
-    "tags": [
-      "dev"
-    ],
+    "tags": ["dev"],
     "saved": "2026-02-25T12:00:00Z"
   },
   {
     "url": "https://www.humankode.com/eleventy/how-to-set-up-tailwind-4-with-eleventy-3/",
     "title": "How To Set Up Tailwind 4 With Eleventy 3",
-    "tags": [
-      "dev"
-    ],
+    "tags": ["dev"],
     "saved": "2026-02-28T12:00:00Z"
   },
   {
     "url": "https://decapcms.org/docs/install-decap-cms/",
     "title": "1. Install Decap CMS | Decap CMS | Open-Source Content Management System",
-    "tags": [
-      "dev"
-    ],
+    "tags": ["dev"],
     "saved": "2026-03-01T12:00:00Z"
   },
   {
     "url": "https://cron-job.org/en/",
     "title": "Free cronjobs - from minutely to once a year. - cron-job.org",
-    "tags": [
-      "dev"
-    ],
+    "tags": ["dev"],
     "saved": "2026-03-01T12:01:00Z"
   },
   {
     "url": "https://robinrendle.com/notes/the-song-of-linkedin/",
     "title": "The Song of LinkedIn • Robin Rendle",
-    "tags": [
-      "writing"
-    ],
+    "tags": ["writing"],
     "saved": "2026-03-01T12:02:00Z"
   },
   {
     "url": "https://protocolcards.com/",
     "title": "Protocol Cards — Evidence-backed Nervous System Regulation",
-    "tags": [
-      "misc"
-    ],
+    "tags": ["misc"],
     "saved": "2026-03-01T12:03:00Z"
   },
   {
     "url": "https://engineering.udacity.com/mastering-forms-in-next-js-15-and-react-19-e3d2d783946b",
     "title": "Mastering forms in Next.js 15 and React 19 | by Kolby Sisk | Udacity Eng & Data",
-    "tags": [
-      "dev"
-    ],
+    "tags": ["dev"],
     "saved": "2026-03-01T12:04:00Z"
   },
   {
     "url": "https://davidea.st/articles/11ty-tips-i-wish-i-knew-from-the-start/",
     "title": "David East - 11ty tips I wish I knew from the start",
-    "tags": [
-      "dev"
-    ],
+    "tags": ["dev"],
     "saved": "2026-03-03T12:00:00Z"
   },
   {
     "url": "https://world.hey.com/michelleharjani/building-hey-calendar-s-year-view-2e08d77d",
     "title": "Building HEY Calendar's Year View",
-    "tags": [
-      "design",
-      "dev"
-    ],
+    "tags": ["design", "dev"],
     "saved": "2026-03-03T12:01:00Z"
   },
   {
     "url": "https://learneleventy.dev/",
     "title": "Learn Eleventy",
-    "tags": [
-      "dev"
-    ],
+    "tags": ["dev"],
     "saved": "2026-03-03T12:02:00Z"
   },
   {
     "url": "https://unsung.aresluna.org/mailbag-urls-as-ui/",
     "title": "Mailbag: URLs as UI – Unsung",
-    "tags": [
-      "design",
-      "dev"
-    ],
+    "tags": ["design", "dev"],
     "saved": "2026-03-03T12:03:00Z"
   },
   {
     "url": "https://stretchmytimeoff.com/",
     "title": "Stretch My Time Off - Optimise Your Vacation Days",
-    "tags": [
-      "misc"
-    ],
+    "tags": ["misc"],
     "saved": "2026-03-04T12:00:00Z"
   },
   {
     "url": "https://yozo.ooo/",
     "title": "Home | YOZO",
-    "tags": [
-      "misc"
-    ],
+    "tags": ["misc"],
     "saved": "2026-03-05T12:00:00Z"
   },
   {
     "url": "https://learneleventyfromscratch.com/",
     "title": "Learn Eleventy From Scratch | Learn Eleventy From Scratch",
-    "tags": [
-      "dev"
-    ],
+    "tags": ["dev"],
     "saved": "2026-03-05T12:01:00Z"
   },
   {
     "url": "https://github.com/5t3ph/eleventy-rss-reader/tree/main?tab=readme-ov-file",
     "title": "5t3ph/eleventy-rss-reader: Create a personal RSS Reader using Eleventy. Review recordings to learn how it was built!",
-    "tags": [
-      "dev"
-    ],
+    "tags": ["dev"],
     "saved": "2026-03-05T12:02:00Z"
   },
   {
     "url": "https://githubnext.com/projects/flat-data",
     "title": "GitHub Next | Flat Data",
-    "tags": [
-      "dev"
-    ],
+    "tags": ["dev"],
     "saved": "2026-03-07T12:00:00Z"
   },
   {
     "url": "https://sweetfont.com/",
     "title": "Sweetfont — The sweetest way to find Google Fonts",
     "description": "",
-    "tags": [
-      "design",
-      "dev",
-      "frontend"
-    ],
+    "tags": ["design", "dev", "frontend"],
     "saved": "2026-03-07T11:33:19Z"
   },
   {
     "url": "https://alpinejs.dev/",
     "title": "Alpine.js",
     "description": "",
-    "tags": [
-      "dev",
-      "frontend"
-    ],
+    "tags": ["dev", "frontend"],
     "saved": "2026-03-07T11:43:42Z"
   },
   {
     "url": "https://writershour.com/",
     "title": "The Writers' Hour",
     "description": "",
-    "tags": [
-      "writing"
-    ],
+    "tags": ["writing"],
     "saved": "2026-03-07T12:07:13Z"
   }
 ]
