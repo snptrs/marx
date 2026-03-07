@@ -1,18 +1,46 @@
-<article>
+<article class="grid grid-cols-[auto_1fr] gap-x-8 py-5">
   <a
     href="{{ bookmark.url }}"
     target="_blank"
     rel="noopener noreferrer"
-    class="flex gap-6 items-center py-5 group"
+    class="flex items-center self-start pt-0.5 group"
   >
     {{ include "partials/saved-date.vto" { date: bookmark.saved } }}
-    <h2
-      class="min-w-0 text-lg font-bold group-hover:text-gray-400 grow truncate"
-    >
-      {{ bookmark.title || bookmark.url }}
-    </h2>
   </a>
-  {{ if bookmark.description }}
-    <p class="pb-4 -mt-3 text-sm text-gray-400">{{ bookmark.description }}</p>
-  {{ /if }}
+  <div class="min-w-0 flex flex-col gap-1.5">
+    <a
+      href="{{ bookmark.url }}"
+      target="_blank"
+      rel="noopener noreferrer"
+      class="group"
+    >
+      <h2 class="font-bold group-hover:text-gray-400 truncate">
+        {{ bookmark.title || bookmark.url }}
+      </h2>
+    </a>
+    <p class="text-xs text-gray-400">
+      <a
+        href="{{ bookmark.url }}"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="group"
+      >
+        {{ bookmark.url }}</a>
+    </p>
+    {{ if bookmark.tags.length }}
+      <div class="flex flex-wrap gap-1.5">
+        {{ for tag of bookmark.tags }}
+          <a
+            href="/tags/{{ tag }}/"
+            class="px-2 py-0.5 text-xs font-bold rounded-full border border-gray-600 text-gray-400 hover:border-accent hover:text-accent transition-colors"
+          >
+            {{ tag }}
+          </a>
+        {{ /for }}
+      </div>
+    {{ /if }}
+    {{ if bookmark.description }}
+      <p class="mt-1 text-sm text-gray-400">{{ bookmark.description }}</p>
+    {{ /if }}
+  </div>
 </article>
