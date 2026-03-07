@@ -1,31 +1,39 @@
-<article class="py-5">
+<article class="py-2.5">
   <a
     href="{{ bookmark.url }}"
     target="_blank"
     rel="noopener noreferrer"
-    class="block font-bold hover:text-gray-400 transition-colors truncate"
+    class="flex items-center gap-2 font-medium text-amber-500 hover:text-amber-400 transition-colors truncate"
   >
+    <img
+      src="https://www.google.com/s2/favicons?sz=16&domain={{ bookmark.url }}"
+      alt=""
+      width="16"
+      height="16"
+      class="shrink-0"
+      loading="lazy"
+    >
     {{ bookmark.title || bookmark.url }}
   </a>
-  <p class="text-xs text-gray-500 truncate">
-    <a
-      href="{{ bookmark.url }}"
-      target="_blank"
-      rel="noopener noreferrer"
-    >{{ bookmark.url }}</a>
-  </p>
-  {{ if bookmark.tags.length }}
-    <div class="mt-1 text-sm text-accent">
-      {{ for tag of bookmark.tags }}
-        <a
-          href="/tags/{{ tag }}/"
-          class="hover:text-accent-dark transition-colors"
-        >#{{ tag }}</a>
-      {{ /for }}
-    </div>
-  {{ /if }}
-  {{ if bookmark.description }}
-    <p class="mt-1 text-sm text-gray-400">{{ bookmark.description }}</p>
+  {{ if bookmark.tags.length || bookmark.description }}
+    <p class="mt-1 text-sm truncate">
+      {{ if bookmark.tags.length }}
+        <span class="text-accent">
+          {{ for tag of bookmark.tags }}
+            <a
+              href="/tags/{{ tag }}/"
+              class="hover:text-accent-dark transition-colors"
+            >#{{ tag }}</a>
+          {{ /for }}
+        </span>
+        {{ if bookmark.description }}
+          <span class="text-gray-500"> | </span>
+        {{ /if }}
+      {{ /if }}
+      {{ if bookmark.description }}
+        <span class="text-slate-300">{{ bookmark.description }}</span>
+      {{ /if }}
+    </p>
   {{ /if }}
   <p class="mt-1 text-xs text-gray-500">
     {{ bookmark.saved |> date("%-d %b %Y") }}

@@ -15,9 +15,6 @@ permalink: /
     <div>
       {{ for index, bookmark of bookmarkIndex.bookmarks }}
         {{ include "partials/bookmark-item.vto" { bookmark } }}
-        {{ if index < bookmarkIndex.bookmarks.length - 1 }}
-          <hr class="border-gray-700">
-        {{ /if }}
       {{ /for }}
     </div>
   </div>

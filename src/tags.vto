@@ -27,9 +27,6 @@ eleventyComputed:
     <div>
       {{ for index, bookmark of tagPage.bookmarks }}
         {{ include "partials/bookmark-item.vto" { bookmark } }}
-        {{ if index < tagPage.bookmarks.length - 1 }}
-          <hr class="border-gray-700">
-        {{ /if }}
       {{ /for }}
     </div>
   </div>
