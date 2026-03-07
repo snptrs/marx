@@ -1,10 +1,6 @@
-import fs from "fs";
-import yaml from "js-yaml";
+import bookmarks from "./bookmarks.json" with { type: "json" };
 
 export default function () {
-  const raw = fs.readFileSync("src/_data/bookmarks.yaml", "utf8");
-  const bookmarks = yaml.load(raw) || [];
-
   // Sort bookmarks newest first
   bookmarks.sort((a, b) => new Date(b.saved) - new Date(a.saved));
 
