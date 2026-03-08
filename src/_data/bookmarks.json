@@ -73,7 +73,7 @@
     "url": "https://www.siteinspire.com/",
     "title": "siteInspire - Web Design Inspiration",
     "description": "A showcase of the best web design inspiration, featuring over 7,000 websites and  profiles of the digital agencies, designers and developers who made them.",
-    "tags": ["coding", "coding:frontend", "inspiration:digital"],
+    "tags": ["coding:frontend", "inspiration:digital"],
     "saved": "2018-04-14T15:41:36.000Z"
   },
   {
@@ -136,7 +136,7 @@
     "url": "https://css-tricks.com/use-target_blank/",
     "title": "When to use target=&#x27;blank&#x27; | CSS-Tricks",
     "description": "Anchor links1 may have a target attribute which controls what happens when that link is clicked. One of the possible values of that attribute is _blank, which",
-    "tags": ["coding", "coding:frontend"],
+    "tags": ["coding:frontend"],
     "saved": "2016-11-01T19:15:47.000Z"
   },
   {
@@ -206,7 +206,7 @@
     "url": "https://www.smashingmagazine.com/2015/08/understanding-critical-css/",
     "title": "Understanding Critical CSS – Smashing Magazine",
     "description": "",
-    "tags": ["coding", "coding:css"],
+    "tags": ["coding:css"],
     "saved": "2016-04-04T10:04:13.000Z"
   },
   {
@@ -416,7 +416,7 @@
     "url": "https://simplecss.org/",
     "title": "Simple.css",
     "description": "A CSS framework that makes semantic HTML look good.",
-    "tags": ["coding", "coding:css"],
+    "tags": ["coding:css"],
     "saved": "2023-04-16T04:02:02.000Z"
   },
   {
@@ -661,42 +661,42 @@
     "url": "https://andybrewer.github.io/mvp/",
     "title": "MVP.css - Minimalist stylesheet for HTML elements",
     "description": "MVP.css - No classes, no framework. Just semantic HTML and you're done.",
-    "tags": ["coding", "coding:css"],
+    "tags": ["coding:css"],
     "saved": "2023-06-03T13:32:56.000Z"
   },
   {
     "url": "https://milligram.io/",
     "title": "Milligram - A minimalist CSS framework",
     "description": "Milligram - A minimalist CSS framework",
-    "tags": ["coding", "coding:css"],
+    "tags": ["coding:css"],
     "saved": "2023-06-03T13:42:57.000Z"
   },
   {
     "url": "https://picocss.com/",
     "title": "Pico.css • Minimal CSS Framework for semantic HTML",
     "description": "Elegant styles for all native HTML elements without .classes and dark mode automatically enabled. 7.9 kB minified and gzipped!",
-    "tags": ["coding", "coding:css"],
+    "tags": ["coding:css"],
     "saved": "2023-06-03T13:44:17.000Z"
   },
   {
     "url": "https://purecss.io/",
     "title": "Pure",
     "description": "Pure is a ridiculously tiny CSS library you can use to start any web project.",
-    "tags": ["coding", "coding:css"],
+    "tags": ["coding:css"],
     "saved": "2023-06-03T13:44:25.000Z"
   },
   {
     "url": "https://vanillacss.com/",
     "title": "Vanilla CSS |  A minimal baseline stylesheet for any web project",
     "description": "",
-    "tags": ["coding", "coding:css"],
+    "tags": ["coding:css"],
     "saved": "2023-06-03T13:45:16.000Z"
   },
   {
     "url": "http://minicss.us/",
     "title": "mini.css - Minimal, responsive, style-agnostic CSS framework",
     "description": "mini.css is a tiny CSS framework designed to build quick, modern and responsive websites.",
-    "tags": ["coding", "coding:css"],
+    "tags": ["coding:css"],
     "saved": "2023-06-03T13:45:45.000Z"
   },
   {
@@ -983,7 +983,7 @@
     "url": "https://www.smashingmagazine.com/2015/01/designing-for-print-with-css/",
     "title": "Designing For Print With CSS — Smashing Magazine",
     "description": "If you mention printing with CSS to many people who work on the web, [print style sheets](https://www.smashingmagazine.com/2013/03/08/tips-and-tricks-for-print-style-sheets/) are the use that comes to mind. We are all well used to creating a style sheet that is called upon when a web document is printed. These style sheets ensure that the print version is legible and that we don’t cause a user to print out huge images.",
-    "tags": ["coding", "coding:css"],
+    "tags": ["coding:css"],
     "saved": "2023-08-24T18:25:30.000Z"
   },
   {
@@ -1004,7 +1004,7 @@
     "url": "https://component-party.dev/",
     "title": "Component Party",
     "description": "Web component JS frameworks overview by their syntax and features: Svelte 4, React, Vue 3, Angular, Lit, Vue 2, Ember, SolidJS, Alpine, Mithril, Aurelia 2, Qwik, Marko, Aurelia 1, Svelte 5 (preview)",
-    "tags": ["coding", "coding:frontend"],
+    "tags": ["coding:frontend"],
     "saved": "2023-09-22T07:06:41.000Z"
   },
   {
@@ -1039,7 +1039,7 @@
     "url": "https://css-tricks.com/snippets/css/complete-guide-grid/",
     "title": "A Complete Guide to CSS Grid | CSS-Tricks - CSS-Tricks",
     "description": "Our comprehensive guide to CSS grid, focusing on all the settings both for the grid parent container and the grid child elements.",
-    "tags": ["coding", "coding:css"],
+    "tags": ["coding:css"],
     "saved": "2023-12-04T07:39:00.000Z"
   },
   {
@@ -1053,7 +1053,7 @@
     "url": "https://www.joshwcomeau.com/css/custom-css-reset/",
     "title": "Modern CSS Reset / Global Styles",
     "description": "I have a set of baseline CSS styles that come with me from project to project. In the past, I'd use a typical CSS reset, but times have changed, and I believe I have a better set of global styles!",
-    "tags": ["coding", "coding:css"],
+    "tags": ["coding:css"],
     "saved": "2024-02-20T23:07:04.000Z"
   },
   {
@@ -1074,7 +1074,7 @@
     "url": "https://robohash.org/",
     "title": "RoboHash",
     "description": "Generate robot avatars",
-    "tags": ["coding", "coding:frontend"],
+    "tags": ["coding:frontend"],
     "saved": "2024-03-05T15:02:12.000Z"
   },
   {
@@ -1158,7 +1158,7 @@
     "url": "https://dev.to/barrymichaeldoyle/tanstacks-react-query-kicked-onsuccess-onerror-and-onsettled-out-of-usequery-now-what-2i33",
     "title": "Tanstack&#x27;s React Query Kicked `onSuccess`, `onError`, and `onSettled` Out of `useQuery`: Now What?! - DEV Community",
     "description": "Useful example of moving away from onError in React Query.",
-    "tags": ["coding", "coding:frontend"],
+    "tags": ["coding:frontend"],
     "saved": "2024-04-12T10:28:02.000Z"
   },
   {
@@ -1354,7 +1354,7 @@
     "url": "https://brettterpstra.com/off/",
     "title": "Off White/Black",
     "description": "Pick off-white/black background colour",
-    "tags": ["coding", "coding:frontend"],
+    "tags": ["coding:frontend"],
     "saved": "2025-04-15T18:31:17.000Z"
   },
   {
@@ -1631,14 +1631,14 @@
     "url": "https://sweetfont.com/",
     "title": "Sweetfont — The sweetest way to find Google Fonts",
     "description": "",
-    "tags": ["coding", "coding:frontend", "typography"],
+    "tags": ["coding:frontend", "typography"],
     "saved": "2026-03-07T11:33:19Z"
   },
   {
     "url": "https://alpinejs.dev/",
     "title": "Alpine.js",
     "description": "",
-    "tags": ["coding", "coding:frontend"],
+    "tags": ["coding:frontend"],
     "saved": "2026-03-07T11:43:42Z"
   },
   {
