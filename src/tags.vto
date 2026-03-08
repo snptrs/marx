@@ -6,7 +6,7 @@ pagination:
     alias: tagPage
 permalink: "/tags/{{ tagPage.slug }}/"
 eleventyComputed:
-    title: "{{ tagPage.name }}"
+    title: "{{ metadata.title }} – {{ tagPage.name }}"
 ---
 
 <div

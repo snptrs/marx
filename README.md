@@ -67,6 +67,22 @@ Bookmarks can be set to expire automatically by adding an `expires` field with a
 }
 ```
 
+## Metadata
+
+Site metadata is configured in `src/_data/metadata.json`:
+
+```json
+{
+  "title": "Marx",
+  "url": "https://snptrs.github.io/marx",
+  "author": "Sean Peters"
+}
+```
+
+These values are available in templates and used for site-wide configuration like the page title and author.
+
+> **Note:** Repository URLs (homepage and bugs) are also defined in `package.json` and may need updating if you fork or deploy to a different location.
+
 ## Tags JSON endpoint
 
 A list of all tags is available at `/tags.json`, generated from `src/tags.json.vto`. Each entry includes the tag `name` and `slug`.
