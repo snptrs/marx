@@ -53,6 +53,20 @@ Add entries to `src/_data/bookmarks.json`:
 }
 ```
 
+### Expiring bookmarks
+
+Bookmarks can be set to expire automatically by adding an `expires` field with an ISO 8601 timestamp. Expired bookmarks are automatically filtered out during the build process and won't appear on the site:
+
+```json
+{
+  "url": "https://example.com",
+  "title": "Example Site",
+  "tags": ["temporary"],
+  "saved": "2025-01-01T12:00:00Z",
+  "expires": "2025-12-31T23:59:59Z"
+}
+```
+
 ## Tags JSON endpoint
 
 A list of all tags is available at `/tags.json`, generated from `src/tags.json.vto`. Each entry includes the tag `name` and `slug`.
