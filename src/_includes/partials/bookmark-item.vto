@@ -21,7 +21,7 @@
         <span class="text-accent">
           {{ for tag of bookmark.tags }}
             <a
-              href="/tags/{{ tag }}/"
+              href="/tags/{{ tag |> slugify }}/"
               class="hover:text-accent-dark transition-colors"
             >#{{ tag }}</a>
           {{ /for }}

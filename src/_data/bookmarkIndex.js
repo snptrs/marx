@@ -1,3 +1,4 @@
+import slugify from "@sindresorhus/slugify";
 import allBookmarks from "./bookmarks.json" with { type: "json" };
 
 function isExpired(bookmark, now = Date.now()) {
@@ -17,10 +18,7 @@ export default function () {
 
   for (const bookmark of bookmarks) {
     for (const tag of bookmark.tags || []) {
-      const slug = tag
-        .toLowerCase()
-        .replace(/[^a-z0-9]+/g, "-")
-        .replace(/(^-|-$)/g, "");
+      const slug = slugify(tag);
 
       if (!tagMap.has(slug)) {
         tagMap.set(slug, { name: tag, slug, bookmarks: [] });
