@@ -1431,7 +1431,7 @@
     "url": "https://simplecss.org/",
     "title": "Simple.css",
     "description": "A CSS framework that makes semantic HTML look good.",
-    "tags": ["coding", "css"],
+    "tags": ["coding", "coding:css"],
     "saved": "2023-04-16T04:02:02.000Z"
   },
   {
@@ -1732,7 +1732,7 @@
     "url": "https://github.com/LukeMathWalker",
     "title": "LukeMathWalker (Luca Palmieri) · GitHub",
     "description": "Playing around with Rust, at $dayjob and for fun. LukeMathWalker has 89 repositories available. Follow their code on GitHub.",
-    "tags": ["coding", "githubProfiles"],
+    "tags": ["coding", "github-profiles"],
     "saved": "2023-05-20T12:56:25.000Z"
   },
   {
@@ -1802,42 +1802,42 @@
     "url": "https://andybrewer.github.io/mvp/",
     "title": "MVP.css - Minimalist stylesheet for HTML elements",
     "description": "MVP.css - No classes, no framework. Just semantic HTML and you're done.",
-    "tags": ["coding", "css"],
+    "tags": ["coding", "coding:css"],
     "saved": "2023-06-03T13:32:56.000Z"
   },
   {
     "url": "https://milligram.io/",
     "title": "Milligram - A minimalist CSS framework",
     "description": "Milligram - A minimalist CSS framework",
-    "tags": ["coding", "css"],
+    "tags": ["coding", "coding:css"],
     "saved": "2023-06-03T13:42:57.000Z"
   },
   {
     "url": "https://picocss.com/",
     "title": "Pico.css • Minimal CSS Framework for semantic HTML",
     "description": "Elegant styles for all native HTML elements without .classes and dark mode automatically enabled. 7.9 kB minified and gzipped!",
-    "tags": ["coding", "css"],
+    "tags": ["coding", "coding:css"],
     "saved": "2023-06-03T13:44:17.000Z"
   },
   {
     "url": "https://purecss.io/",
     "title": "Pure",
     "description": "Pure is a ridiculously tiny CSS library you can use to start any web project.",
-    "tags": ["coding", "css"],
+    "tags": ["coding", "coding:css"],
     "saved": "2023-06-03T13:44:25.000Z"
   },
   {
     "url": "https://vanillacss.com/",
     "title": "Vanilla CSS |  A minimal baseline stylesheet for any web project",
     "description": "",
-    "tags": ["coding", "css"],
+    "tags": ["coding", "coding:css"],
     "saved": "2023-06-03T13:45:16.000Z"
   },
   {
     "url": "http://minicss.us/",
     "title": "mini.css - Minimal, responsive, style-agnostic CSS framework",
     "description": "mini.css is a tiny CSS framework designed to build quick, modern and responsive websites.",
-    "tags": ["coding", "css"],
+    "tags": ["coding", "coding:css"],
     "saved": "2023-06-03T13:45:45.000Z"
   },
   {
@@ -2054,35 +2054,35 @@
     "url": "https://zzetao.github.io/awesome-github-profile/",
     "title": "Awesome Github Profile",
     "description": "",
-    "tags": ["coding", "githubProfiles"],
+    "tags": ["coding", "github-profiles"],
     "saved": "2023-08-19T13:19:05.000Z"
   },
   {
     "url": "https://github.com/rodzy/activity-box",
     "title": "GitHub - rodzy/activity-box",
     "description": "Contribute to rodzy/activity-box development by creating an account on GitHub.",
-    "tags": ["githubProfiles", "tech"],
+    "tags": ["github-profiles", "tech"],
     "saved": "2023-08-19T13:25:40.000Z"
   },
   {
     "url": "https://github.com/pr2tik1",
     "title": "pr2tik1 (Pratik Kumar) · GitHub",
     "description": "pr2tik1 has 21 repositories available. Follow their code on GitHub.",
-    "tags": ["coding", "githubProfiles"],
+    "tags": ["coding", "github-profiles"],
     "saved": "2023-08-19T20:30:56.000Z"
   },
   {
     "url": "https://github.com/lizheming",
     "title": "lizheming (Austin Lee) · GitHub",
     "description": "Frontend Developer, core maintainer of ThinkJS, Firekylin. - lizheming",
-    "tags": ["coding", "githubProfiles"],
+    "tags": ["coding", "github-profiles"],
     "saved": "2023-08-19T20:31:01.000Z"
   },
   {
     "url": "https://github.com/sakshamtaneja21",
     "title": "sakshamtaneja21 (saksham taneja) · GitHub",
     "description": "@google  Ex DSC Lead |  @microsoft Student Partner | @mozillian |",
-    "tags": ["coding", "githubProfiles"],
+    "tags": ["coding", "github-profiles"],
     "saved": "2023-08-19T20:31:05.000Z"
   },
   {
@@ -2201,7 +2201,7 @@
     "url": "https://www.smashingmagazine.com/2015/01/designing-for-print-with-css/",
     "title": "Designing For Print With CSS — Smashing Magazine",
     "description": "If you mention printing with CSS to many people who work on the web, [print style sheets](https://www.smashingmagazine.com/2013/03/08/tips-and-tricks-for-print-style-sheets/) are the use that comes to mind. We are all well used to creating a style sheet that is called upon when a web document is printed. These style sheets ensure that the print version is legible and that we don’t cause a user to print out huge images.",
-    "tags": ["coding", "css"],
+    "tags": ["coding", "coding:css"],
     "saved": "2023-08-24T18:25:30.000Z"
   },
   {
@@ -2404,14 +2404,14 @@
     "url": "https://github.com/josean-dev/dev-environment-files",
     "title": "GitHub - josean-dev/dev-environment-files",
     "description": "Contribute to josean-dev/dev-environment-files development by creating an account on GitHub.",
-    "tags": ["coding", "neovim"],
+    "tags": ["neovim"],
     "saved": "2023-11-19T15:29:53.000Z"
   },
   {
     "url": "https://www.josean.com/posts/neovim-linting-and-formatting",
     "title": "How To Setup Linting &amp; Formatting In Neovim And Replace null-ls",
     "description": "How to setup linting & formatting in Neovim with conform.nvim and nvim-lint to replace the archived null-ls plugin.",
-    "tags": ["coding", "neovim"],
+    "tags": ["neovim"],
     "saved": "2023-11-20T08:30:27.000Z"
   },
   {
@@ -2425,14 +2425,14 @@
     "url": "https://github.com/ecosse3/nvim/tree/master",
     "title": "GitHub - ecosse3/nvim: A non-minimal Neovim config built to work most efficiently with Frontend Development",
     "description": "A non-minimal Neovim config built to work most efficiently with Frontend Development - GitHub - ecosse3/nvim: A non-minimal Neovim config built to work most efficiently with Frontend Development",
-    "tags": ["coding", "neovim"],
+    "tags": ["neovim"],
     "saved": "2023-11-25T06:48:17.000Z"
   },
   {
     "url": "https://css-tricks.com/snippets/css/complete-guide-grid/",
     "title": "A Complete Guide to CSS Grid | CSS-Tricks - CSS-Tricks",
     "description": "Our comprehensive guide to CSS grid, focusing on all the settings both for the grid parent container and the grid child elements.",
-    "tags": ["coding", "css"],
+    "tags": ["coding", "coding:css"],
     "saved": "2023-12-04T07:39:00.000Z"
   },
   {
@@ -2446,7 +2446,7 @@
     "url": "https://github.com/rockerBOO/awesome-neovim?tab=readme-ov-file#snippet",
     "title": "GitHub - rockerBOO/awesome-neovim: Collections of awesome neovim plugins.",
     "description": "Collections of awesome neovim plugins. Contribute to rockerBOO/awesome-neovim development by creating an account on GitHub.",
-    "tags": ["coding", "neovim"],
+    "tags": ["neovim"],
     "saved": "2024-02-04T18:40:44.000Z"
   },
   {
@@ -2460,7 +2460,7 @@
     "url": "https://www.reddit.com/r/neovim/comments/st1kxs/some_telescope_tips/",
     "title": "Some telescope tips",
     "description": "",
-    "tags": ["coding", "neovim"],
+    "tags": ["neovim"],
     "saved": "2024-02-11T21:54:46.000Z"
   },
   {
@@ -2516,7 +2516,7 @@
     "url": "https://robohash.org/",
     "title": "RoboHash",
     "description": "Generate robot avatars",
-    "tags": ["coding", "placeholders"],
+    "tags": ["coding", "coding:frontend"],
     "saved": "2024-03-05T15:02:12.000Z"
   },
   {
@@ -3083,7 +3083,7 @@
     "url": "https://resend.com/",
     "title": "Resend · Email for developers · Resend",
     "description": "Build, test, and send transactional and marketing emails at scale.",
-    "tags": ["coding", "email"],
+    "tags": ["coding", "coding:infra"],
     "saved": "2025-03-26T15:17:33.000Z"
   },
   {
