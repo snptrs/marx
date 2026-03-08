@@ -556,7 +556,7 @@
     "url": "https://www.tripmode.ch/",
     "title": "Home | TripMode | Your mobile data savior.",
     "description": "",
-    "tags": ["software"],
+    "tags": ["apps"],
     "saved": "2018-05-10T16:57:31.000Z"
   },
   {
@@ -2033,7 +2033,7 @@
     "url": "https://github.com/swiftbar/SwiftBar#swiftbar",
     "title": "GitHub - swiftbar/SwiftBar: Powerful macOS menu bar customization tool",
     "description": "Powerful macOS menu bar customization tool. Contribute to swiftbar/SwiftBar development by creating an account on GitHub.",
-    "tags": ["software"],
+    "tags": ["apps"],
     "saved": "2023-08-17T05:48:45.000Z"
   },
   {
@@ -2138,7 +2138,7 @@
     "url": "https://espanso.org/",
     "title": "Espanso - A Privacy-first, Cross-platform Text Expander",
     "description": "",
-    "tags": ["apps", "software"],
+    "tags": ["apps", "apps"],
     "saved": "2023-08-21T15:41:59.000Z"
   },
   {
@@ -2201,7 +2201,7 @@
     "url": "https://lowtechguys.com/clop/",
     "title": "Clop - Image, video and clipboard optimiser",
     "description": "Image, video and clipboard optimiser. Copy large, paste small, send fast",
-    "tags": ["apps", "software"],
+    "tags": ["apps", "apps"],
     "saved": "2023-08-24T13:25:48.000Z"
   },
   {
@@ -2236,7 +2236,7 @@
     "url": "https://github.com/tbillington/kondo",
     "title": "GitHub - tbillington/kondo: Cleans dependencies and build artifacts from your projects.",
     "description": "Cleans dependencies and build artifacts from your projects. - GitHub - tbillington/kondo: Cleans dependencies and build artifacts from your projects.",
-    "tags": ["coding", "software", "tech"],
+    "tags": ["coding", "apps", "tech"],
     "saved": "2023-08-26T10:58:39.000Z"
   },
   {
@@ -2278,7 +2278,7 @@
     "url": "https://command-not-found.com/",
     "title": "command-not-found.com",
     "description": "Install any command on any operating system and in Docker.",
-    "tags": ["coding", "macos", "software"],
+    "tags": ["coding", "macos", "apps"],
     "saved": "2023-08-31T13:25:50.000Z"
   },
   {
@@ -2649,7 +2649,7 @@
     "url": "https://dev.to/barrymichaeldoyle/tanstacks-react-query-kicked-onsuccess-onerror-and-onsettled-out-of-usequery-now-what-2i33",
     "title": "Tanstack&#x27;s React Query Kicked `onSuccess`, `onError`, and `onSettled` Out of `useQuery`: Now What?! - DEV Community",
     "description": "Useful example of moving away from onError in React Query.",
-    "tags": ["code", "react"],
+    "tags": ["coding", "coding:frontend"],
     "saved": "2024-04-12T10:28:02.000Z"
   },
   {
@@ -3216,14 +3216,14 @@
     "url": "https://plainvanillaweb.com/index.html",
     "title": "Plain Vanilla",
     "description": "An explainer for doing web development using only vanilla techniques.",
-    "tags": ["code"],
+    "tags": ["coding"],
     "saved": "2025-05-12T09:05:59.000Z"
   },
   {
     "url": "https://pagescms.org/",
     "title": "Pages CMS: The No-Hassle CMS for Static Sites Generators",
     "description": "Tired of juggling Git and YAML to update your Next.js, Astro, Hugo or Nuxt website? Make it easy on you and your team, get a user-friendly CMS running straight on top of GitHub.",
-    "tags": ["code"],
+    "tags": ["coding"],
     "saved": "2025-05-12T13:21:55.000Z"
   },
   {
@@ -3526,14 +3526,14 @@
     "url": "https://sweetfont.com/",
     "title": "Sweetfont — The sweetest way to find Google Fonts",
     "description": "",
-    "tags": ["design", "coding", "frontend"],
+    "tags": ["coding", "coding:frontend", "design"],
     "saved": "2026-03-07T11:33:19Z"
   },
   {
     "url": "https://alpinejs.dev/",
     "title": "Alpine.js",
     "description": "",
-    "tags": ["coding", "frontend"],
+    "tags": ["coding", "coding:frontend"],
     "saved": "2026-03-07T11:43:42Z"
   },
   {
