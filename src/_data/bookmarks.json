@@ -437,14 +437,14 @@
     "url": "http://www.markwk.com/article-tracking-with-instapaper.html",
     "title": "Instapaper: Empowering How I Read Articles with Highlights and Tracking - Mark Koester",
     "description": "",
-    "tags": ["learning", "tech"],
+    "tags": ["tech"],
     "saved": "2019-09-09T21:46:12.000Z"
   },
   {
     "url": "https://bobjessop.wordpress.com/2014/04/21/lectures-on-gramsci/",
     "title": "Lectures on Gramsci | Bob Jessop",
     "description": "",
-    "tags": ["learning", "marxism"],
+    "tags": ["marxism"],
     "saved": "2019-08-04T23:33:40.000Z"
   },
   {
@@ -465,7 +465,7 @@
     "url": "https://www.theverge.com/2019/2/12/18220289/language-learning-netflix-chrome-extension-two-subtitles",
     "title": "This Chrome extension lets you learn a new language by watching Netflix - The Verge",
     "description": "",
-    "tags": ["language", "learning"],
+    "tags": ["language"],
     "saved": "2019-02-14T12:53:16.000Z"
   },
   {
@@ -647,42 +647,42 @@
     "url": "https://fr.forvo.com/",
     "title": "Forvo : le guide de la prononciation. Tous les mots du monde prononcés par des locuteurs natifs",
     "description": "",
-    "tags": ["language", "learning", "reference"],
+    "tags": ["language", "reference"],
     "saved": "2017-08-14T20:51:51.000Z"
   },
   {
     "url": "https://www.linguee.com/",
     "title": "Linguee | Dictionary for German, French, Spanish, and more",
     "description": "",
-    "tags": ["language", "learning", "reference"],
+    "tags": ["language", "reference"],
     "saved": "2017-08-14T19:48:41.000Z"
   },
   {
     "url": "https://www.supermemo.com/en/articles/20rules",
     "title": "Effective learning: Twenty rules of formulating knowledge | SuperMemo.com",
     "description": "",
-    "tags": ["language", "learning"],
+    "tags": ["language"],
     "saved": "2017-08-14T19:30:40.000Z"
   },
   {
     "url": "https://www.francaisauthentique.com/",
     "title": "Parler le français facilement et rapidement",
     "description": "",
-    "tags": ["language", "learning"],
+    "tags": ["language"],
     "saved": "2017-08-13T21:02:57.000Z"
   },
   {
     "url": "https://www.verbling.com/",
     "title": "Verbling - The Modern Way to Learn a Language.",
     "description": "",
-    "tags": ["language", "learning"],
+    "tags": ["language"],
     "saved": "2017-08-13T19:27:53.000Z"
   },
   {
     "url": "http://context.reverso.net/translation/",
     "title": "Reverso Context | Translation in context - Arabic, German, Spanish, French, Hebrew, Italian, Dutch, Polish, Portuguese, Romanian, Russian, English",
     "description": "",
-    "tags": ["language", "learning"],
+    "tags": ["language"],
     "saved": "2017-08-13T19:24:45.000Z"
   },
   {
@@ -696,28 +696,28 @@
     "url": "https://www.lawlessfrench.com/",
     "title": "Lawless French - Free French lessons and language tools from Laura K. Lawless, including verb conjugations and bilingual articles to help you improve your reading and listening comprehension.",
     "description": "",
-    "tags": ["language", "learning"],
+    "tags": ["language"],
     "saved": "2017-08-12T13:58:52.000Z"
   },
   {
     "url": "https://www.laits.utexas.edu/tex/gr/",
     "title": "Tex&#x27;s French grammar",
     "description": "",
-    "tags": ["language", "learning"],
+    "tags": ["language"],
     "saved": "2017-08-10T20:15:11.000Z"
   },
   {
     "url": "http://commentconjuguer.com/",
     "title": "Conjugaison Française - http://www.commentconjuguer.com",
     "description": "French verb conjugator",
-    "tags": ["language", "learning"],
+    "tags": ["language"],
     "saved": "2017-08-10T19:43:28.000Z"
   },
   {
     "url": "https://www.lingq.com/learn/fr/web/feed",
     "title": "LingQ Learning Languages Simply",
     "description": "Like the concept, but you can't do much for free and the interface is a bit clunky.",
-    "tags": ["language", "learning"],
+    "tags": ["language"],
     "saved": "2017-08-10T18:51:59.000Z"
   },
   {
@@ -756,31 +756,17 @@
     "saved": "2017-01-28T06:46:02.000Z"
   },
   {
-    "url": "https://www.rocketlanguages.com/italian/rocket-italian-premium.php",
-    "title": "Rocket Italian Premium Level 1 Beginners Italian Course",
-    "description": "",
-    "tags": ["language"],
-    "saved": "2017-01-07T16:52:53.000Z"
-  },
-  {
-    "url": "https://glossika.com/courses/fluency123/italian",
-    "title": "Glossika Language Training",
-    "description": "",
-    "tags": ["language", "learning"],
-    "saved": "2017-01-07T16:50:23.000Z"
-  },
-  {
     "url": "https://bliubliu.com/en/",
     "title": "Bliu Bliu - The Fun Way to Learn Languages",
     "description": "",
-    "tags": ["language", "learning"],
+    "tags": ["language"],
     "saved": "2017-01-07T16:35:12.000Z"
   },
   {
     "url": "http://readlang.com/",
     "title": "Readlang - Read, translate and supercharge your vocabulary",
     "description": "",
-    "tags": ["language", "learning"],
+    "tags": ["language"],
     "saved": "2017-01-07T16:35:03.000Z"
   },
   {
@@ -906,21 +892,14 @@
     "url": "http://subs2srs.sourceforge.net/",
     "title": "subs2srs Usage",
     "description": "",
-    "tags": ["language", "learning"],
+    "tags": ["language"],
     "saved": "2015-10-09T22:03:12.000Z"
-  },
-  {
-    "url": "https://italian.yabla.com/",
-    "title": "Yabla Italian Video Immersion - The Authentic Way to Learn Italian",
-    "description": "",
-    "tags": ["language", "learning"],
-    "saved": "2015-09-30T10:04:10.000Z"
   },
   {
     "url": "https://hinative.com/",
     "title": "HiNative | A question and answer community for language learners.",
     "description": "",
-    "tags": ["language", "learning"],
+    "tags": ["language"],
     "saved": "2015-09-30T08:46:12.000Z"
   },
   {
@@ -931,45 +910,31 @@
     "saved": "2015-09-29T18:49:15.000Z"
   },
   {
-    "url": "http://www.bbc.co.uk/languages/italian/lamappa/episode/1",
-    "title": "BBC Languages - Learn Italian online with this interactive video drama for beginners",
-    "description": "",
-    "tags": ["language", "learning"],
-    "saved": "2015-09-29T10:38:48.000Z"
-  },
-  {
-    "url": "https://www.reddit.com/r/italianlearning/wiki/learning",
-    "title": "learning - italianlearning",
-    "description": "",
-    "tags": ["language", "learning"],
-    "saved": "2015-09-27T19:08:39.000Z"
-  },
-  {
     "url": "http://www.generation-online.org/p/fpalthusser11.htm",
     "title": "How to Read Marx&#x27;s Capital",
     "description": "",
-    "tags": ["learning", "marxism"],
+    "tags": ["marxism"],
     "saved": "2015-07-28T17:54:30.000Z"
   },
   {
     "url": "http://www.polyluxmarx.de/en/home.html",
     "title": "Home - PolyluxMarx - A Capital Workbook in Slides",
     "description": "",
-    "tags": ["learning", "marxism"],
+    "tags": ["marxism"],
     "saved": "2015-07-28T17:48:07.000Z"
   },
   {
     "url": "http://davidharvey.org/reading-capital/",
     "title": "Reading Marx&#x27;s Capital with David Harvey Online Courses",
     "description": "",
-    "tags": ["learning", "marxism"],
+    "tags": ["marxism"],
     "saved": "2015-07-28T17:45:50.000Z"
   },
   {
     "url": "http://content.csbs.utah.edu/~ehrbar/akmc.htm",
     "title": "Ehrbar&#x27;s Marx Annotations",
     "description": "",
-    "tags": ["learning", "marxism", "reference"],
+    "tags": ["marxism", "reference"],
     "saved": "2015-07-28T17:45:04.000Z"
   },
   {
@@ -1865,7 +1830,7 @@
     "url": "https://exercism.org/",
     "title": "Exercism",
     "description": "Learn, practice and get world-class mentoring in over 50 languages. 100% free.",
-    "tags": ["coding", "learning"],
+    "tags": ["coding"],
     "saved": "2023-06-21T06:39:11.000Z"
   },
   {
@@ -1914,14 +1879,14 @@
     "url": "https://fullstackopen.com/en/",
     "title": "Full stack open",
     "description": "Open online course on JavaScript based modern web development by University of Helsinki and Houston Inc..",
-    "tags": ["coding", "learning"],
+    "tags": ["coding"],
     "saved": "2023-07-10T17:24:41.000Z"
   },
   {
     "url": "https://egghead.io/",
     "title": "Expert led courses for front-end web developers. | egghead.io",
     "description": "expert led courses for front-end web developers and teams that want to level up through straightforward and concise lessons on the most useful tools available.",
-    "tags": ["coding", "learning"],
+    "tags": ["coding"],
     "saved": "2023-07-15T07:59:43.000Z"
   },
   {
@@ -1935,7 +1900,7 @@
     "url": "https://github.com/getify/You-Dont-Know-JS",
     "title": "GitHub - getify/You-Dont-Know-JS: A book series on JavaScript. @YDKJS on twitter.",
     "description": "A book series on JavaScript. @YDKJS on twitter. Contribute to getify/You-Dont-Know-JS development by creating an account on GitHub.",
-    "tags": ["coding", "javascript", "learning"],
+    "tags": ["coding", "javascript"],
     "saved": "2023-07-20T20:56:35.000Z"
   },
   {
@@ -1963,7 +1928,7 @@
     "url": "https://github.com/abdulrahman1s/fem-dl",
     "title": "GitHub - abdulrahman1s/fem-dl: Frontend Masters Course Downloader That actually works.",
     "description": "Frontend Masters Course Downloader That actually works. - GitHub - abdulrahman1s/fem-dl: Frontend Masters Course Downloader That actually works.",
-    "tags": ["coding", "learning"],
+    "tags": ["coding"],
     "saved": "2023-08-08T16:13:36.000Z"
   },
   {
@@ -2040,7 +2005,7 @@
     "url": "https://www.reddit.com/r/learnprogramming/comments/12ghao8/a_guide_to_grinding_leetcode/",
     "title": "A Guide to grinding Leetcode",
     "description": "",
-    "tags": ["coding", "learning"],
+    "tags": ["coding"],
     "saved": "2023-08-18T18:50:25.000Z"
   },
   {
@@ -2089,21 +2054,21 @@
     "url": "https://roadmap.sh/",
     "title": "Developer Roadmaps - roadmap.sh",
     "description": "Community driven roadmaps, articles and guides for developers to grow in their career.",
-    "tags": ["coding", "jobs", "learning"],
+    "tags": ["coding", "jobs"],
     "saved": "2023-08-20T09:19:37.000Z"
   },
   {
     "url": "https://www.theodinproject.com/",
     "title": "Your Career in Web Development Starts Here | The Odin Project",
     "description": "The Odin Project empowers aspiring web developers to learn together for free",
-    "tags": ["coding", "learning"],
+    "tags": ["coding"],
     "saved": "2023-08-20T15:43:44.000Z"
   },
   {
     "url": "https://github.com/ossu/computer-science",
     "title": "GitHub - ossu/computer-science: :mortar_board: Path to a free self-taught education in Computer Science!",
     "description": ":mortar_board: Path to a free self-taught education in Computer Science! - GitHub - ossu/computer-science: :mortar_board: Path to a free self-taught education in Computer Science!",
-    "tags": ["coding", "learning"],
+    "tags": ["coding"],
     "saved": "2023-08-20T15:48:19.000Z"
   },
   {
@@ -2131,7 +2096,7 @@
     "url": "https://www.geeksforgeeks.org/",
     "title": "GeeksforGeeks | A computer science portal for geeks",
     "description": "A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.",
-    "tags": ["coding", "learning"],
+    "tags": ["coding"],
     "saved": "2023-08-22T10:56:10.000Z"
   },
   {
@@ -2166,7 +2131,7 @@
     "url": "https://github.com/norvig/pytudes",
     "title": "GitHub - norvig/pytudes: Python programs, usually short, of considerable difficulty, to perfect particular skills.",
     "description": "Python programs, usually short, of considerable difficulty, to perfect particular skills. - GitHub - norvig/pytudes: Python programs, usually short, of considerable difficulty, to perfect particular skills.",
-    "tags": ["coding", "learning", "python"],
+    "tags": ["coding", "coding:python"],
     "saved": "2023-08-24T08:24:54.000Z"
   },
   {
@@ -2180,7 +2145,7 @@
     "url": "https://exploringjs.com/impatient-js/toc.html",
     "title": "JavaScript for impatient programmers (ES2022 edition)",
     "description": "",
-    "tags": ["coding", "javascript", "learning", "reference"],
+    "tags": ["coding", "javascript", "reference"],
     "saved": "2023-08-24T12:17:39.000Z"
   },
   {
@@ -2194,7 +2159,7 @@
     "url": "https://learnxinyminutes.com/",
     "title": "Learn X in Y Minutes: Scenic Programming Language Tours",
     "description": "",
-    "tags": ["coding", "learning"],
+    "tags": ["coding"],
     "saved": "2023-08-24T16:34:09.000Z"
   },
   {
@@ -2215,7 +2180,7 @@
     "url": "https://scrimba.com/",
     "title": "Learn to Code with Interactive Tutorials - Scrimba.com",
     "description": "Scrimba is a fun and fast way of learning to code! Our interactive courses and tutorials will teach you React, Vue, Angular, JavaScript, HTML, CSS, and more.",
-    "tags": ["coding", "learning"],
+    "tags": ["coding"],
     "saved": "2023-08-26T07:51:28.000Z"
   },
   {
@@ -2229,21 +2194,21 @@
     "url": "https://github.com/d-akara/development-resources",
     "title": "GitHub - d-akara/development-resources: Collection of useful development resources",
     "description": "Collection of useful development resources. Contribute to d-akara/development-resources development by creating an account on GitHub.",
-    "tags": ["coding", "learning", "reference"],
+    "tags": ["coding", "reference"],
     "saved": "2023-08-27T11:15:38.000Z"
   },
   {
     "url": "http://superherojs.com/",
     "title": "Superhero.js",
     "description": "",
-    "tags": ["coding", "javascript", "learning", "reference"],
+    "tags": ["coding", "javascript", "reference"],
     "saved": "2023-08-27T11:17:01.000Z"
   },
   {
     "url": "https://github.com/mtdvio/every-programmer-should-know",
     "title": "GitHub - mtdvio/every-programmer-should-know: A collection of (mostly) technical things every software developer should know about",
     "description": "A collection of (mostly) technical things every software developer should know about - GitHub - mtdvio/every-programmer-should-know: A collection of (mostly) technical things every software developer should know about",
-    "tags": ["coding", "learning", "reference"],
+    "tags": ["coding", "reference"],
     "saved": "2023-08-27T11:18:11.000Z"
   },
   {
@@ -2257,7 +2222,7 @@
     "url": "https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md",
     "title": "free-programming-books/books/free-programming-books-langs.md at main · EbookFoundation/free-programming-books · GitHub",
     "description": ":books: Freely available programming books. Contribute to EbookFoundation/free-programming-books development by creating an account on GitHub.",
-    "tags": ["coding", "learning", "reference"],
+    "tags": ["coding", "reference"],
     "saved": "2023-08-30T16:18:24.000Z"
   },
   {
@@ -2306,7 +2271,7 @@
     "url": "https://www.frontendmentor.io/challenges",
     "title": "Frontend Mentor | Challenges",
     "description": "Browse through the front-end coding challenges on Frontend Mentor. Find interesting projects to practice your HTML, CSS and JavaScript",
-    "tags": ["coding", "learning", "portfolio", "projects"],
+    "tags": ["coding", "portfolio", "projects"],
     "saved": "2023-09-04T06:58:29.000Z"
   },
   {
@@ -2334,7 +2299,7 @@
     "url": "https://medium.com/basecs/bits-bytes-building-with-binary-13cb4289aafa",
     "title": "Understanding binary",
     "description": "",
-    "tags": ["coding", "learning", "reference"],
+    "tags": ["coding", "reference"],
     "saved": "2023-09-04T07:23:24.000Z"
   },
   {
@@ -2803,35 +2768,35 @@
     "url": "https://innerfrench.com/",
     "title": "innerFrench – Learn French through topics that matter.",
     "description": "",
-    "tags": ["french", "language", "podcast"],
+    "tags": ["french"],
     "saved": "2024-09-17T19:37:40.000Z"
   },
   {
     "url": "https://apprendre.tv5monde.com/en/exercices/shamengo",
     "title": "Access Denied",
     "description": "",
-    "tags": ["french", "language"],
+    "tags": ["french"],
     "saved": "2024-09-17T20:05:22.000Z"
   },
   {
     "url": "https://onethinginafrenchday.podbean.com/",
     "title": "One Thing In A French Day | Laetitia Perraut",
     "description": "A small slice of a Frenchwoman’s day -- in France and in French. A fun podcast to improve your French! On Mondays, Wednesdays and Fridays.",
-    "tags": ["french", "language"],
+    "tags": ["french"],
     "saved": "2024-09-17T20:07:47.000Z"
   },
   {
     "url": "https://francaisfacile.rfi.fr/fr/",
     "title": "RFI - learn French",
     "description": "Follow any political information, cultural, sporting and live streaming on RFI. The latest information, news and events in France, Europe and around the world.",
-    "tags": ["french", "language"],
+    "tags": ["french"],
     "saved": "2024-09-17T20:55:05.000Z"
   },
   {
     "url": "https://newsinfrench.org/",
     "title": "The Daily Newsletter - News in French",
     "description": "Start your day with a little français.  More than just a free email — it’s your daily dose of French, right in your inbox, every morning. Discover new Francophone music, learn new vocabulary, and get up to speed on the day’s most interesting stories — all en français. Sign up now and join 15,000+ students, […]",
-    "tags": ["french", "language"],
+    "tags": ["french"],
     "saved": "2024-09-17T21:36:34.000Z"
   },
   {
@@ -2873,14 +2838,14 @@
     "url": "https://languatalk.com/blog/podcast/french/",
     "title": "LanguaTalk Slow French: Learn French With Gaëlle | French podcast for A2 &amp; above",
     "description": "Learn French with Gaëlle, an experienced French teacher. 99% in French and designed for basic level (A2) learners & above. Free interactive transcripts & vocab lists.",
-    "tags": ["french", "language"],
+    "tags": ["french"],
     "saved": "2024-10-05T15:02:46.000Z"
   },
   {
     "url": "https://www.fluentu.com/blog/french/french-podcasts/?rfsn=85633.c2da#toc_3",
     "title": "21 Excellent French Podcasts for Learners | FluentU Language Learning",
     "description": "Try listening to some French podcasts if you are trying to improve your French listening, but are tired of the same old methods! This post will introduce you to 21 French podcasts you're guaranteed to love, from the beginner to the advanced level. So open your favorite podcast app and let's get listening!",
-    "tags": ["french", "language"],
+    "tags": ["french"],
     "saved": "2024-10-06T16:35:37.000Z"
   },
   {
@@ -2901,14 +2866,14 @@
     "url": "https://francais.lingolia.com/en/",
     "title": "Lingolia",
     "description": "",
-    "tags": ["french", "language"],
+    "tags": ["french"],
     "saved": "2024-10-16T18:46:23.000Z"
   },
   {
     "url": "https://www.linternaute.fr/dictionnaire/fr/",
     "title": "Dictionnaire français : définitions faciles, synonymes, exemples",
     "description": "Dictionnaire gratuit avec synonymes, contraires,",
-    "tags": ["french", "language"],
+    "tags": ["french"],
     "saved": "2024-10-17T10:47:57.000Z"
   },
   {
@@ -2922,28 +2887,28 @@
     "url": "https://languageroadmap.com/",
     "title": "Language Roadmap",
     "description": "Find the perfect language content to immerse in next",
-    "tags": ["french", "language"],
+    "tags": ["french"],
     "saved": "2024-10-22T07:15:53.000Z"
   },
   {
     "url": "https://www.linguno.com/practice/conjugations/drills/?lang=fra",
     "title": "Linguno - French conjugation practice",
     "description": "Practice French conjugations.",
-    "tags": ["french", "language"],
+    "tags": ["french"],
     "saved": "2024-10-22T09:33:30.000Z"
   },
   {
     "url": "https://www.netflix.com/gb/browse/genre/100378",
     "title": "French Movies &amp; TV Shows | Netflix Official Site",
     "description": "Romantic dramas, funny comedies, scary horror stories, action-packed thrillers – these movies and TV shows in French have something for fans of all genres.",
-    "tags": ["french", "language"],
+    "tags": ["french"],
     "saved": "2024-10-26T13:01:49.000Z"
   },
   {
     "url": "https://morpheem.org/fr",
     "title": "Morpheem - For serious language learners",
     "description": "",
-    "tags": ["french", "language"],
+    "tags": ["french"],
     "saved": "2024-10-27T21:32:22.000Z"
   },
   {
@@ -2957,14 +2922,14 @@
     "url": "https://apprendre.tv5monde.com/en",
     "title": "Access Denied",
     "description": "",
-    "tags": ["french", "language"],
+    "tags": ["french"],
     "saved": "2024-11-01T08:31:28.000Z"
   },
   {
     "url": "https://www.raconte.app/",
     "title": "Raconte",
     "description": "Learn real French naturally with native content. The best curated library for learning French with podcasts, youtube videos, news and more.",
-    "tags": ["french", "language"],
+    "tags": ["french"],
     "saved": "2024-11-01T20:22:17.000Z"
   },
   {
@@ -3216,7 +3181,7 @@
     "url": "https://www.radiofrance.fr/franceculture/podcasts/les-pieds-sur-terre",
     "title": "Les Pieds sur terre : podcast de reportages sur France Culture",
     "description": "PODCAST. Chaque jour, une demi-heure de reportage sans commentaire. Écoutez en replay l'émission Les Pieds sur terre par Sonia Kronlund sur France Culture.",
-    "tags": ["french", "podcast"],
+    "tags": ["french"],
     "saved": "2025-09-28T07:26:11.000Z"
   },
   {
