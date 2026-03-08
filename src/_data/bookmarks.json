@@ -1,47 +1,5 @@
 [
   {
-    "url": "https://marco.org/podcasting-microphones",
-    "title": "Podcasting Microphones Mega-Review – Marco.org",
-    "description": "",
-    "tags": [],
-    "saved": "2022-03-27T06:14:50.000Z"
-  },
-  {
-    "url": "https://github.com/Kinark/mac-hey",
-    "title": "GitHub - Kinark/mac-hey",
-    "description": "See: https://www.reddit.com/r/HeyEmail/comments/tcmy49/guide_to_speed_up_your_desktop_hey_app/",
-    "tags": ["tech"],
-    "saved": "2022-03-26T22:31:28.000Z"
-  },
-  {
-    "url": "http://www.nosdiet.com/",
-    "title": "No S Diet: No snacks, sweets, seconds, except on days that start with S.",
-    "description": "No snacks, No Sweets, No Seconds. Except on days that start with S.",
-    "tags": ["health"],
-    "saved": "2022-03-26T22:20:58.000Z"
-  },
-  {
-    "url": "https://russelldavies.typepad.com/planning/2022/03/so-each-and-every-week-these-leaders-have-a-brief-check-in-with-each-team-member-during-which-they-ask-two-simple-questions.html",
-    "title": "Questions, questions",
-    "description": "A correspondent writes to tell me that a good advisor asks good questions (as well as offers encouragement). Which is an excuse for this blog post - a small bundle of questions I've collected. This is probably the thing I've...",
-    "tags": [],
-    "saved": "2022-03-26T21:55:05.000Z"
-  },
-  {
-    "url": "https://kimjongunlookingatthings.com/",
-    "title": "Kim Jong Un Looking at Things",
-    "description": "@Baddiel I think this has to be the best website in the history of the internet",
-    "tags": ["funny"],
-    "saved": "2022-03-25T18:08:27.000Z"
-  },
-  {
-    "url": "https://www.getrevue.co/profile/bookfreak/issues/book-freak-issue-80-how-to-use-algorithms-to-make-better-decisions-1102061",
-    "title": "Book Freak - Issue #80: How to Use Algorithms to Make Better Decisions",
-    "description": "Book Freak - This issue of Book Freak presents four pieces of advice from Algorithms to Live By, by Brian Christian",
-    "tags": [],
-    "saved": "2022-03-25T10:11:51.000Z"
-  },
-  {
     "url": "https://twitter.com/KopBlock205/status/1356659299431444486",
     "title": "Escalators and old people",
     "description": "",
@@ -54,258 +12,6 @@
     "description": "",
     "tags": [],
     "saved": "2022-03-23T13:28:53.000Z"
-  },
-  {
-    "url": "https://shottr.cc/",
-    "title": "screenshot app for pixel professionals",
-    "description": "Shottr is a free macOS screenshot app with scrolling screenshots, OCR, annotation and measurement instruments.",
-    "tags": ["apps", "tech"],
-    "saved": "2022-03-22T23:51:42.000Z"
-  },
-  {
-    "url": "https://github.com/ArchiveBox/ArchiveBox",
-    "title": "ArchiveBox",
-    "description": "Self hosted web archiving tool",
-    "tags": ["tech"],
-    "saved": "2022-03-21T21:37:06.000Z"
-  },
-  {
-    "url": "https://astrojarred.github.io/puzzlepull/",
-    "title": "Puzzlepull",
-    "description": "Download crosswords in iPuz format",
-    "tags": ["crosswords"],
-    "saved": "2022-03-21T20:56:02.000Z"
-  },
-  {
-    "url": "https://scholarship.law.marquette.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=2239&context=mulr",
-    "title": "Women&#x27;s Name Rights",
-    "description": "",
-    "tags": ["article:surnames", "research"],
-    "saved": "2022-03-21T10:51:37.000Z"
-  },
-  {
-    "url": "https://web.archive.org/web/20070114123109/http://news.yahoo.com/s/ap/20070112/ap_on_re_us/take_my_wife_s_name",
-    "title": "Man files lawsuit to take wife&#x27;s name - Yahoo! News",
-    "description": "",
-    "tags": ["article:surnames", "research"],
-    "saved": "2022-03-21T10:51:37.000Z"
-  },
-  {
-    "url": "https://www.thoughtco.com/surname-meanings-and-origins-s2-1422408",
-    "title": "Where Do Surnames Come From?",
-    "description": "",
-    "tags": ["article:surnames", "research"],
-    "saved": "2022-03-21T10:51:37.000Z"
-  },
-  {
-    "url": "https://medium.com/@mbbroberg/i-have-a-maiden-name-58207e099e78#.qaporyf0l",
-    "title": "I Have a Maiden Name. An exploration of surnames, beliefs and… | by Matthew (Brender) Broberg | Medium",
-    "description": "",
-    "tags": ["article:surnames", "research"],
-    "saved": "2022-03-21T10:51:37.000Z"
-  },
-  {
-    "url": "https://www.nytimes.com/2015/06/28/upshot/about-the-maiden-name-analysis.html",
-    "title": "About the Maiden-Name Analysis - The New York Times",
-    "description": "",
-    "tags": ["article:surnames", "research"],
-    "saved": "2022-03-21T10:51:37.000Z"
-  },
-  {
-    "url": "https://www.bbc.com/worklife/article/20200921-why-do-women-still-change-their-names",
-    "title": "Why do women still change their names? - BBC Worklife",
-    "description": "",
-    "tags": ["article:surnames", "research"],
-    "saved": "2022-03-21T10:51:37.000Z"
-  },
-  {
-    "url": "https://github.com/gildas-lormeau/SingleFile#faq",
-    "title": "gildas-lormeau/SingleFile: Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file",
-    "description": "Replacement for webarchive?",
-    "tags": ["tech"],
-    "saved": "2022-03-21T06:59:12.000Z"
-  },
-  {
-    "url": "https://ocrmypdf.readthedocs.io/en/latest/introduction.html",
-    "title": "Introduction — ocrmypdf 13.4.0.post3+g13917c05 documentation",
-    "description": "",
-    "tags": ["tech"],
-    "saved": "2022-03-20T16:41:07.000Z"
-  },
-  {
-    "url": "https://twitter.com/christopherhope/status/1501830187008368641",
-    "title": "https://twitter.com/christopherhope/status/1501830187008368641",
-    "description": "People are choosing between heating and eating and the Tories voted twice against feeding hungry kids at Christmas during a pandemic",
-    "tags": [],
-    "saved": "2022-03-10T09:15:06.000Z"
-  },
-  {
-    "url": "https://violinistssupportukraine.com/",
-    "title": "(500) https://violinistssupportukraine.com/",
-    "description": "Watch: 94 violinists (incl. a sprinkling from the LSO) around the world accompany young violinists, some in basement shelters, in Ukraine. Read the story, donate and download the score to record your own contribution:",
-    "tags": [],
-    "saved": "2022-03-09T16:00:06.000Z"
-  },
-  {
-    "url": "https://twitter.com/bbcpress/status/1488799474185031687/video/1",
-    "title": "(400) https://twitter.com/bbcpress/status/1488799474185031687/video/1",
-    "description": "The @BBC is something that belongs to all of us. #ThisIsOurBBC",
-    "tags": [],
-    "saved": "2022-02-02T09:00:29.000Z"
-  },
-  {
-    "url": "https://twitter.com/davidschneider/status/1483201432367030275",
-    "title": "(400) https://twitter.com/davidschneider/status/1483201432367030275",
-    "description": "This is the really worrying stuff: they quietly chip away at democracy while all of us are staring at the Downing St dumpster fire. When Johnson goes, they’ll still be there, chipping chipping away.",
-    "tags": [],
-    "saved": "2022-01-18T03:48:03.000Z"
-  },
-  {
-    "url": "https://twitter.com/fionasstalker/status/1482657359063400448",
-    "title": "(400) https://twitter.com/fionasstalker/status/1482657359063400448",
-    "description": "One week into lockdown the BBC launched the biggest educational programme in its recent history to ensure children had learning support. No other platform could/would do that",
-    "tags": [],
-    "saved": "2022-01-17T00:50:50.000Z"
-  },
-  {
-    "url": "https://twitter.com/stephenfry/status/1482722192706220039/photo/1",
-    "title": "(400) https://twitter.com/stephenfry/status/1482722192706220039/photo/1",
-    "description": "Is there no shame, no shred of honour or duty? None? I suppose it’s naive of me to be shocked by and ashamed of what’s become of our parliamentary democracy.",
-    "tags": [],
-    "saved": "2022-01-16T14:31:33.000Z"
-  },
-  {
-    "url": "https://twitter.com/nadinedorries/status/1482622722228240387",
-    "title": "(400) https://twitter.com/nadinedorries/status/1482622722228240387",
-    "description": "I think it’s more likely to be your last rather than the BBC’s.",
-    "tags": [],
-    "saved": "2022-01-16T13:51:35.000Z"
-  },
-  {
-    "url": "https://twitter.com/jonathancoe/status/1482634757313863681/photo/1",
-    "title": "(400) https://twitter.com/jonathancoe/status/1482634757313863681/photo/1",
-    "description": "It's insane how these people bang on about 'global Britain' and how colossal we're going to be on the world stage, while doing everything they can to trash the core institutions our international reputation is based on.",
-    "tags": [],
-    "saved": "2022-01-16T08:44:06.000Z"
-  },
-  {
-    "url": "https://twitter.com/i_am_mill_i_am/status/1477219717593145348/photo/1",
-    "title": "(400) https://twitter.com/i_am_mill_i_am/status/1477219717593145348/photo/1",
-    "description": "I read [XXX] books in 2021. These were my favourites. >",
-    "tags": [],
-    "saved": "2022-01-01T10:06:40.000Z"
-  },
-  {
-    "url": "https://twitter.com/icklenellierose/status/1474091513705545734/photo/1",
-    "title": "(400) https://twitter.com/icklenellierose/status/1474091513705545734/photo/1",
-    "description": "Really enjoying the Tory ability to flaunt a fancy private education by naming characters and quoting lines from classic texts, revealing they have ZERO understanding of the meaning behind any of it.",
-    "tags": [],
-    "saved": "2021-12-23T18:56:18.000Z"
-  },
-  {
-    "url": "https://twitter.com/brandonleehoop/status/1473715769464823808/photo/1",
-    "title": "(400) https://twitter.com/brandonleehoop/status/1473715769464823808/photo/1",
-    "description": "Forget fintechs. This is actual innovation:",
-    "tags": [],
-    "saved": "2021-12-22T23:03:14.000Z"
-  },
-  {
-    "url": "https://m.soundcloud.com/zebsoanes/the-late-duchess-of-alba",
-    "title": "Stream episode The Late Duchess Of Alba by Zeb Soanes podcast | Listen online for free on SoundCloud",
-    "description": "The third example being a real-life audio accomplishment of @zebsoanes",
-    "tags": [],
-    "saved": "2021-12-05T22:19:47.000Z"
-  },
-  {
-    "url": "https://twitter.com/turnitup79/status/1448742799885615114",
-    "title": "(400) https://twitter.com/turnitup79/status/1448742799885615114",
-    "description": "",
-    "tags": [],
-    "saved": "2021-10-15T10:08:16.000Z"
-  },
-  {
-    "url": "https://twitter.com/jamabing/status/1448953864506462214/video/1",
-    "title": "(400) https://twitter.com/jamabing/status/1448953864506462214/video/1",
-    "description": "",
-    "tags": [],
-    "saved": "2021-10-15T10:08:16.000Z"
-  },
-  {
-    "url": "https://twitter.com/i_am_mill_i_am/status/1415731712454184967/photo/1",
-    "title": "(400) https://twitter.com/i_am_mill_i_am/status/1415731712454184967/photo/1",
-    "description": "I miss the 1990s.",
-    "tags": [],
-    "saved": "2021-07-15T17:55:17.000Z"
-  },
-  {
-    "url": "https://mashable.com/article/microsoft-bing-tank-man/",
-    "title": "Bing blocked searches for Chinese &#x27;Tank Man&#x27; photo, blamed human error",
-    "description": "China banned DuckDuckGo in 2014 and we have no plans to change that. This image belongs in search results and never disappeared from our main page. For the image tab we mainly use Bing and they fixed the error. We’re looking to supplement w/ more sources.",
-    "tags": [],
-    "saved": "2021-06-05T23:38:32.000Z"
-  },
-  {
-    "url": "https://news.sky.com/story/amp/brexit-supporting-wetherspoons-boss-calls-for-more-eu-migration-12322959",
-    "title": "Brexit-supporting Wetherspoons boss calls for more EU migration | Business News | Sky News",
-    "description": "Alexa - play me the sound of hollow laughter...",
-    "tags": [],
-    "saved": "2021-06-02T12:38:46.000Z"
-  },
-  {
-    "url": "https://twitter.com/Madz_Grant/status/1397477588054990850/photo/1",
-    "title": "(400) https://twitter.com/Madz_Grant/status/1397477588054990850/photo/1",
-    "description": "\"You weren’t just *a person* in Number 10… your title was the chief adviser\"",
-    "tags": [],
-    "saved": "2021-05-26T08:59:55.000Z"
-  },
-  {
-    "url": "https://twitter.com/JimMFelton/status/1396946707628298246/photo/1",
-    "title": "(400) https://twitter.com/JimMFelton/status/1396946707628298246/photo/1",
-    "description": "Two absolute heroes 👏",
-    "tags": [],
-    "saved": "2021-05-24T21:50:23.000Z"
-  },
-  {
-    "url": "https://twitter.com/NoContextBrits/status/1396826743730806785/photo/1",
-    "title": "(400) https://twitter.com/NoContextBrits/status/1396826743730806785/photo/1",
-    "description": "Looks like Sideshow Bob is back on the loose.",
-    "tags": [],
-    "saved": "2021-05-24T17:53:42.000Z"
-  },
-  {
-    "url": "https://twitter.com/ottojizzmark/status/1396161970039136260",
-    "title": "(400) https://twitter.com/ottojizzmark/status/1396161970039136260",
-    "description": "Deportation by Channel",
-    "tags": [],
-    "saved": "2021-05-22T23:23:19.000Z"
-  },
-  {
-    "url": "https://twitter.com/christinamartin/status/1395343133785923586",
-    "title": "(400) https://twitter.com/christinamartin/status/1395343133785923586",
-    "description": "If that doesn’t have an inscription saying “I told you I was I’ll” then they’ve missed a trick.",
-    "tags": [],
-    "saved": "2021-05-20T12:23:50.000Z"
-  },
-  {
-    "url": "https://twitter.com/Wharton1965/status/1394230223047217152/photo/1",
-    "title": "(400) https://twitter.com/Wharton1965/status/1394230223047217152/photo/1",
-    "description": "@RSmythFreelance Lovely find. Though whenever I see one of these in a s/h shop, I always think of this bit from Simon Armitage:",
-    "tags": [],
-    "saved": "2021-05-17T13:56:03.000Z"
-  },
-  {
-    "url": "https://twitter.com/TheProfRog/status/1393984349515796480/photo/1",
-    "title": "(400) https://twitter.com/TheProfRog/status/1393984349515796480/photo/1",
-    "description": "When Prince Philip met Derrida (this week’s TLS)",
-    "tags": [],
-    "saved": "2021-05-17T00:39:02.000Z"
-  },
-  {
-    "url": "https://www.youtube.com/watch?feature=youtu.be&v=GBaHPND2QJg&app=desktop",
-    "title": "Som Sabadell flashmob - BANCO SABADELL - YouTube",
-    "description": "",
-    "tags": [],
-    "saved": "2020-03-13T07:38:37.000Z"
   },
   {
     "url": "https://web.hypothes.is/",
@@ -353,7 +59,7 @@
     "url": "https://github.com/hakimel/reveal.js/",
     "title": "hakimel/reveal.js: The HTML Presentation Framework",
     "description": "",
-    "tags": ["javascript"],
+    "tags": ["coding", "coding:javascript"],
     "saved": "2018-05-14T11:59:11.000Z"
   },
   {
@@ -364,52 +70,10 @@
     "saved": "2018-05-10T16:57:31.000Z"
   },
   {
-    "url": "http://www.unheap.com/?badge=all",
-    "title": "Unheap - A tidy Repository of jQuery Plugins &amp;amp; JavaScripts",
-    "description": "",
-    "tags": ["javascript"],
-    "saved": "2018-04-30T21:12:23.000Z"
-  },
-  {
-    "url": "http://youmightnotneedjquery.com/",
-    "title": "You Might Not Need jQuery",
-    "description": "",
-    "tags": ["javascript"],
-    "saved": "2018-04-29T15:18:26.000Z"
-  },
-  {
-    "url": "https://caniuse.com/",
-    "title": "Can I use... Support tables for HTML5, CSS3, etc",
-    "description": "",
-    "tags": ["javascript"],
-    "saved": "2018-04-29T15:04:41.000Z"
-  },
-  {
-    "url": "https://github.com/gordonmzhu/cheatsheet-js",
-    "title": "gordonmzhu/cheatsheet-js: A super condensed JavaScript this reference for Watch and Code students.",
-    "description": "",
-    "tags": ["javascript"],
-    "saved": "2018-04-28T11:01:44.000Z"
-  },
-  {
-    "url": "https://www.theguardian.com/news/2018/feb/06/talk-is-cheap-the-myth-of-the-focus-group",
-    "title": "Talk is cheap: the myth of the focus group | News | The Guardian",
-    "description": "The process looks like democracy in action, and most people enjoy participating. Yet focus groups are widely despised. The public resents the mediocre outcomes of a focus-grouped world, feeling that the culture of consultation dumbs down our politics, entertainment and just about everything else. The clients who commission focus groups to give feedback on a new product or political initiative resent the obligation to listen to ordinary, non-expert people, and often feel humiliated by their judgments. Everyone imagines the participants to be idiots.",
-    "tags": ["article"],
-    "saved": "2018-04-28T10:47:56.000Z"
-  },
-  {
-    "url": "https://blog.usejournal.com/net-promoter-score-considered-harmful-and-what-ux-professionals-can-do-about-it-fe7a132f4430?source=userActivityShare-440a04f2e862-1524905486",
-    "title": "Net Promoter Score Considered Harmful",
-    "description": "",
-    "tags": ["article"],
-    "saved": "2018-04-28T08:51:52.000Z"
-  },
-  {
     "url": "https://www.siteinspire.com/",
     "title": "siteInspire - Web Design Inspiration",
     "description": "A showcase of the best web design inspiration, featuring over 7,000 websites and  profiles of the digital agencies, designers and developers who made them.",
-    "tags": ["inspiration", "coding:frontend"],
+    "tags": ["coding", "coding:frontend", "inspiration:digital"],
     "saved": "2018-04-14T15:41:36.000Z"
   },
   {
@@ -425,13 +89,6 @@
     "description": "",
     "tags": ["writing"],
     "saved": "2018-03-31T09:47:23.000Z"
-  },
-  {
-    "url": "http://www.proust-ink.com/course/info/",
-    "title": "Proust online course",
-    "description": "",
-    "tags": ["literature"],
-    "saved": "2018-02-04T11:57:59.000Z"
   },
   {
     "url": "https://www.theguardian.com/news/2017/nov/23/from-inboxing-to-thought-showers-how-business-bullshit-took-over?CMP=Share_iOSApp_Other",
@@ -472,15 +129,8 @@
     "url": "http://www.macdrifter.com/2016/04/a-quick-tour-of-keyboard-maestro-fill-in-snippets.html",
     "title": "A Quick Tour of Keyboard Maestro Fill-In Snippets",
     "description": "",
-    "tags": [],
+    "tags": ["automation"],
     "saved": "2017-02-03T10:55:55.000Z"
-  },
-  {
-    "url": "https://t.co/6HzTFdOMXv",
-    "title": "Refugees poem",
-    "description": "RT @brian_bilston: My poem 'Refugees' for #refugeeswelcome",
-    "tags": [],
-    "saved": "2017-01-28T06:46:02.000Z"
   },
   {
     "url": "https://css-tricks.com/use-target_blank/",
@@ -490,17 +140,10 @@
     "saved": "2016-11-01T19:15:47.000Z"
   },
   {
-    "url": "https://www.ablebits.com/office-addins-blog/2015/08/26/excel-compare-two-columns-matches-differences/#compare-two-columns",
-    "title": "Excel: Compare two columns for matches and differences",
-    "description": "",
-    "tags": ["tech"],
-    "saved": "2016-10-29T15:34:05.000Z"
-  },
-  {
     "url": "http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown",
     "title": "Sustainable Authorship in Plain Text using Pandoc and Markdown | Programming Historian",
     "description": "",
-    "tags": [],
+    "tags": ["tech"],
     "saved": "2016-09-10T23:16:32.000Z"
   },
   {
@@ -546,27 +189,6 @@
     "saved": "2016-08-10T18:58:17.000Z"
   },
   {
-    "url": "http://www.lrb.co.uk/contributors/marghanita-laski",
-    "title": "Marghanita Laski · LRB",
-    "description": "",
-    "tags": ["research"],
-    "saved": "2016-08-08T10:31:01.000Z"
-  },
-  {
-    "url": "http://orlando.cambridge.org/public/svPeople?person_id=laskma",
-    "title": "Marghanita Laski © Orlando Project",
-    "description": "",
-    "tags": ["literature"],
-    "saved": "2016-08-04T08:50:56.000Z"
-  },
-  {
-    "url": "http://arts.uottawa.ca/writingcentre/en/hypergrammar",
-    "title": "HyperGrammar | The Writing Centre | University of Ottawa",
-    "description": "",
-    "tags": ["reference", "writing"],
-    "saved": "2016-07-04T10:33:41.000Z"
-  },
-  {
     "url": "https://www.facebook.com/itvnews/videos/vb.148007467671/10153829429782672/?type=2&theater",
     "title": "Geldof shouts at Farage",
     "description": "",
@@ -586,13 +208,6 @@
     "description": "",
     "tags": ["coding", "coding:css"],
     "saved": "2016-04-04T10:04:13.000Z"
-  },
-  {
-    "url": "http://www.slow-journalism.com/delayed-gratification-magazine",
-    "title": "Delayed Gratification magazine | The Slow Journalism Magazine",
-    "description": "",
-    "tags": ["magazines"],
-    "saved": "2016-03-29T16:50:47.000Z"
   },
   {
     "url": "https://www.youtube.com/watch?v=2hNuBjXploE",
@@ -626,14 +241,14 @@
     "url": "http://content.csbs.utah.edu/~ehrbar/akmc.htm",
     "title": "Ehrbar&#x27;s Marx Annotations",
     "description": "",
-    "tags": ["marxism", "reference"],
+    "tags": ["marxism"],
     "saved": "2015-07-28T17:45:04.000Z"
   },
   {
     "url": "http://kk.org/cooltools/best-magazine-articles-ever",
     "title": "The Best Magazine Articles Ever",
     "description": "",
-    "tags": ["magazines"],
+    "tags": ["article"],
     "saved": "2015-07-17T15:44:26.000Z"
   },
   {
@@ -656,13 +271,6 @@
     "description": "",
     "tags": ["funny"],
     "saved": "2015-05-16T10:22:40.000Z"
-  },
-  {
-    "url": "https://m.facebook.com/story.php?story_fbid=303099013147792&id=209390455851982&refsrc=https%3A%2F%2Fm.facebook.com%2Fvideo.php&_rdr",
-    "title": "Ricky Gervais video",
-    "description": "\"Fuck off\"",
-    "tags": ["funny"],
-    "saved": "2015-05-13T21:40:58.000Z"
   },
   {
     "url": "http://www.waywordsandmeansigns.com/",
@@ -689,113 +297,22 @@
     "url": "https://mike-taylor.org/2022/03/01/how-i-create-my-weekly-newsletter-and-personal-curation-tips-you-should-steal/",
     "title": "How I Create My Weekly Newsletter (and personal curation tips you should steal) – Mike Taylor",
     "description": "Image from https://blog.feedly.com/ Since I haven’t written a blog post in a while, I thought it was time to dust off the cobwebs. I wanted to answer one of the questions I get asked the most. In this post, I’ll share a bit about my curation process and how I choose the things I share…",
-    "tags": [],
+    "tags": ["blogging"],
     "saved": "2022-04-02T09:32:18.000Z"
-  },
-  {
-    "url": "https://ghost.org/resources/the-browser-curation-tips/",
-    "title": "The Browser on how to start a curation newsletter",
-    "description": "There's a growing need for great curators to help us find the best sources online. This resource will show you how to curate like a pro.",
-    "tags": [],
-    "saved": "2022-04-03T06:03:41.000Z"
-  },
-  {
-    "url": "https://regexlearn.com/",
-    "title": "Regex Learn - Step by step, from zero to advanced.",
-    "description": "Learn Regex interactively, practice at your level, test and share your own Regex.",
-    "tags": ["tech"],
-    "saved": "2022-04-03T10:56:30.000Z"
-  },
-  {
-    "url": "https://mjtsai.com/blog/2022/04/04/searching-in-open-save-panels/",
-    "title": "Michael Tsai - Blog  -  Searching in Open/Save Panels",
-    "description": "",
-    "tags": ["tech"],
-    "saved": "2022-04-04T16:14:14.000Z"
   },
   {
     "url": "https://marxdown.github.io/",
     "title": "MARXdown",
     "description": "",
-    "tags": [],
+    "tags": ["marxism"],
     "saved": "2022-04-05T07:36:38.000Z"
-  },
-  {
-    "url": "https://www.collaborativefund.com/blog/100-little-ideas/",
-    "title": "100 Little Ideas · Collaborative Fund",
-    "description": "-",
-    "tags": [],
-    "saved": "2022-04-05T07:37:00.000Z"
-  },
-  {
-    "url": "https://kottke.org/22/04/the-del-monte-20-bill",
-    "title": "The Del Monte $20 Bill",
-    "description": "",
-    "tags": [],
-    "saved": "2022-04-06T18:54:13.000Z"
-  },
-  {
-    "url": "https://stancarey.wordpress.com/2022/04/07/wordable-awareness/",
-    "title": "Wordable awareness | Sentence first",
-    "description": "I came across an interesting word in Don DeLillo’s novel Falling Man (Picador, 2007). It appears in the middle of a conversation between an estranged couple, here discussing their son: ‘We talked about it,’ Keith said. ‘But only once.’ ‘What did he say?’ ‘Not much. And neither did I.’ ‘They’re searching the skies.’ ‘That’s right,’…",
-    "tags": [],
-    "saved": "2022-04-09T02:52:25.000Z"
   },
   {
     "url": "https://wormhole.app/",
     "title": "Wormhole - Simple, private file sharing",
     "description": "Wormhole lets you share files with end-to-end encryption and a link that automatically expires.",
-    "tags": ["tech"],
+    "tags": ["apps"],
     "saved": "2022-04-12T20:50:28.000Z"
-  },
-  {
-    "url": "https://hogbaysoftware.netlify.app/bike/",
-    "title": "Bike app",
-    "description": "Hog Bay Software blog",
-    "tags": ["tech"],
-    "saved": "2022-04-14T21:10:56.000Z"
-  },
-  {
-    "url": "https://pudding.cool/2018/04/birthday-paradox/",
-    "title": "The Birthday Paradox Experiment",
-    "description": "Your birthday twin is probably reading this right now. Because math.",
-    "tags": [],
-    "saved": "2022-04-18T10:11:02.000Z"
-  },
-  {
-    "url": "https://www.deanishe.net/snippet/macos-shortcuts-to-alfred-snippets/",
-    "title": "Sync macOS Shortcuts to Alfred Snippets — deanishe.net",
-    "description": "dem Dean sein Zeug",
-    "tags": [],
-    "saved": "2022-04-18T20:43:58.000Z"
-  },
-  {
-    "url": "https://bundlehunt.com/",
-    "title": "BundleHunt",
-    "description": "",
-    "tags": [],
-    "saved": "2022-04-18T21:43:06.000Z"
-  },
-  {
-    "url": "https://mimestream.com/",
-    "title": "Mimestream | A native macOS email client for Gmail",
-    "description": "A native macOS email client for Gmail",
-    "tags": [],
-    "saved": "2022-04-18T21:54:22.000Z"
-  },
-  {
-    "url": "https://wordpress.org/openverse/",
-    "title": "Openverse | WordPress.org",
-    "description": "Openly licensed assets",
-    "tags": [],
-    "saved": "2022-05-11T06:06:07.000Z"
-  },
-  {
-    "url": "https://marxdown.github.io/about/",
-    "title": "Marxdown",
-    "description": "",
-    "tags": [],
-    "saved": "2022-07-01T06:54:01.000Z"
   },
   {
     "url": "https://era.org.uk/shakespeare-archive/",
@@ -805,25 +322,11 @@
     "saved": "2022-07-03T12:28:47.000Z"
   },
   {
-    "url": "https://recommendmeabook.com/",
-    "title": "Recommend Me a Book",
-    "description": "Find new books to read without judging the cover. Read first pages of novels without bias, and reveal the author and title if you're hooked.",
-    "tags": [],
-    "saved": "2022-08-13T20:13:13.000Z"
-  },
-  {
     "url": "https://www.bbcrewind.co.uk/asset/5ffc73c1f15a6b0027622457?q=sheffield%20worries",
     "title": "https://www.bbcrewind.co.uk/asset/5ffc73c1f15a6b0027622457?q=sheffield%20worries",
     "description": "What will you find? Explore thousands of recent archive clips from around the UK.",
-    "tags": [],
+    "tags": ["misc"],
     "saved": "2022-08-29T15:31:27.000Z"
-  },
-  {
-    "url": "https://twitter.com/pechacek_amy/status/1555172960662585345?s=20&t=4nDAEDKBoHx-T3YZSOtzzw",
-    "title": "https://twitter.com/pechacek_amy/status/1555172960662585345?s=20&amp;t=4nDAEDKBoHx-T3YZSOtzzw",
-    "description": "",
-    "tags": [],
-    "saved": "2022-10-24T07:12:37.000Z"
   },
   {
     "url": "https://www.fifteensquared.net/",
@@ -836,133 +339,49 @@
     "url": "https://coreyward.svbtle.com/websters-unabridged-dictionary-1913-on-macos-catalina",
     "title": "Using Webster’s 1913 Dictionary on macOS Catalina, Big Sur, or Monterey",
     "description": "I recently had the pleasure of discovering James Somer’s blog through Instapaper’s weekly “top highlights” email. I found James’ post about the dictionary particularly compelling, and it seems I’m not alone. Alas, the instructions provided for... | Corey Ward | Full-stack, freelance designer + web developer building GatsbyJS and Rails websites. I also design and build furniture.",
-    "tags": [],
+    "tags": ["macos"],
     "saved": "2022-11-04T11:23:37.000Z"
-  },
-  {
-    "url": "https://infiniteconversation.com/",
-    "title": "The Infinite Conversation",
-    "description": "An AI generated, never-ending discussion between Werner Herzog and Slavoj Žižek.",
-    "tags": [],
-    "saved": "2022-11-04T13:04:43.000Z"
-  },
-  {
-    "url": "https://twitodon.com/",
-    "title": "Twitodon - Find your Twitter friends on Mastodon",
-    "description": "",
-    "tags": [],
-    "saved": "2022-11-08T19:13:38.000Z"
-  },
-  {
-    "url": "https://github.com/joyeusenoelle/GuideToMastodon/",
-    "title": "GitHub - joyeusenoelle/GuideToMastodon: An increasingly less-brief guide to Mastodon",
-    "description": "An increasingly less-brief guide to Mastodon. Contribute to joyeusenoelle/GuideToMastodon development by creating an account on GitHub.",
-    "tags": [],
-    "saved": "2022-11-13T21:23:52.000Z"
   },
   {
     "url": "https://literature-clock.jenevoldsen.com/",
     "title": "Literature Clock",
     "description": "",
-    "tags": [],
+    "tags": ["apps"],
     "saved": "2022-11-20T18:37:35.000Z"
-  },
-  {
-    "url": "https://tidbyt.com/",
-    "title": "Tidbyt - See What Matters",
-    "description": "Tidbyt keeps you updated on transit, weather and more. Leave your phone in your pocket.",
-    "tags": [],
-    "saved": "2022-11-27T22:30:31.000Z"
   },
   {
     "url": "https://theheartybrew.com/how-to-use-a-moccamaster/",
     "title": "How to Use a Moccamaster | A Complete Crash Course",
     "description": "Welcome to your one-stop guide to everything you ever wanted to learn about how to use a Moccamaster drip coffee maker!",
-    "tags": [],
+    "tags": ["coffee"],
     "saved": "2022-11-28T08:30:30.000Z"
   },
   {
     "url": "https://moccamaster.workshopcoffee.com/10/",
     "title": "Brew Guide – MoccaMaster — Page 10",
     "description": "",
-    "tags": [],
+    "tags": ["coffee"],
     "saved": "2022-11-28T08:33:45.000Z"
-  },
-  {
-    "url": "https://danwin1210.de/github-ipv6-proxy.php",
-    "title": "GitHub IPv6 proxy",
-    "description": "GitHub IPv6 proxy allows downloading GitHub repositories on IPv6 only servers",
-    "tags": [],
-    "saved": "2022-12-04T11:33:34.000Z"
   },
   {
     "url": "https://notebook.lachlanjc.com/",
     "title": "@lachlanjc/notebook",
     "description": "Lachlan Campbell’s personal blog, Notebook, with posts about whatever they want.",
-    "tags": [],
+    "tags": ["blogrolls"],
     "saved": "2022-12-05T08:36:20.000Z"
-  },
-  {
-    "url": "https://getindiekit.com/",
-    "title": "Indiekit",
-    "description": "The little server that connects your website to the independent web.",
-    "tags": [],
-    "saved": "2022-12-26T11:11:41.000Z"
-  },
-  {
-    "url": "https://github.com/thisisparker/xword-dl",
-    "title": "GitHub - thisisparker/xword-dl: ⬛⬜⬛ Command line tool to scrape crosswords from online solvers and save them as .puz files ⬛⬜⬛",
-    "description": "⬛⬜⬛ Command line tool to scrape crosswords from online solvers and save them as .puz files ⬛⬜⬛ - GitHub - thisisparker/xword-dl: ⬛⬜⬛ Command line tool to scrape crosswords from online solvers and save them as .puz files ⬛⬜⬛",
-    "tags": [],
-    "saved": "2022-12-29T06:31:03.000Z"
-  },
-  {
-    "url": "https://github.com/lartsch/FediAct",
-    "title": "GitHub - Lartsch/FediAct: Chrome/Firefox extension that simplifies interactions on other Mastodon instances than your own.",
-    "description": "Chrome/Firefox extension that simplifies interactions on other Mastodon instances than your own.  - GitHub - Lartsch/FediAct: Chrome/Firefox extension that simplifies interactions on other Mastodon instances than your own.",
-    "tags": [],
-    "saved": "2022-12-29T22:20:05.000Z"
-  },
-  {
-    "url": "https://phire.cc/Filtering-mail-with-Lua-using-imapfilter.html",
-    "title": "Filtering mail with Lua using imapfilter",
-    "description": "Using imapfilter to programatically filter E-Mail with Lua on an always-on machine",
-    "tags": [],
-    "saved": "2022-12-30T12:26:55.000Z"
-  },
-  {
-    "url": "https://wreninkpaper.com/",
-    "title": "All the (Dickensian) Year Round – ✍ &quot;Brighten it, brighten it, brighten it!&quot; ✍",
-    "description": "✍ \"Brighten it, brighten it, brighten it!\" ✍",
-    "tags": [],
-    "saved": "2023-01-03T23:13:48.000Z"
-  },
-  {
-    "url": "https://www.linkedin.com/posts/adamrbroda_jobsintech-studentvoices-careertips-activity-7013866389971107840-CCOD",
-    "title": "Adam Broda on LinkedIn: #jobsintech #studentvoices #careertips #jobsearchstrategies | 123 comments",
-    "description": "The 8 best sites for remote tech jobs:",
-    "tags": ["coding", "jobs", "tech"],
-    "saved": "2023-01-04T08:21:27.000Z"
-  },
-  {
-    "url": "https://www.newdevcareer.com/",
-    "title": "Home | New Dev Career",
-    "description": "",
-    "tags": ["coding", "jobs", "tech"],
-    "saved": "2023-01-04T22:19:59.000Z"
   },
   {
     "url": "https://www.dmarctester.com/",
     "title": "Learn and Test DMARC",
     "description": "Learn and Test DMARC",
-    "tags": ["tech"],
+    "tags": ["coding:infra"],
     "saved": "2023-01-05T11:59:58.000Z"
   },
   {
     "url": "https://dmarc.postmarkapp.com/",
     "title": "Free DMARC Monitoring from Postmark",
     "description": "A free tool to monitor and implement DMARC",
-    "tags": [],
+    "tags": ["coding:infra"],
     "saved": "2023-01-05T12:01:01.000Z"
   },
   {
@@ -987,94 +406,10 @@
     "saved": "2023-01-15T10:44:50.000Z"
   },
   {
-    "url": "https://talk.automators.fm/t/apple-mail-rule-updater/14079",
-    "title": "Apple Mail Rule Updater - macOS - Automators Talk",
-    "description": "Apple Mail has the best Rules function compared to 3rd Party apps, but updating them is cumbersome.",
-    "tags": [],
-    "saved": "2023-01-16T15:18:52.000Z"
-  },
-  {
-    "url": "https://expressiveegg.substack.com/p/100-books-to-read-before-the-end",
-    "title": "100 Books to Read Before the End, Part 1 - by Darren Allen",
-    "description": "A guide to the best that literature has to offer (now updated). First part of three; Adorno to Hašek",
-    "tags": ["literature"],
-    "saved": "2023-02-01T20:38:35.000Z"
-  },
-  {
-    "url": "https://www.linkedin.com/posts/vitalyfriedman_ux-design-datavisualization-activity-7027217967553642497-LAQk?utm_source=share&utm_medium=member_ios",
-    "title": "Vitaly Friedman on LinkedIn: #ux #design #datavisualization | 61 comments",
-    "description": "🔖 A Guide to Designing Better Data Visualization — just a few incredibly helpful data viz resources I keep in my bookmarks ↓",
-    "tags": [],
-    "saved": "2023-02-05T17:01:38.000Z"
-  },
-  {
-    "url": "https://simpleicons.org/",
-    "title": "Simple Icons",
-    "description": "2435 Free SVG icons for popular brands",
-    "tags": [],
-    "saved": "2023-02-13T08:50:30.000Z"
-  },
-  {
-    "url": "https://siftrss.com/",
-    "title": "siftrss | Filter your RSS feeds and throw away the junk",
-    "description": "Add powerful filters to any Atom or RSS feed for free!  No registration, no limitations, no ads—just a handy tool to declutter your feeds.",
-    "tags": [],
-    "saved": "2023-02-13T08:54:27.000Z"
-  },
-  {
-    "url": "https://github.com/Stephen-Lon?tab=repositories",
-    "title": "Stephen-Lon (Stephen-Lon) / Repositories · GitHub",
-    "description": "An enthusiast of Alfred, DEVONthink and photography—in retirement. - Stephen-Lon",
-    "tags": [],
-    "saved": "2023-02-20T10:24:58.000Z"
-  },
-  {
-    "url": "https://transfer.sh/",
-    "title": "transfer.sh - Easy and fast file sharing from the command-line.",
-    "description": "Easy and fast file sharing from the command-line.",
-    "tags": [],
-    "saved": "2023-03-03T22:17:24.000Z"
-  },
-  {
-    "url": "https://www.grzegorowski.com/restic-backblaze-b2-backups",
-    "title": "Restic backups with Backblaze B2",
-    "description": "How to create Restic based backup using Backblaze B2 cloud storage as a backend. This tutorial was made on Mac OS X High Sierra with restic…",
-    "tags": [],
-    "saved": "2023-03-11T08:53:34.000Z"
-  },
-  {
-    "url": "https://medium.com/@denniswebb/fast-and-secure-backups-to-s3-with-restic-49fd07944304",
-    "title": "Fast and Secure Backups to S3 with Restic | by Dennis Webb | Medium",
-    "description": "We all know how important backups are, but even today we seldom have a reliable and secure backup solution. Some people have a small NAS device at home that they backup their data to, but how useful…",
-    "tags": [],
-    "saved": "2023-03-11T09:03:11.000Z"
-  },
-  {
-    "url": "https://modernfontstacks.com/",
-    "title": "Modern Font Stacks",
-    "description": "System font stack CSS organized by typeface classification for every modern OS. The fastest fonts available. No downloading, no layout shifts, no flashes — just instant renders.",
-    "tags": [],
-    "saved": "2023-03-14T21:32:30.000Z"
-  },
-  {
-    "url": "https://www.atlasofplaces.com/",
-    "title": "Atlas of Places",
-    "description": "Atlas of Places is a public educational collection of Academia, Architecture, Cartography, Cinema, Essays, Painting, Photography, Research.",
-    "tags": [],
-    "saved": "2023-03-27T16:07:36.000Z"
-  },
-  {
-    "url": "https://www.polywork.com/",
-    "title": "Polywork | The Collaboration Network",
-    "description": "Discover opportunities to collaborate with other professionals - speak on podcasts, beta-test new apps, partner on side projects, and more. You’ll never be bored again. Join today.",
-    "tags": [],
-    "saved": "2023-04-11T06:25:08.000Z"
-  },
-  {
     "url": "https://coolors.co/",
     "title": "Coolors - The super fast color palettes generator!",
     "description": "Generate or browse beautiful color combinations for your designs.",
-    "tags": [],
+    "tags": ["coding:frontend"],
     "saved": "2023-04-12T20:21:20.000Z"
   },
   {
@@ -1085,60 +420,11 @@
     "saved": "2023-04-16T04:02:02.000Z"
   },
   {
-    "url": "https://betterprogramming.pub/setting-up-your-mac-for-web-development-in-2020-659f5588b883#d118",
-    "title": "How to Set Up Your MacBook for Web Development in 2020 | by Vinicius De Antoni | Better Programming",
-    "description": "I recently switched jobs, and during the first few days on the new job, I had to setup a MacBook with all the tools required for me to do my job, web development. Although, I’ve used Macs for a long…",
-    "tags": ["tech"],
-    "saved": "2023-04-16T13:28:08.000Z"
-  },
-  {
-    "url": "https://github.com/hmml/awesome-zsh",
-    "title": "GitHub - hmml/awesome-zsh: ZSH is awesome, here&#x27;s why...",
-    "description": "ZSH is awesome, here's why... Contribute to hmml/awesome-zsh development by creating an account on GitHub.",
-    "tags": [],
-    "saved": "2023-04-16T17:05:37.000Z"
-  },
-  {
     "url": "https://devhints.io/",
     "title": "Devhints — TL;DR for developer documentation",
     "description": "A ridiculous collection of web development cheatsheets · One-page guide to",
-    "tags": ["tech"],
+    "tags": ["coding"],
     "saved": "2023-04-17T13:58:55.000Z"
-  },
-  {
-    "url": "https://www.usethehumanvoice.com/formats/",
-    "title": "https://www.usethehumanvoice.com/formats/",
-    "description": "",
-    "tags": ["blogging", "tech", "writing"],
-    "saved": "2023-04-18T05:46:30.000Z"
-  },
-  {
-    "url": "https://getpixelsnap.com/?ref=cleanshot",
-    "title": "PixelSnap 2 for Mac",
-    "description": "PixelSnap - The fastest tool for measuring anything on your screen for macOS. Measure stuff like a PRO!",
-    "tags": ["apps", "tech"],
-    "saved": "2023-04-20T06:39:09.000Z"
-  },
-  {
-    "url": "https://sipapp.io/",
-    "title": "Sip",
-    "description": "A better Color Picker for your Mac.",
-    "tags": ["apps", "tech"],
-    "saved": "2023-04-20T19:02:52.000Z"
-  },
-  {
-    "url": "https://gist.github.com/nifl/1178878",
-    "title": "Your problem with Vim is that you don&#x27;t grok vi. · GitHub",
-    "description": "Your problem with Vim is that you don't grok vi. GitHub Gist: instantly share code, notes, and snippets.",
-    "tags": ["tech"],
-    "saved": "2023-04-23T09:22:48.000Z"
-  },
-  {
-    "url": "https://usememos.com/",
-    "title": "memos - A lightweight, self-hosted memo hub. Open Source and Free forever",
-    "description": "A lightweight, self-hosted memo hub. Open Source and Free forever",
-    "tags": [],
-    "saved": "2023-04-23T15:26:10.000Z"
   },
   {
     "url": "https://brettterpstra.com/projects/snibbets/",
@@ -1585,7 +871,7 @@
     "url": "https://github.com/getify/You-Dont-Know-JS",
     "title": "GitHub - getify/You-Dont-Know-JS: A book series on JavaScript. @YDKJS on twitter.",
     "description": "A book series on JavaScript. @YDKJS on twitter. Contribute to getify/You-Dont-Know-JS development by creating an account on GitHub.",
-    "tags": ["coding", "javascript"],
+    "tags": ["coding", "coding:javascript"],
     "saved": "2023-07-20T20:56:35.000Z"
   },
   {
@@ -1669,7 +955,7 @@
     "url": "https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore",
     "title": "GitHub - you-dont-need/You-Dont-Need-Lodash-Underscore: List of JavaScript methods which you can use natively + ESLint Plugin",
     "description": "List of JavaScript methods which you can use natively + ESLint Plugin - GitHub - you-dont-need/You-Dont-Need-Lodash-Underscore: List of JavaScript methods which you can use natively + ESLint Plugin",
-    "tags": ["coding", "javascript"],
+    "tags": ["coding", "coding:javascript"],
     "saved": "2023-08-17T18:58:42.000Z"
   },
   {
@@ -1809,7 +1095,7 @@
     "url": "https://exploringjs.com/impatient-js/toc.html",
     "title": "JavaScript for impatient programmers (ES2022 edition)",
     "description": "",
-    "tags": ["coding", "javascript", "reference"],
+    "tags": ["coding", "coding:javascript", "reference"],
     "saved": "2023-08-24T12:17:39.000Z"
   },
   {
@@ -1837,7 +1123,7 @@
     "url": "https://bru6.de/jxa/",
     "title": "Scripting with JXA | JavaScript for Automation (JXA)",
     "description": "JavaScript for Automation (JXA) allows to automate tasks in macOS. Although it is a bit rough around the edges, it has advantages over AppleScript.",
-    "tags": ["automation", "javascript", "macos"],
+    "tags": ["automation", "coding", "coding:javascript", "macos"],
     "saved": "2023-08-24T21:21:42.000Z"
   },
   {
@@ -1865,7 +1151,7 @@
     "url": "http://superherojs.com/",
     "title": "Superhero.js",
     "description": "",
-    "tags": ["coding", "javascript", "reference"],
+    "tags": ["coding", "coding:javascript", "reference"],
     "saved": "2023-08-27T11:17:01.000Z"
   },
   {
@@ -1984,7 +1270,7 @@
     "url": "https://component-party.dev/",
     "title": "Component Party",
     "description": "Web component JS frameworks overview by their syntax and features: Svelte 4, React, Vue 3, Angular, Lit, Vue 2, Ember, SolidJS, Alpine, Mithril, Aurelia 2, Qwik, Marko, Aurelia 1, Svelte 5 (preview)",
-    "tags": ["coding", "javascript"],
+    "tags": ["coding", "coding:javascript"],
     "saved": "2023-09-22T07:06:41.000Z"
   },
   {
@@ -2404,29 +1690,8 @@
     "url": "https://departuremono.com/",
     "title": "Departure Mono",
     "description": "Departure Mono is a monospaced pixel font by Helena Zhang, licensed under the SIL OFL.",
-    "tags": [],
+    "tags": ["typography"],
     "saved": "2024-09-04T07:47:08.000Z"
-  },
-  {
-    "url": "https://innerfrench.com/",
-    "title": "innerFrench – Learn French through topics that matter.",
-    "description": "",
-    "tags": ["french"],
-    "saved": "2024-09-17T19:37:40.000Z"
-  },
-  {
-    "url": "https://apprendre.tv5monde.com/en/exercices/shamengo",
-    "title": "Access Denied",
-    "description": "",
-    "tags": ["french"],
-    "saved": "2024-09-17T20:05:22.000Z"
-  },
-  {
-    "url": "https://onethinginafrenchday.podbean.com/",
-    "title": "One Thing In A French Day | Laetitia Perraut",
-    "description": "A small slice of a Frenchwoman’s day -- in France and in French. A fun podcast to improve your French! On Mondays, Wednesdays and Fridays.",
-    "tags": ["french"],
-    "saved": "2024-09-17T20:07:47.000Z"
   },
   {
     "url": "https://francaisfacile.rfi.fr/fr/",
@@ -2436,60 +1701,11 @@
     "saved": "2024-09-17T20:55:05.000Z"
   },
   {
-    "url": "https://newsinfrench.org/",
-    "title": "The Daily Newsletter - News in French",
-    "description": "Start your day with a little français.  More than just a free email — it’s your daily dose of French, right in your inbox, every morning. Discover new Francophone music, learn new vocabulary, and get up to speed on the day’s most interesting stories — all en français. Sign up now and join 15,000+ students, […]",
-    "tags": ["french"],
-    "saved": "2024-09-17T21:36:34.000Z"
-  },
-  {
-    "url": "https://languatalk.com/blog/podcast/french/",
-    "title": "LanguaTalk Slow French: Learn French With Gaëlle | French podcast for A2 &amp; above",
-    "description": "Learn French with Gaëlle, an experienced French teacher. 99% in French and designed for basic level (A2) learners & above. Free interactive transcripts & vocab lists.",
-    "tags": ["french"],
-    "saved": "2024-10-05T15:02:46.000Z"
-  },
-  {
-    "url": "https://www.fluentu.com/blog/french/french-podcasts/?rfsn=85633.c2da#toc_3",
-    "title": "21 Excellent French Podcasts for Learners | FluentU Language Learning",
-    "description": "Try listening to some French podcasts if you are trying to improve your French listening, but are tired of the same old methods! This post will introduce you to 21 French podcasts you're guaranteed to love, from the beginner to the advanced level. So open your favorite podcast app and let's get listening!",
-    "tags": ["french"],
-    "saved": "2024-10-06T16:35:37.000Z"
-  },
-  {
-    "url": "https://greycoder.com/a-list-of-text-only-new-sites/",
-    "title": "A List Of Text-Only &amp; Minimalist News Sites - GreyCoder",
-    "description": "Here is a list of text-only and clutter-free news sites:",
-    "tags": [],
-    "saved": "2024-10-09T06:57:09.000Z"
-  },
-  {
     "url": "https://thecopenhagenbook.com/",
     "title": "The Copenhagen Book",
     "description": "A basic guideline on implementing auth for the web.",
-    "tags": ["coding"],
+    "tags": ["coding", "coding:security"],
     "saved": "2024-10-12T06:35:53.000Z"
-  },
-  {
-    "url": "https://francais.lingolia.com/en/",
-    "title": "Lingolia",
-    "description": "",
-    "tags": ["french"],
-    "saved": "2024-10-16T18:46:23.000Z"
-  },
-  {
-    "url": "https://www.linternaute.fr/dictionnaire/fr/",
-    "title": "Dictionnaire français : définitions faciles, synonymes, exemples",
-    "description": "Dictionnaire gratuit avec synonymes, contraires,",
-    "tags": ["french"],
-    "saved": "2024-10-17T10:47:57.000Z"
-  },
-  {
-    "url": "https://indigostack.app/",
-    "title": "IndigoStack | IndigoStack",
-    "description": "IndigoStack: the local dev environment you will love.",
-    "tags": ["coding"],
-    "saved": "2024-10-19T21:43:01.000Z"
   },
   {
     "url": "https://languageroadmap.com/",
@@ -2499,13 +1715,6 @@
     "saved": "2024-10-22T07:15:53.000Z"
   },
   {
-    "url": "https://www.linguno.com/practice/conjugations/drills/?lang=fra",
-    "title": "Linguno - French conjugation practice",
-    "description": "Practice French conjugations.",
-    "tags": ["french"],
-    "saved": "2024-10-22T09:33:30.000Z"
-  },
-  {
     "url": "https://www.netflix.com/gb/browse/genre/100378",
     "title": "French Movies &amp; TV Shows | Netflix Official Site",
     "description": "Romantic dramas, funny comedies, scary horror stories, action-packed thrillers – these movies and TV shows in French have something for fans of all genres.",
@@ -2513,60 +1722,11 @@
     "saved": "2024-10-26T13:01:49.000Z"
   },
   {
-    "url": "https://morpheem.org/fr",
-    "title": "Morpheem - For serious language learners",
-    "description": "",
-    "tags": ["french"],
-    "saved": "2024-10-27T21:32:22.000Z"
-  },
-  {
-    "url": "https://bui.interestingprojects.net/",
-    "title": "Beeminder UI",
-    "description": "Beeminder UI",
-    "tags": [],
-    "saved": "2024-10-30T09:47:08.000Z"
-  },
-  {
     "url": "https://apprendre.tv5monde.com/en",
-    "title": "Access Denied",
+    "title": "TV5Monde",
     "description": "",
     "tags": ["french"],
     "saved": "2024-11-01T08:31:28.000Z"
-  },
-  {
-    "url": "https://www.raconte.app/",
-    "title": "Raconte",
-    "description": "Learn real French naturally with native content. The best curated library for learning French with podcasts, youtube videos, news and more.",
-    "tags": ["french"],
-    "saved": "2024-11-01T20:22:17.000Z"
-  },
-  {
-    "url": "https://libguides.utsa.edu/c.php?g=1339348",
-    "title": "Getting Started - DEVONthink for Mac - LibGuides at University of Texas at San Antonio",
-    "description": "Tool for organizing, describing, searching, and linking text and multimedia documents",
-    "tags": [],
-    "saved": "2024-11-08T14:49:24.000Z"
-  },
-  {
-    "url": "https://blueskydirectory.com/",
-    "title": "The Ultimate Directory of tools and applications for Bluesky",
-    "description": "A curated collection of all things relating to the Blue Sky social media platform.",
-    "tags": [],
-    "saved": "2024-11-15T07:13:05.000Z"
-  },
-  {
-    "url": "https://stretchmytimeoff.com/",
-    "title": "Stretch My Time Off - Optimise Your Vacation Days",
-    "description": "Unlock the secret to extending your vacation by optimising your time off.",
-    "tags": [],
-    "saved": "2024-11-15T08:22:25.000Z"
-  },
-  {
-    "url": "https://www.theverge.com/24295933/bluesky-social-network-custom-how-to",
-    "title": "Here’s some cool stuff you can do with Bluesky - The Verge",
-    "description": "Bluesky offers a lot of unique features like algorithmic feeds and custom moderation that can make for a rich, in-control experience for users.",
-    "tags": [],
-    "saved": "2024-11-17T22:33:55.000Z"
   },
   {
     "url": "https://100daysofdante.com/",
@@ -2817,36 +1977,29 @@
     "url": "https://www.are.na/trudy-painter/cool-websites-yj6tfjbuhp8",
     "title": "📚 cool websites🕹 | Are.na",
     "description": "⭐️ https://gizmo.party/",
-    "tags": [],
+    "tags": ["inspiration:digital"],
     "saved": "2025-10-01T06:27:39.000Z"
   },
   {
     "url": "https://cargo.site/",
     "title": "Cargo",
     "description": "Site builder for designers and artists",
-    "tags": [],
+    "tags": ["coding", "inspiration:digital"],
     "saved": "2025-10-01T06:31:05.000Z"
   },
   {
     "url": "https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing",
     "title": "Wikipedia:Signs of AI writing - Wikipedia",
     "description": "",
-    "tags": [],
+    "tags": ["ai"],
     "saved": "2025-10-08T20:27:38.000Z"
   },
   {
     "url": "https://hacker-laws.com/#hofstadters-law",
     "title": "Hacker Laws",
     "description": "",
-    "tags": [],
+    "tags": ["misc"],
     "saved": "2025-10-10T07:24:07.000Z"
-  },
-  {
-    "url": "https://rameerez.com/free-newsletter-service/#listmonk-tutorial",
-    "title": "Try this free newsletter service (free Mailchimp alternative)",
-    "description": "Run your email marketing campaigns for free (or for really, really cheap), no matter the size of your newsletter.",
-    "tags": [],
-    "saved": "2025-10-10T09:58:57.000Z"
   },
   {
     "url": "https://www.halfaya.org/proust/translation",
@@ -2863,25 +2016,11 @@
     "saved": "2025-10-14T06:33:03.000Z"
   },
   {
-    "url": "https://news.ycombinator.com/item?id=45874987",
-    "title": "Vibe Code Warning – A personal casestudy | Hacker News",
-    "description": "",
-    "tags": [],
-    "saved": "2025-11-12T07:36:09.000Z"
-  },
-  {
     "url": "https://www.incommonwith.com/collections/table-lamps",
     "title": "In Common With | Table Lamps",
-    "description": "In Common With",
-    "tags": ["design", "tech", "websites"],
+    "description": "This is very clever web design",
+    "tags": ["inspiration:digital"],
     "saved": "2025-11-13T07:55:24.000Z"
-  },
-  {
-    "url": "https://vert.sh/",
-    "title": "VERT.sh",
-    "description": "With VERT you can quickly convert any image, video and audio file. No ads, no tracking, open source, and all processing (other than video) is done on your device.",
-    "tags": [],
-    "saved": "2025-11-17T11:24:26.000Z"
   },
   {
     "url": "https://leancrew.com/all-this/2025/07/savin-links-to-tot/",
@@ -2900,12 +2039,6 @@
     "title": "Switching Safari tabs from BBEdit - All this",
     "tags": ["text-editors"],
     "saved": "2025-11-23T12:00:00Z"
-  },
-  {
-    "url": "https://www.reddit.com/r/IpodClassic/comments/148nohs/podcasts_tab_not_appearing_in_ipod_page_in_macos/",
-    "title": "Podcasts tab not appearing in iPod page in MacOS Finder : r/IpodClassic",
-    "tags": ["tech"],
-    "saved": "2025-11-24T12:00:00Z"
   },
   {
     "url": "https://blip.net/",
@@ -2928,7 +2061,7 @@
   {
     "url": "https://practicaltypography.com/typography-in-ten-minutes.html",
     "title": "Typography in ten minutes | Butterick's Practical Typography",
-    "tags": ["design"],
+    "tags": ["typography"],
     "saved": "2025-12-11T12:00:00Z"
   },
   {
@@ -3016,12 +2149,6 @@
     "saved": "2026-03-01T12:02:00Z"
   },
   {
-    "url": "https://protocolcards.com/",
-    "title": "Protocol Cards — Evidence-backed Nervous System Regulation",
-    "tags": ["misc"],
-    "saved": "2026-03-01T12:03:00Z"
-  },
-  {
     "url": "https://engineering.udacity.com/mastering-forms-in-next-js-15-and-react-19-e3d2d783946b",
     "title": "Mastering forms in Next.js 15 and React 19 | by Kolby Sisk | Udacity Eng & Data",
     "tags": ["coding"],
@@ -3036,7 +2163,7 @@
   {
     "url": "https://world.hey.com/michelleharjani/building-hey-calendar-s-year-view-2e08d77d",
     "title": "Building HEY Calendar's Year View",
-    "tags": ["coding", "design"],
+    "tags": ["coding", "inspiration:digital"],
     "saved": "2026-03-03T12:01:00Z"
   },
   {
@@ -3048,7 +2175,7 @@
   {
     "url": "https://unsung.aresluna.org/mailbag-urls-as-ui/",
     "title": "Mailbag: URLs as UI – Unsung",
-    "tags": ["coding", "design"],
+    "tags": ["coding", "inspiration:digital"],
     "saved": "2026-03-03T12:03:00Z"
   },
   {
@@ -3085,7 +2212,7 @@
     "url": "https://sweetfont.com/",
     "title": "Sweetfont — The sweetest way to find Google Fonts",
     "description": "",
-    "tags": ["coding", "coding:frontend", "design"],
+    "tags": ["coding", "coding:frontend", "typography"],
     "saved": "2026-03-07T11:33:19Z"
   },
   {
