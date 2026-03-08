@@ -1522,14 +1522,14 @@
     "url": "https://github.com/rubocop/ruby-style-guide",
     "title": "GitHub - rubocop/ruby-style-guide: A community-driven Ruby coding style guide",
     "description": "A community-driven Ruby coding style guide. Contribute to rubocop/ruby-style-guide development by creating an account on GitHub.",
-    "tags": ["coding", "ruby", "tech"],
+    "tags": ["coding", "coding:ruby", "tech"],
     "saved": "2023-04-26T21:02:36.000Z"
   },
   {
     "url": "https://learnrubythehardway.org/book/",
     "title": "Learn Ruby the Hard Way - Read for Free",
     "description": "",
-    "tags": ["coding", "ruby"],
+    "tags": ["coding", "coding:ruby"],
     "saved": "2023-04-26T21:26:36.000Z"
   },
   {
@@ -1543,35 +1543,35 @@
     "url": "https://www.akshaykhot.com/ruby-switch-statement/",
     "title": "Ruby&#x27;s Switch Statement is More Flexible Than You Thought",
     "description": "Ruby's switch statement is very versatile and flexible, especially due to the dynamic nature of Ruby. This post shows how it works with examples.",
-    "tags": ["coding", "ruby"],
+    "tags": ["coding", "coding:ruby"],
     "saved": "2023-04-28T06:50:00.000Z"
   },
   {
     "url": "https://sinatrarb.com/intro.html?ref=akshaykhot.com",
     "title": "Sinatra: README",
     "description": "",
-    "tags": ["coding", "ruby"],
+    "tags": ["coding", "coding:ruby"],
     "saved": "2023-04-28T07:36:18.000Z"
   },
   {
     "url": "https://mac.install.guide/ruby/index.html",
     "title": "Install Ruby 3.1 · Mac · Complete Guide · 2022",
     "description": "Install Ruby Mac (M1 or Intel). How to install Ruby 3.1 on macOS Monterey. A complete guide with FAQ from the author of the book, Learn Ruby on Rails.",
-    "tags": ["coding", "ruby", "tech"],
+    "tags": ["coding", "coding:ruby", "tech"],
     "saved": "2023-04-28T10:43:40.000Z"
   },
   {
     "url": "https://github.com/airbnb/ruby",
     "title": "GitHub - airbnb/ruby: Ruby Style Guide",
     "description": "Ruby Style Guide. Contribute to airbnb/ruby development by creating an account on GitHub.",
-    "tags": ["coding", "ruby"],
+    "tags": ["coding", "coding:ruby"],
     "saved": "2023-04-28T19:53:11.000Z"
   },
   {
     "url": "https://rubystyle.guide/",
     "title": "Ruby Style Guide",
     "description": "",
-    "tags": ["coding", "ruby"],
+    "tags": ["coding", "coding:ruby"],
     "saved": "2023-04-29T12:54:03.000Z"
   },
   {
@@ -1592,14 +1592,14 @@
     "url": "https://www.rubykoans.com/",
     "title": "Learn Ruby with the Edgecase Ruby Koans",
     "description": "Learn Ruby with the Edgecase Ruby Koans",
-    "tags": ["coding", "ruby"],
+    "tags": ["coding", "coding:ruby"],
     "saved": "2023-05-02T10:35:17.000Z"
   },
   {
     "url": "https://overapi.com/ruby",
     "title": "Ruby Cheat Sheet | OverAPI.com",
     "description": "OverAPI.com is a site collecting all the cheatsheets,all!",
-    "tags": ["coding", "ruby"],
+    "tags": ["coding", "coding:ruby"],
     "saved": "2023-05-02T10:36:26.000Z"
   },
   {
@@ -1613,15 +1613,8 @@
     "url": "https://www.hackerrank.com/domains/ruby?filters%5Bsubdomains%5D%5B%5D=ruby-tutorials",
     "title": "Solve Ruby | HackerRank",
     "description": "Join over 16 million developers in solving code challenges on HackerRank, one of the best ways to prepare for programming interviews.",
-    "tags": ["coding", "ruby"],
+    "tags": ["coding", "coding:ruby"],
     "saved": "2023-05-02T10:44:25.000Z"
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=1uMcjCmCdPo&t=146s",
-    "title": "Makers - Code Accelerator - Largest 5 digit number in series (30/04/20) - YouTube",
-    "description": "This recording is the demonstration part of a Code Accelerator workshop.Aimed at those at the beginning of their journey learning to program, these workshops...",
-    "tags": ["bootcamp", "coding", "ruby"],
-    "saved": "2023-05-03T09:53:01.000Z"
   },
   {
     "url": "https://twitter.com/Doug_Tilley/status/1650517041797910530/mediaViewer?currentTweet=1650517041797910530¤tTweetUser=Doug_Tilley",
@@ -1760,7 +1753,7 @@
     "url": "https://dev.to/nezirzahirovic/10-useful-ruby-one-liners-examples-and-descriptions-5a9c",
     "title": "10 Useful Ruby One-Liners: Examples and Descriptions - DEV Community",
     "description": "Introduction:  Ruby is a powerful and elegant programming language known for its readability and... Tagged with ruby, code, onliners, rails.",
-    "tags": ["coding", "ruby"],
+    "tags": ["coding", "coding:ruby"],
     "saved": "2023-05-28T08:17:08.000Z"
   },
   {
@@ -1774,7 +1767,7 @@
     "url": "https://github.com/piotrmurach/tty",
     "title": "GitHub - piotrmurach/tty: Toolkit for developing sleek command line apps.",
     "description": "Toolkit for developing sleek command line apps. Contribute to piotrmurach/tty development by creating an account on GitHub.",
-    "tags": ["coding", "ruby"],
+    "tags": ["coding", "coding:ruby"],
     "saved": "2023-05-29T06:42:26.000Z"
   },
   {
@@ -2035,13 +2028,6 @@
     "description": "Powerful macOS menu bar customization tool. Contribute to swiftbar/SwiftBar development by creating an account on GitHub.",
     "tags": ["apps"],
     "saved": "2023-08-17T05:48:45.000Z"
-  },
-  {
-    "url": "https://dev.to/ashutoshmishra/5-best-full-stack-communities-to-join-in-2023-47be",
-    "title": "5 Best Full Stack Communities to Join in 2023 - DEV Community",
-    "description": "Becoming a Full Stack Developer is a great career option in 2022. However, the path is long and could... Tagged with webdev, beginners, programming, community.",
-    "tags": ["coding", "communities"],
-    "saved": "2023-08-17T16:05:21.000Z"
   },
   {
     "url": "https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore",
@@ -2341,7 +2327,7 @@
     "url": "https://github.com/Kallaway/100-days-of-code",
     "title": "GitHub - kallaway/100-days-of-code: Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available)",
     "description": "Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available) - GitHub - kallaway/100-days-of-code: Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available)",
-    "tags": ["challenges", "coding", "projects"],
+    "tags": ["coding", "coding:challenges", "projects"],
     "saved": "2023-09-04T07:22:24.000Z"
   },
   {
