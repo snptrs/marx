@@ -1711,5 +1711,12 @@
     "description": "Modern notes manager for macOS/iOS",
     "tags": ["apps"],
     "saved": "2026-03-12T08:00:23.369Z"
+  },
+  {
+    "url": "https://github.com/rhsev/matterbase?tab=readme-ov-file",
+    "title": "rhsev/matterbase: A database-like TUI for querying frontmatter and YAML in Markdown notes with field filters, full-text search, and table view. For macOS and Linux.",
+    "description": "A database-like TUI for querying frontmatter and YAML in Markdown notes with field filters, full-text search, and table view. For macOS and Linux. - rhsev/matterbase",
+    "tags": ["apps"],
+    "saved": "2026-03-13T18:30:26.210Z"
   }
 ]
