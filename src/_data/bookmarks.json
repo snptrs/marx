@@ -1718,5 +1718,12 @@
     "description": "A database-like TUI for querying frontmatter and YAML in Markdown notes with field filters, full-text search, and table view. For macOS and Linux. - rhsev/matterbase",
     "tags": ["apps"],
     "saved": "2026-03-13T18:30:26.210Z"
+  },
+  {
+    "url": "https://www.parseword.com/",
+    "title": "Parseword - A tricky wordplay game",
+    "description": "Parseword - A tricky wordplay game. Transform phrases through wordplay to solve cryptic crossword puzzles.",
+    "tags": ["crosswords"],
+    "saved": "2026-03-14T17:06:28.723Z"
   }
 ]
