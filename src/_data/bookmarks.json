@@ -1739,5 +1739,12 @@
     "description": "Sam Henri Gold is a product design engineer building playful, useful software at Tavus. Previously at Lickability.",
     "tags": ["article"],
     "saved": "2026-03-16T18:09:53.340Z"
+  },
+  {
+    "url": "https://tanstack.com/query/v5/docs/framework/react/examples/optimistic-updates-ui",
+    "title": "React TanStack Query Optimistic Updates Ui Example | TanStack Query Docs",
+    "description": "An example showing how to implement Optimistic Updates Ui in React using TanStack Query.",
+    "tags": ["article"],
+    "saved": "2026-03-17T14:42:06.260Z"
   }
 ]
