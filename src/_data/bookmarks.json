@@ -1767,5 +1767,12 @@
     "description": "",
     "tags": ["writing"],
     "saved": "2026-03-23T17:59:06.209Z"
+  },
+  {
+    "url": "https://github.com/finnvoor/yap",
+    "title": "finnvoor/yap: 🗣️ A CLI for on-device speech transcription using Speech.framework on macOS 26",
+    "description": "",
+    "tags": ["macos"],
+    "saved": "2026-03-24T13:44:17.431Z"
   }
 ]
