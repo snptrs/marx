@@ -2,8 +2,8 @@
 
 ## Build & Dev
 
-- **Build:** `npm run build` (runs Eleventy, outputs to `_site/`)
-- **Dev server:** `npm run serve` (Eleventy with live reload)
+- **Build:** `pnpm run build` (runs Eleventy, outputs to `_site/`)
+- **Dev server:** `pnpm run serve` (Eleventy with live reload)
 - **No test framework configured.**
 
 ## Architecture
