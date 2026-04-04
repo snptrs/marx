@@ -1781,5 +1781,12 @@
     "description": "Solve a clue with a hidden meaning",
     "tags": ["crosswords"],
     "saved": "2026-04-04T09:51:14.793Z"
+  },
+  {
+    "url": "https://www.threads.com/@boris_cherny/post/DTBVlMIkpcm/im-boris-and-i-created-claude-code-lots-of-people-have-asked-how-i-use-claude",
+    "title": "I'm Boris and I created Claude Code. Lots of people have asked how I use Claude Code, so I wanted to show off my setup a bit. My setup might be surprisingly vanilla! Claude Code works great out of the box, so I personally don't customize it much. There is no one correct way to use Claude Code: we intentionally build it in a way that you can use it, customize it, and hack it however you like. Each person on the Claude Code team uses it very differently. So, here goes.",
+    "description": "I'm Boris and I created Claude Code. Lots of people have asked how I use Claude Code, so I wanted to show off my setup a bit.\n\nMy setup might be...",
+    "tags": ["coding"],
+    "saved": "2026-04-04T16:24:43.804Z"
   }
 ]
