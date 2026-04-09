@@ -1816,5 +1816,12 @@
     "description": "",
     "tags": ["tech"],
     "saved": "2026-04-07T20:25:15.049Z"
+  },
+  {
+    "url": "https://openscreen.vercel.app/",
+    "title": "Open Screen",
+    "description": "Open source alternative to screen studio",
+    "tags": ["apps"],
+    "saved": "2026-04-09T07:17:37.519Z"
   }
 ]
